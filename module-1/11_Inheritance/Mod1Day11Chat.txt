@@ -1,0 +1,42 @@
+08:58:27 From  David Siebold (He/Him)  to  Everyone:
+	Morning all!
+08:58:40 From  Ryan Goodchild  to  Everyone:
+	good morning David
+08:58:53 From  Rigel Richardson  to  Everyone:
+	there can be only one
+09:28:26 From  Sam Stauffer  to  Everyone:
+	1000 points!
+09:45:22 From  Levi Wolfe  to  Everyone:
+	Is it because youre never going to be calling just someones last name? Youll only ever return their full or first name?
+09:46:10 From  Rigel Richardson  to  Everyone:
+	That would be a good reason if your application doesn't need a partial. Don't give them the option. I can also think of, if it were a situation where that information should remain inaccessible. Like return FN, but hide LN
+09:47:29 From  Margaret Green (she/her)  to  Everyone:
+	https://docs.google.com/document/d/1W2mnolGQyKgQzvjfFowP1pbvhE4hgIEhSZ7str3IYDA/edit?usp=sharing
+10:23:02 From  Levi Wolfe  to  Everyone:
+	Narrator: "They'll all be working on vending machines afterward"
+10:23:03 From  Sam Stauffer  to  Everyone:
+	I'm going to be working on aliens.
+10:23:12 From  Dan Schnelzer  to  Everyone:
+	haha
+10:23:19 From  Gabe Humphreys  to  Everyone:
+	haha
+10:23:48 From  Gabe Humphreys  to  Everyone:
+	Too much Arrested Development for Levi
+10:23:55 From  Levi Wolfe  to  Everyone:
+	hahah
+10:25:14 From  Rebecca Palmore  to  Everyone:
+	The review sessions are super helpful for talking about these concepts, too.
+10:27:37 From  Alida Smith  to  Everyone:
+	that's assuring.
+10:40:30 From  Rigel Richardson  to  Everyone:
+	public class Meek extends World
+10:40:38 From  Rigel Richardson  to  Everyone:
+	(Earth)
+10:40:58 From  Ryan Goodchild  to  Everyone:
+	nice one lol
+11:07:53 From  Rigel Richardson  to  Everyone:
+	Like, public Truck(){	      super();	}		two defaults, no assignments
+11:40:26 From  Levi Wolfe  to  Everyone:
+	only if his bid is for a Higher Love
+12:14:26 From  Derrique  to  Everyone:
+	I’ll see you then!

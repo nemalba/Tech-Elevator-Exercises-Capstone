@@ -1,0 +1,98 @@
+09:00:01 From Ryan Goodchild To Everyone:
+	Refactoring the curriculum?
+09:00:15 From Gabe Humphreys To Everyone:
+	What were the typos?
+09:00:46 From Daniel Blackman To Everyone:
+	String curriculumChanges = "Hi it's me again " + changeNeeded
+09:00:59 From Ryan Goodchild To Everyone:
+	hah!
+09:10:29 From Gabe Humphreys To Everyone:
+	I like how Margaret is scattering the Key-Value pairs all over the screen to drive home its unorderedness
+09:21:44 From Alida Smith To Everyone:
+	im weird. the peterpaul were the easy ones to me.
+09:22:06 From Rigel Richardson To Everyone:
+	That's great!
+09:23:02 From Alida Smith To Everyone:
+	Thanks Rigel. ❤️
+09:23:30 From Gabe Humphreys To Everyone:
+	Even the messed-up integer math resulting in a value unequal to what the test case was checking for?
+09:23:58 From Tyler Moloney To Everyone:
+	ha gabe! true!
+09:24:33 From Tyler Moloney To Everyone:
+	I made an integer called roundingError that = 1 if money % 2 != 0
+09:24:51 From Gabe Humphreys To Everyone:
+	I had to do something similar
+09:25:03 From Alida Smith To Everyone:
+	I definitely had to check what the test was looking for.  then casted.
+09:26:01 From Alida Smith To Everyone:
+	those tests were screwing. the nulls took me out.
+09:26:15 From Alida Smith To Everyone:
+	**screwy
+09:35:30 From Levi Wolfe To Everyone:
+	Gabe same here! I eventually just got frustrated and added an initial if that check for modulo 2 and if not I added one to the result and that fixed it haha
+09:36:01 From Tyler Moloney To Everyone:
+	"are you sure this test didn't pass?"
+09:36:06 From Alida Smith To Everyone:
+	🤣🤣🤣
+09:36:36 From Odgerel Jamsranjav To Everyone:
+	IntelliJ : Yes.I'm sure
+09:36:48 From Rebecca Palmore To Everyone:
+	LOL
+09:43:50 From Sam Stauffer To Everyone:
+	But if it's on the internet it has to be true!
+10:13:03 From Tyler Moloney To Everyone:
+	big shout outs to the debugger
+10:23:26 From Rigel Richardson To Everyone:
+	after 100 tabs in chrome, the count is just an excited face		:D
+10:23:49 From David Siebold (He/Him) To Everyone:
+	100 tabs! 😅
+10:25:58 From Sam Stauffer To Everyone:
+	I just checked mine, sitting at 37.
+10:26:40 From David Siebold (He/Him) To Everyone:
+	😲 I get agitated if I'm approaching 10.
+10:28:55 From Sam Stauffer To Everyone:
+	Grouping tabs is a lifesaver/ enabler.
+10:44:51 From Sam Stauffer To Everyone:
+	bless you?
+10:45:55 From Alida Smith To Everyone:
+	I think cause the return is in the getter, it looks like a setter. this would have confused me later
+10:46:17 From Alida Smith To Everyone:
+	wait...did I say that backwards
+10:46:21 From Levi Wolfe To Everyone:
+	i think of set as setting something equal to
+10:46:40 From Tyler Moloney To Everyone:
+	getters return. you're right alida
+10:46:42 From Gabe Humphreys To Everyone:
+	Ashley, the order in which the getters and setters are recorded inside the class does not matter, but the order in which they are called by some other program or method may matter a lot
+10:47:29 From Alida Smith To Everyone:
+	so good practice is setter than getter
+10:52:21 From Levi Wolfe To Everyone:
+	Alida, like Margaret mentioned, this is all just creating a template for our project well write. So order isn't all that important as long as they exist and can be referenced
+11:07:23 From Alida Smith To Everyone:
+	thanks Levi
+11:07:39 From Levi Wolfe To Everyone:
+	👍
+11:08:09 From Sam Stauffer To Everyone:
+	10 pushups every break!
+11:23:15 From Gabe Humphreys To Everyone:
+	Good practice Sam! Physical activity has been shown to enhance creating new memories
+11:25:00 From Rebecca Palmore To Everyone:
+	Whoops. I misread as “10 cookies.”
+11:25:12 From Gabe Humphreys To Everyone:
+	haha!
+11:25:32 From Levi Wolfe To Everyone:
+	hahah
+11:26:14 From Sam Stauffer To Everyone:
+	1  cookie between each pushup.
+11:26:34 From Rebecca Palmore To Everyone:
+	Hmm. Last and final offer?
+11:26:48 From Sam Stauffer To Everyone:
+	oh, merely a suggestion.
+11:32:09 From Sam Stauffer To Everyone:
+	Gabe I appreciate the extra comments and questions.  Always nice to hear things a slightly different way.
+11:34:32 From Rigel Richardson To Everyone:
+	Yes! I hope no one thinks they speak too much. Every thought and question is valuable! 		Margaret is sure to pull us aside if not. :)
+11:51:39 From Gabe Humphreys To Everyone:
+	👍
+11:55:01 From Levi Wolfe To Everyone:
+	the chemE in me really appreciates the molecular modeling examples

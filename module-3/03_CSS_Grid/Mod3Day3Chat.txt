@@ -1,0 +1,96 @@
+09:00:34 From  Daniel Blackman (He/Him)  to  Everyone:
+	Good morning!
+09:02:31 From  Rigel Richardson  to  Everyone:
+	We're okay 😁
+09:04:52 From  Rigel Richardson  to  Everyone:
+	It was fun!
+09:24:54 From  Sam Stauffer  to  Everyone:
+	I only need rebeccaPurple
+09:25:37 From  Rebecca Palmore  to  Everyone:
+	LOL
+09:26:32 From  Daniel Blackman (He/Him)  to  Everyone:
+	display as inline block?
+09:34:03 From  Rebecca Palmore  to  Everyone:
+	I love me some nit pick!
+09:38:00 From  Katie Dwyer  to  Margaret Green (she/her)(Direct Message):
+	I think you might needt o make the display inline-block
+09:44:59 From  David Siebold  to  Everyone:
+	No amount of help is going to save me from being bad at math. :)
+09:48:43 From  Levi Wolfe  to  Everyone:
+	are the dimensions being backward bothering anyone else? haha
+09:49:30 From  Rigel Richardson  to  Everyone:
+	YES
+09:49:44 From  Rigel Richardson  to  Everyone:
+	haha
+10:28:31 From  Gabe Humphreys  to  Everyone:
+	"fail gracefully"
+10:33:32 From  Rebecca Palmore  to  Everyone:
+	Great question
+10:39:40 From  David Siebold  to  Everyone:
+	If today's exercises are too hard, I'm turning the whole thing rebeccapurple on a yellow background.
+10:39:52 From  Emily Marshall  to  Everyone:
+	Solid plan
+10:40:13 From  David Siebold  to  Everyone:
+	Who's to say that I didn't complete it correctly if no one can read it?
+10:41:38 From  Daniel Blackman (He/Him)  to  Everyone:
+	grid-template-color: "rebeccaPurple rebeccaPurple rebeccaPurple"
+10:43:56 From  Rebecca Palmore  to  Everyone:
+	Those carrots are the cutest.
+10:44:10 From  Ashley Hoffmann  to  Everyone:
+	They are super cute!!
+10:44:20 From  Sam Stauffer  to  Everyone:
+	I think with this website I may actually be able to garden without killing the veggies.
+10:45:08 From  Emily Marshall  to  Everyone:
+	I just got too excited about how that water moved over lol
+10:45:22 From  Dan Schnelzer  to  Everyone:
+	haha
+10:45:46 From  Sam Stauffer  to  Everyone:
+	#winning.
+10:46:56 From  Rebecca Palmore  to  Everyone:
+	Hello sandwich!
+10:47:51 From  Ashley Hoffmann  to  Everyone:
+	I love sandwiches.
+10:48:12 From  Rebecca Palmore  to  Everyone:
+	Me too! Favorite food.
+10:48:34 From  Sam Stauffer  to  Everyone:
+	The penitent man may pass.
+10:49:49 From  Daniel Blackman (He/Him)  to  Everyone:
+	Just as with CSS style choices... you must choose... wisely
+10:50:08 From  Rebecca Palmore  to  Everyone:
+	Emily that’s happened to me a lot too. Not sure why.
+10:50:11 From  Sam Stauffer  to  Everyone:
+	I hope I don't choose... poorly.
+10:50:44 From  Emily Marshall  to  Everyone:
+	lol
+10:54:02 From  Sam Stauffer  to  Everyone:
+	Seeing margaretts pixel count makes me a little jealous.
+11:26:36 From  Dan Schnelzer  to  Everyone:
+	that's it, im getting me a sammich for lunch now
+11:39:09 From  Rebecca Palmore  to  Everyone:
+	That burger image is creeping me out a little.
+11:45:10 From  Tyler Moloney  to  Everyone:
+	no mic here
+11:48:19 From  Tyler Moloney  to  Everyone:
+	take off the a
+11:50:58 From  Rebecca Palmore  to  Everyone:
+	It literally made me sick!
+11:51:00 From  Daniel Blackman (He/Him)  to  Everyone:
+	so many tears
+11:51:04 From  Ryan Goodchild  to  Everyone:
+	It hurts less when all of our projects break together
+11:51:08 From  David Siebold  to  Everyone:
+	I'm going to cry from the start to get it out of the way.
+11:51:25 From  Odgerel Jamsranjav  to  Everyone:
+	😄
+11:51:26 From  Sam Stauffer  to  Everyone:
+	she definitely tried to break things.
+11:51:32 From  Rebecca Palmore  to  Everyone:
+	She used the words “great work” like 100 times.
+11:51:39 From  Rebecca Palmore  to  Everyone:
+	So not much to worry about, people!
+11:51:43 From  Gabe Humphreys  to  Everyone:
+	"There's no crying in software development!"
+11:51:53 From  Ryan Goodchild  to  Everyone:
+	Oh Gabe I've been doing it wrong then
+11:52:02 From  Daniel Blackman (He/Him)  to  Everyone:
+	can't spell tears without TE (It's going to be fine everyone!)

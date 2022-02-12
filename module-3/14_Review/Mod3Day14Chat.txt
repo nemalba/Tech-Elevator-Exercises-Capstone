@@ -1,0 +1,98 @@
+09:01:22 From  David Siebold  to  Everyone:
+	I love those persistent, unproductive coughs that linger forever. Get 'em every time I'm sick.
+09:13:34 From  David Siebold  to  Everyone:
+	Gets paid by lines of code written: immediately drops OOP principals.
+09:13:42 From  David Siebold  to  Everyone:
+	*principles
+09:22:41 From  Dan Schnelzer  to  Everyone:
+	very interesting in class when it works, when in hw and nothing happens, interesting is not the word I would use to describe it
+09:23:03 From  Gabe Humphreys  to  Everyone:
+	^
+09:25:43 From  David Siebold  to  Everyone:
+	That's when I add a million console.logs to figure out where the error is.
+09:26:33 From  David Siebold  to  Everyone:
+	I have to be careful to remove those logs because sometimes the messages I write to myself are... unproductive.
+09:33:17 From  Alida Smith  to  Everyone:
+	So anything below 2.0 means we have to do TE again???
+09:34:10 From  Dan Schnelzer  to  Everyone:
+	is there like a 50% off the second time you buy a TE cohort?
+10:01:13 From  Sam Stauffer  to  Everyone:
+	I tried vue.create and will now forever second guess myself.
+10:22:34 From  Gabe Humphreys  to  Everyone:
+	comic sans everywhere
+10:23:46 From  Rigel Richardson  to  Everyone:
+	Or the unholy union: Comic Papyrus
+10:24:24 From  Rebecca Palmore  to  Everyone:
+	Same here Levi
+10:27:43 From  Rigel Richardson  to  Everyone:
+	Almost switched tracks there to build a Meatloaf memorial page
+10:27:48 From  Levi Wolfe  to  Everyone:
+	RIP
+10:28:04 From  Levi Wolfe  to  Everyone:
+	Robert Pulson forever
+10:28:12 From  Sam Stauffer  to  Everyone:
+	I'll get right on the meatloaf memorial page.
+10:28:16 From  Rigel Richardson  to  Everyone:
+	We would do anything for math
+10:28:21 From  Levi Wolfe  to  Everyone:
+	Or should I say "His name was Robert pulson"
+10:28:22 From  Levi Wolfe  to  Everyone:
+	hahah
+10:28:29 From  Gabe Humphreys  to  Everyone:
+	lol
+10:35:13 From  Levi Wolfe  to  Everyone:
+	Like Army Hammer, you call it by its name
+10:38:39 From  Sam Stauffer  to  Everyone:
+	This is my kind of site now.
+10:41:38 From  Levi Wolfe  to  Everyone:
+	did anyones elses import on their own into the compents and the script?
+10:41:43 From  Tyler Moloney  to  Everyone:
+	yep
+11:32:25 From  David Siebold  to  Everyone:
+	Definitely not on every assignment. Nope.
+11:32:34 From  Alida Smith  to  Everyone:
+	lol
+11:32:38 From  Dan Schnelzer  to  Everyone:
+	I live at this point
+11:32:46 From  Sam Stauffer  to  Everyone:
+	I haven't hit a single problem yet.
+11:32:55 From  Sam Stauffer  to  Everyone:
+	I also haven't started any homework yet.
+11:33:02 From  Levi Wolfe  to  Everyone:
+	haha same sam
+11:33:09 From  Alida Smith  to  Everyone:
+	^^^^
+11:33:18 From  David Siebold  to  Everyone:
+	That's the cosmic brain solution. Can't get any of the homework wrong if you just don't do it.
+11:35:46 From  Sam Stauffer  to  Everyone:
+	I think she is figuring out why we doesn't get the homework quickly.  We don't catch her "errors"
+11:44:09 From  David Siebold  to  Everyone:
+	Why not both?
+11:50:34 From  Levi Wolfe  to  Everyone:
+	Rebecca my problem wont regenerate, why is yours "kinda" working? haha
+11:51:07 From  Tyler Moloney  to  Everyone:
+	double check your increase_current_problem commit is outside of the if block?
+11:51:11 From  Rebecca Palmore  to  Everyone:
+	Mine was a spelling error!
+11:51:15 From  Rebecca Palmore  to  Everyone:
+	It’s working now.
+11:51:33 From  Rebecca Palmore  to  Everyone:
+	I wrote “score” instead of "store."
+11:53:17 From  Tyler Moloney  to  Everyone:
+	otherwise you won't get the next problem unless you're correct
+11:54:39 From  Levi Wolfe  to  Everyone:
+	Im an idiot. I don't think I saved haha it works
+11:57:06 From  Emily Marshall  to  Everyone:
+	He mentioned it!
+11:58:08 From  Ryan Goodchild  to  Everyone:
+	can we find jobs in the $store?
+11:58:34 From  Rebecca Palmore  to  Everyone:
+	Only if you’re willing to mutate.
+11:58:47 From  Tyler Moloney  to  Everyone:
+	profound
+11:58:51 From  David Siebold  to  Everyone:
+	Whenever I check, $store.state.currentJobs it keeps returning undefined. :(
+12:01:26 From  Tyler Moloney  to  Everyone:
+	just double checking there wasn't anything assigned today? the homework discussion was for the last two days?
+12:01:43 From  Tyler Moloney  to  Everyone:
+	thanks! have a good weekend all!

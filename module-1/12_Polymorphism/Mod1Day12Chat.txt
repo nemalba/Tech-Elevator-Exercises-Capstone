@@ -1,0 +1,134 @@
+08:50:00 From David Siebold (He/Him) To Everyone:
+	Morning!
+09:00:10 From Rigel Richardson To Everyone:
+	Smith! Who's the pup?
+09:00:28 From David Siebold (He/Him) To Everyone:
+	Now I'm scrolling through camera for dogs.
+09:00:47 From Smith Johnson To Everyone:
+	Girlfriends dog, his name is Gus!
+09:00:56 From Rigel Richardson To Everyone:
+	Hello and Goodbye Gus! <3
+09:06:05 From Tyler Moloney To Everyone:
+	looks like Rigel's up there at 7 already!
+09:06:13 From Rigel Richardson To Everyone:
+	:)
+09:06:13 From David Siebold (He/Him) To Everyone:
+	Right? Making us all look bad!
+09:06:26 From David Siebold (He/Him) To Everyone:
+	Or making class Green look good?
+09:06:27 From Rigel Richardson To Everyone:
+	I just did a lot of baby problems to level up fast!
+09:06:45 From Tyler Moloney To Everyone:
+	go green :)
+09:06:47 From David Siebold (He/Him) To Everyone:
+	Yeah, I did mostly 8's too but there was a 6 that captured my imagination and I went all the way through it.
+09:08:22 From David Siebold (He/Him) To Everyone:
+	It also takes away all the excellent help that IntelliJ gives you. Found that challenging at first.
+09:11:03 From Nema Aragones To Everyone:
+	Codewars is like HackerRank?
+09:11:31 From Ryan Goodchild To Everyone:
+	I think so Nema, I haven't done it but Andy said it was similar at the bottom of his post
+09:13:54 From Sam Stauffer To Everyone:
+	I don't know if anyone else was in part of the comcast outage, sorry I'm late!
+09:14:06 From Rebecca To Everyone:
+	Um yes!!! I just connected via phone.
+09:14:37 From Sam Stauffer To Everyone:
+	yea my phone is downloading slack now...
+09:15:24 From Gabe Humphreys To Everyone:
+	My Xfinity was down until 8:50, and news reports show it still down for many
+09:16:26 From Sam Stauffer To Everyone:
+	mine went down at 7:05. intermittent until 7:15, then down until 8:10ish
+09:17:33 From Rebecca To Everyone:
+	Yeah I was online this morning until about 7 a.m. and then couldn't get back on.
+09:34:00 From Sam Stauffer To Everyone:
+	I didn't get to do my daily pulse.  I am curious as to what constructor we need to make for the children classes.
+09:35:05 From Dan Schnelzer To Everyone:
+	child class needs to have same parameters as parent I believe
+09:35:17 From nick schultz To Everyone:
+	Sorry I woke up 5 min before class! Still half asleep
+09:35:37 From Sam Stauffer To Everyone:
+	so if 2 constructors in parent, 2 in child no matter what?
+09:36:03 From Dan Schnelzer To Everyone:
+	you can add more but Need to have the same as the parent at least
+09:51:43 From Emily Wurzler To Everyone:
+	That's what happened to me, Margaret! I have no internet at home and had to run to a coffee shop
+09:59:31 From Alida Smith To Everyone:
+	Nema 👍
+10:02:32 From Sam Stauffer To Everyone:
+	they started with only books.
+10:03:48 From Rigel Richardson To Everyone:
+	[unrelated to coding] plug for bookshop.org. -- Buy direct from publishers and small bookstores, and even your local stores!
+10:04:31 From Levi Wolfe To Everyone:
+	ohhh good to know, Rigel!
+10:04:47 From Levi Wolfe To Everyone:
+	As you can probably tell from behind me, my wife buys ALL OF THE BOOKS!
+10:05:28 From Rigel Richardson To Everyone:
+	It's hard to tell from a distance, but at least one of the shelves behind me is 'we MAKE all of the books!'
+10:25:58 From Gabe Humphreys To Everyone:
+	haha
+10:31:30 From Rebecca Palmore To Everyone:
+	Nice voice!
+10:31:51 From Sam Stauffer To Everyone:
+	who knew we were getting serenaded today!?
+10:32:06 From Nema Aragones To Everyone:
+	lol
+10:33:38 From Levi Wolfe To Everyone:
+	Interface time!
+10:56:14 From Gabe Humphreys To Everyone:
+	That's why System.in is a Scanner Interface
+10:56:32 From Rigel Richardson To Everyone:
+	And Lists!
+10:57:08 From Tyler Moloney To Everyone:
+	crunch
+10:57:10 From Ryan Goodchild To Everyone:
+	have to ask Newton
+10:57:18 From Rigel Richardson To Everyone:
+	or *Cold-pressed*
+10:57:25 From Rebecca Palmore To Everyone:
+	I though the only dealt in figs
+11:00:29 From Tyler Moloney To Everyone:
+	not me!
+11:02:10 From Dan Schnelzer To Everyone:
+	BigDecimal sounds like a rapper
+11:29:57 From Levi Wolfe To Everyone:
+	Fun fact: (Tyler probably knows this) Sedona is the only place in the world with non golden golden arches
+11:30:17 From Tyler Moloney To Everyone:
+	Drove by it every day to my first job
+11:30:30 From Levi Wolfe To Everyone:
+	Nice! the one on 81A?
+11:30:36 From Levi Wolfe To Everyone:
+	88?
+11:30:37 From Alida Smith To Everyone:
+	what color are they
+11:30:39 From Tyler Moloney To Everyone:
+	89
+11:30:41 From Tyler Moloney To Everyone:
+	turquoise
+11:30:47 From Alida Smith To Everyone:
+	oh my
+11:34:33 From Alida Smith To Everyone:
+	so implements will always include an override method
+11:34:57 From Alida Smith To Everyone:
+	or interfaces rather
+11:36:06 From Rigel Richardson To Everyone:
+	Alida: the classes that implement interfaces will always have Overrided methods
+11:36:23 From Rigel Richardson To Everyone:
+	but the interface itself has those empty abstract methods
+11:36:47 From Alida Smith To Everyone:
+	ooh. I was on my wrong screen. I see
+11:46:20 From Rigel Richardson To Everyone:
+	The Tractor is A Tractor object and is a Singable object
+12:01:53 From Tyler Moloney To Everyone:
+	or codewar >:)
+12:02:18 From Rigel Richardson To Everyone:
+	yes! Go Green!
+12:04:20 From Rigel Richardson To Everyone:
+	Rebecca: for that "Is-A" test:	Each animal is an Animal object and is a FarmAnimal too
+12:05:26 From Rebecca Palmore To Everyone:
+	right, gotcha
+12:12:13 From Ryan Goodchild To Everyone:
+	no pathway and revisiting a reading.. what will we do with all this time?!
+12:12:31 From Gabe Humphreys To Everyone:
+	push-up time!
+12:12:37 From Ryan Goodchild To Everyone:
+	^^^

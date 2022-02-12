@@ -1,0 +1,128 @@
+09:04:07 From  Rigel Richardson  to  Everyone:
+	Sam's gonna call Joe on the job
+09:04:10 From  Rebecca Palmore  to  Everyone:
+	I am never relaxed.
+09:04:27 From  Dan Schnelzer  to  Everyone:
+	haha wait we shouldn't do that Rigel?
+09:04:28 From  Sam Stauffer  to  Everyone:
+	JOE I COULD USE A PARTNER FOR THIS SPRINT
+09:14:03 From  Alida Smith  to  Everyone:
+	So don't beat them up?
+09:14:47 From  Rigel Richardson  to  Everyone:
+	.throw (that attitude)	.catch (these hands)
+09:15:00 From  Emily Marshall  to  Everyone:
+	😂
+09:15:25 From  Alida Smith  to  Everyone:
+	lmao Rigel!
+09:15:32 From  Dan Schnelzer  to  Everyone:
+	haha
+09:16:00 From  Dan Schnelzer  to  Everyone:
+	sammo plz be the lead on your project for the front end .. make it magical again
+09:23:59 From  Gabe Humphreys  to  Everyone:
+	lol Rigel
+09:24:27 From  Levi Wolfe  to  Everyone:
+	hahaha
+09:36:53 From  Levi Wolfe  to  Everyone:
+	I am a repeating offender of getting frustrated over something that is explicitly explained in the readme because Im an impatient person
+09:37:02 From  Rigel Richardson  to  Everyone:
+	same!
+09:37:06 From  Alida Smith  to  Everyone:
+	lmaoooo
+09:37:19 From  Alida Smith  to  Everyone:
+	me: where does it say that??? oh.
+09:37:34 From  Levi Wolfe  to  Everyone:
+	haha exactly Alida!
+09:37:56 From  Rebecca Palmore  to  Everyone:
+	I study every readme like it’s a lunch menu.
+09:39:01 From  Levi Wolfe  to  Everyone:
+	See that's a pro move. But right when I learn from my mistakes, another hw comes out and I see it like a squirrel and chase after it immediately without reading the readme
+09:39:04 From  Rigel Richardson  to  Everyone:
+	That explains why you always catch the tutorial errors Rebecca - "This was not on the menu for today!"
+09:39:21 From  Rebecca Palmore  to  Everyone:
+	LOL
+09:43:04 From  Levi Wolfe  to  Everyone:
+	omg opening intelliJ is like christmas for my eyes
+10:13:50 From  Sam Stauffer  to  Everyone:
+	impulsively clicking around worked this time.
+10:14:42 From  Sam Stauffer  to  Everyone:
+	I thought it looked great.
+10:14:59 From  Emily Marshall  to  Everyone:
+	Of course you did😜
+10:15:27 From  Levi Wolfe  to  Everyone:
+	Man, what a site!
+10:15:34 From  Dan Schnelzer  to  Everyone:
+	andddd its done
+10:15:35 From  David Siebold  to  Everyone:
+	This site needs more Sam.
+10:16:03 From  Emily Marshall  to  Everyone:
+	A lot more Sam
+10:16:22 From  nick schultz  to  Everyone:
+	What doesn't need more Sam
+10:18:38 From  Tyler Moloney  to  Everyone:
+	I also got an empty 200
+10:20:08 From  James Bowen  to  Everyone:
+	*Pulls up module 2 capstone
+10:20:56 From  David Siebold  to  Everyone:
+	If only.
+10:20:58 From  David Siebold  to  Everyone:
+	I guess there's no way.
+10:20:59 From  Sam Stauffer  to  Everyone:
+	like a data base visualizer.
+10:21:03 From  Levi Wolfe  to  Everyone:
+	if only you could VISUALIZE the database
+10:21:38 From  Emily Marshall  to  Everyone:
+	DB Visaulizer, my old friend
+10:22:42 From  Sam Stauffer  to  Everyone:
+	Everyone, based on what I've seen so far.  I might have learned something in the last 4 months!
+10:27:23 From  Emily Marshall  to  Everyone:
+	I DID miss this!
+10:36:45 From  Daniel Blackman (He/Him)  to  Everyone:
+	404
+10:38:00 From  Daniel Blackman (He/Him)  to  Everyone:
+	got mine to work!
+10:38:33 From  Levi Wolfe  to  Everyone:
+	I only got 1 dog....
+10:38:38 From  David Siebold  to  Everyone:
+	Rigel collecting all the errors in honor of the new Pokémon release today. ;)
+10:38:50 From  Sam Stauffer  to  Everyone:
+	Levi are you returning the puppylist?
+10:39:41 From  Levi Wolfe  to  Everyone:
+	yup. I got a call mid writing my helper method so I might need to look over that haha
+10:44:18 From  Sam Stauffer  to  Everyone:
+	where*...
+10:44:19 From  Rigel Richardson  to  Everyone:
+	Last chance!
+10:49:55 From  Sam Stauffer  to  Everyone:
+	as soon as we came back to vue I had a sinking feeling that this is going to be a challenge.
+10:51:45 From  Levi Wolfe  to  Everyone:
+	I changed my if statement to a while for my result.next() and took out my throws and I get all of the data. But otherwise I just get the first item in the list
+10:55:56 From  Levi Wolfe  to  Everyone:
+	hahaha Lassie
+10:57:32 From  Tyler Moloney  to  Everyone:
+	Forgot the @CrossOrigin on PuppiesController
+10:58:31 From  nick schultz  to  Everyone:
+	Thanks Tyler
+11:12:00 From  Levi Wolfe  to  Everyone:
+	RequiresAuth?
+11:17:59 From  Alida Smith  to  Everyone:
+	Get it OD!!!
+11:18:16 From  Nema Aragones  to  Everyone:
+	You have an eye of an eagle Od
+11:18:38 From  Odgerel Jamsranjav  to  Everyone:
+	👓
+11:39:13 From  Sam Stauffer  to  Everyone:
+	Yea that's all!
+11:40:25 From  Alida Smith  to  Everyone:
+	This was helpful!
+11:40:39 From  nick schultz  to  Everyone:
+	This is surreal
+11:44:00 From  David Siebold  to  Everyone:
+	I love what the CSS is doing in that small window.
+11:44:37 From  Sam Stauffer  to  Everyone:
+	Me too!
+11:45:30 From  David Siebold  to  Everyone:
+	Levi, tell me at least one of those 115 lb Olafs shows up as a Yorkshire Terrier.
+11:46:16 From  Levi Wolfe  to  Everyone:
+	hahah they do
+11:46:38 From  Levi Wolfe  to  Everyone:
+	I also modulated my response above my service method not my controller method

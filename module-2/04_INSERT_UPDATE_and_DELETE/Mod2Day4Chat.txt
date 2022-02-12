@@ -1,0 +1,198 @@
+09:02:59 From  Gabe Humphreys  to  Everyone:
+	I'm 99% certain "kyu" is pronounced "queue"
+09:03:14 From  Gabe Humphreys  to  Everyone:
+	Japanese
+09:13:22 From  Emily Wurzler  to  Everyone:
+	Where is George #59??
+09:13:56 From  Levi Wolfe  to  Everyone:
+	haha Emily yes! I only ever get 58 too!
+09:14:14 From  Alida Smith  to  Everyone:
+	same
+09:14:27 From  Rebecca Palmore  to  Everyone:
+	I can get 59 but haven’t managed to ALSO count movies
+09:16:13 From  David Siebold  to  Everyone:
+	George #59 is being collapsed into another George if you're grouping on name.
+09:16:50 From  Alida Smith  to  Everyone:
+	grrrrrr
+09:17:07 From  Rebecca Palmore  to  Everyone:
+	If you group by person_id you should get that last George
+09:17:07 From  Tyler Moloney  to  Everyone:
+	the actor and director one got me for a big
+09:17:13 From  Tyler Moloney  to  Everyone:
+	bit*
+09:17:29 From  David Siebold  to  Everyone:
+	I had to get my wife to come sit with me and work through #21. It was tricky.
+09:18:07 From  Rigel Richardson  to  Everyone:
+	The 'no-movie' Georges are why we need the Left Join
+09:18:38 From  Rigel Richardson  to  Everyone:
+	All Georges, Some matching movies.
+09:18:43 From  David Siebold  to  Everyone:
+	Yep. The tricky part for me was that if you count the wrong thing in the movies table, the no movie Georges get a movie.
+09:18:45 From  Levi Wolfe  to  Everyone:
+	I hold my hands up in the air like a bear and talk to myself when representing left and right tables and my wife thinks im crazy
+09:19:00 From  Rigel Richardson  to  Everyone:
+	HAHA
+09:19:17 From  Rigel Richardson  to  Everyone:
+	That is pretty much exactly what I imagined when rejoining the study group convo lol
+09:19:29 From  Rigel Richardson  to  Everyone:
+	If it works, it's good!
+09:19:41 From  Levi Wolfe  to  Everyone:
+	hahaha hey yeah it gets the job done!
+09:21:32 From  Levi Wolfe  to  Everyone:
+	GROUP BY PERSON ID!!!
+09:21:35 From  Levi Wolfe  to  Everyone:
+	OF COURSE!
+09:22:04 From  David Siebold  to  Everyone:
+	There are two Georges who have the exact same name. If you group by person name, they merge into a single George.
+09:22:45 From  Levi Wolfe  to  Everyone:
+	Yeah when you gave that clue it made so much sense. I tried distinct but the person_id makes so much more sense since theyre non-repeatable
+09:22:48 From  Rigel Richardson  to  Everyone:
+	Tricky George Wallace!
+09:24:24 From  Rebecca Palmore  to  Everyone:
+	Ashley the same just happened to me in IJ.
+09:25:48 From  Rigel Richardson  to  Everyone:
+	What does the 0/1 intelliJ message say?
+09:26:52 From  David Siebold  to  Everyone:
+	I was running into that error where it hits line 12 and errors because line 12 is supposed to be 0 instead of 1.
+09:27:02 From  Rebecca Palmore  to  Everyone:
+	Yes that’s it.
+09:27:04 From  Rigel Richardson  to  Everyone:
+	Oh yes!
+09:27:05 From  Rebecca Palmore  to  Everyone:
+	Exactly.
+09:27:35 From  Ashley Hoffmann  to  Everyone:
+	Yes, it says it should be 0 but it's actually 1
+09:28:54 From  Rigel Richardson  to  Everyone:
+	David talked it out faster than I could write it. :)
+09:29:15 From  David Siebold  to  Everyone:
+	It seemed like several people were having the same question so I wanted to make sure that we didn't move on. :)
+09:29:28 From  Ashley Hoffmann  to  Everyone:
+	Yep! That worked! Thanks David!!
+09:31:26 From  Nema Aragones  to  Everyone:
+	thanks David
+09:31:47 From  Emily Wurzler  to  Everyone:
+	I'm loving this so much. It's so fun lol
+09:32:28 From  David Siebold  to  Everyone:
+	I definitely needed a second brain for this one. I also messed myself up on 15 by adding an unnecessary DISTINCT tag that returned the correct information but imposed an unwritten ORDER BY that caused the test to fail. :)
+09:32:28 From  Levi Wolfe  to  Everyone:
+	Anyone else get 21 rows for the actors born in 50's and movie in 1985? I even displayed the release dates to check and each row is correct! any ideas?!
+09:33:12 From  Dan Schnelzer  to  Everyone:
+	did you need select distinct for that one?
+09:33:13 From  David Siebold  to  Everyone:
+	Are you checking for DISTINCT entries, Levi?
+09:33:32 From  Levi Wolfe  to  Everyone:
+	wow. thought I had haha
+09:33:34 From  Levi Wolfe  to  Everyone:
+	thanks guys
+09:34:11 From  David Siebold  to  Everyone:
+	Whenever it seems close but not quite right, I add (or remove) DISTINCT to see if that nudges it the rest of the way.
+09:34:29 From  Emily Wurzler  to  Everyone:
+	Same, David! It solved several problems
+09:34:42 From  Levi Wolfe  to  Everyone:
+	wow, Tom Hanks strikes again!
+09:36:16 From  Sam Stauffer  to  Everyone:
+	Wilson would be proud.
+09:39:33 From  Daniel Blackman (He/Him)  to  Everyone:
+	is there an isCannibal column? they may need to add one...
+09:40:21 From  Rigel Richardson  to  Everyone:
+	INSERT INTO cabin (actual_cannibal) VALUES (shia_lebouf);
+09:43:12 From  Sam Stauffer  to  Everyone:
+	sounds like postgres needs a garbage collector.
+09:43:51 From  Rigel Richardson  to  Everyone:
+	That was Macho Cat Randy Savage
+09:44:20 From  David Siebold  to  Everyone:
+	One of our corgis is prone to ear infections. It's a bad time.
+09:53:47 From  Tyler Moloney  to  Everyone:
+	stay away from Hawkins National Laboratory
+09:54:04 From  Rigel Richardson  to  Everyone:
+	And their pumpkin patches
+10:13:40 From  Tyler Moloney  to  Everyone:
+	that makes much more sense to my brain seeing it that way
+10:17:38 From  Alida Smith  to  Everyone:
+	backups are handy
+10:22:09 From  David Siebold  to  Everyone:
+	I am not looking forward to tonight's homework.
+10:22:27 From  Nema Aragones  to  Everyone:
+	lol me too
+10:22:28 From  Ryan Goodchild  to  Everyone:
+	That's what i'm thinking
+10:22:36 From  Daniel Blackman (He/Him)  to  Everyone:
+	maybe these slides can have some inception memes too in the future...
+10:23:14 From  Rebecca Palmore  to  Everyone:
+	Can we just look at kittens for a few more minutes??
+10:23:39 From  Daniel Blackman (He/Him)  to  Everyone:
+	SELECT * FROM kittens
+10:24:13 From  Rebecca Palmore  to  Everyone:
+	LIMIT 0
+10:25:19 From  Levi Wolfe  to  Everyone:
+	the limit does not exist
+10:44:32 From  Levi Wolfe  to  Everyone:
+	Oh awesome....
+10:45:01 From  Tyler Moloney  to  Everyone:
+	the mind flayer tried that
+10:45:09 From  David Siebold  to  Everyone:
+	Who's ready to accidentally empty their entire database while trying to do the home? 🤚
+10:45:20 From  David Siebold  to  Everyone:
+	*homework
+10:45:31 From  Sam Stauffer  to  Everyone:
+	Accidently, that thing is going to be deleted as soon as she pushes.
+10:48:00 From  Sam Stauffer  to  Everyone:
+	Ah yes, Gary Oldman	https://www.youtube.com/watch?v=dLECCmKnrys
+10:48:11 From  Sam Stauffer  to  Everyone:
+	GULMAN!
+10:48:22 From  Gabe Humphreys  to  Everyone:
+	"accidentally"
+10:52:16 From  Rebecca Palmore  to  Everyone:
+	Did anyone else notice these reference tables move around in DbVisualizer?
+10:52:24 From  Sam Stauffer  to  Everyone:
+	yea!
+10:52:29 From  Rebecca Palmore  to  Everyone:
+	Their strings stay attached! So funny.
+10:52:53 From  Rebecca Palmore  to  Everyone:
+	I got sidetracked by it after too many JOIN statements.
+11:11:20 From  Sam Stauffer  to  Everyone:
+	Does group C present in this pathway today?
+11:11:32 From  Rigel Richardson  to  Everyone:
+	Only on panel days
+11:11:55 From  Sam Stauffer  to  Everyone:
+	that's what I thought.  just wasn't sure with no Friday!  Thanks.
+11:19:57 From  Sam Stauffer  to  Everyone:
+	I
+11:20:08 From  Sam Stauffer  to  Everyone:
+	I'd like my $100 in cash.
+11:20:24 From  Rebecca Palmore  to  Everyone:
+	I will take mine in chocoloate.
+11:20:40 From  Sam Stauffer  to  Everyone:
+	OOOO maybe reece's….  hmm..
+11:21:09 From  Levi Wolfe  to  Everyone:
+	Have you seen the pie sized reeses?!
+11:21:44 From  Rebecca Palmore  to  Everyone:
+	That was my dream in seventh grade.
+11:21:58 From  Daniel Blackman (He/Him)  to  Everyone:
+	UPDATE dollar_amount FROM margaret_gifts SET dollar_amount = dollar_amount * 1000;
+11:23:45 From  Sam Stauffer  to  Everyone:
+	"Sir, it's 2021, 1 million dollars isn't that much money anymore."  -paraphrased from Austin Powers.
+11:37:37 From  Ryan Goodchild  to  Everyone:
+	Feels like we're using live weapons now
+11:37:53 From  Levi Wolfe  to  Everyone:
+	Hahah
+11:38:02 From  Rigel Richardson  to  Everyone:
+	Always point your DELETE towards the ground
+11:38:07 From  Dan Schnelzer  to  Everyone:
+	whats the over/under of us actually deleting our DBs?
+11:38:14 From  Levi Wolfe  to  Everyone:
+	haha Rigel
+11:38:38 From  Daniel Blackman (He/Him)  to  Everyone:
+	"If you die in SQL, do you die for real?"
+11:38:48 From  Ryan Goodchild  to  Everyone:
+	lol
+11:39:37 From  Rigel Richardson  to  Everyone:
+	Rollback is the blue pill
+11:40:34 From  Tyler Moloney  to  Everyone:
+	or you can COMMIT and see how deep this table goes
+11:40:46 From  Daniel Blackman (He/Him)  to  Everyone:
+	LOL
+11:41:37 From  Sam Stauffer  to  Everyone:
+	*Wakes up*  "I know Kyu"	"Show me."
+11:41:51 From  Dan Schnelzer  to  Everyone:
+	haha

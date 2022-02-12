@@ -1,0 +1,74 @@
+08:53:40 From  David Siebold (He/Him)  to  Everyone:
+	Morning all!
+08:53:53 From  Margaret Green (she/her)  to  Everyone:
+	Good morning!!
+08:53:55 From  Rebecca Palmore  to  Everyone:
+	Morning!
+08:55:28 From  David Siebold (He/Him)  to  Everyone:
+	I've been blessed by an intense sunbeam, apparently.
+09:01:48 From  Ashley Hoffmann  to  Everyone:
+	Me too, Rebecca!!
+09:09:21 From  Sam Stauffer  to  Everyone:
+	James you have another question?
+09:09:33 From  Sam Stauffer  to  Everyone:
+	or are you pulling a Levi?
+09:09:57 From  Levi Wolfe  to  Everyone:
+	hahah I deserve that
+09:18:28 From  Sam Stauffer  to  Everyone:
+	I don't remember a tip, but that means nothing at this point.
+09:18:39 From  Dan Schnelzer  to  Everyone:
+	haha
+09:18:59 From  Rebecca Palmore  to  Everyone:
+	I don’t even know what day it is.
+09:19:27 From  David Siebold (He/Him)  to  Everyone:
+	You guys are still observing time in "days?"
+09:19:43 From  Rebecca Palmore  to  Everyone:
+	LOL.
+09:19:59 From  Sam Stauffer  to  Everyone:
+	Stardate 2021
+09:23:12 From  Sam Stauffer  to  Everyone:
+	Maybe I fat fingered one, but I thought I answered A,D,E and got it wrong...
+09:27:10 From  Sam Stauffer  to  Everyone:
+	Oh it was this one I got wrong because of the closing... oops
+09:48:33 From  Rigel Richardson  to  Everyone:
+	works with trackpad too!
+09:50:56 From  Ryan Goodchild  to  Everyone:
+	I threw that string in a notepad for easy pasting
+09:51:02 From  Rigel Richardson  to  Everyone:
+	Same!
+10:04:05 From  Sam Stauffer  to  Everyone:
+	why com/techelevator and not com.techelevator?
+10:05:22 From  Gabe Humphreys  to  Everyone:
+	because techelevator is a directory inside the com directory, and when entering the file path you have to use the syntax the OS understands, which is forwardslash
+10:05:39 From  Sam Stauffer  to  Everyone:
+	Ah makes sense thanks Gabe!
+10:17:39 From  Gabe Humphreys  to  Everyone:
+	# is also known as the octothorpe
+10:17:40 From  Gabe Humphreys  to  Everyone:
+	https://en.wikipedia.org/wiki/Number_sign
+10:24:16 From  Rigel Richardson  to  Everyone:
+	In the context of the comic, Octo Thorpe definitely sounds like a Great Grandfather		Sir Octo Thorpe, Enumerator Extraordinaire
+10:25:00 From  Sam Stauffer  to  Everyone:
+	I see you know aquamans' arch nemesis.
+10:25:23 From  Tyler Moloney  to  Everyone:
+	hunter2
+10:30:13 From  Tyler Moloney  to  Everyone:
+	same Levi
+10:30:41 From  Rebecca Palmore  to  Everyone:
+	I’ve printed clickable URLs to the terminal before but not these.
+10:31:40 From  Levi Wolfe  to  Everyone:
+	Canonical path sounds like how you become the pope
+10:32:15 From  Rebecca Palmore  to  Everyone:
+	Absolutely!
+10:42:06 From  Tyler Moloney  to  Everyone:
+	What fixed it Emily?
+10:43:32 From  Sam Stauffer  to  Everyone:
+	she did not type into her text file.  Therefore it returned 0 bytes as her size.
+10:43:38 From  Sam Stauffer  to  Everyone:
+	(I think)
+11:10:21 From  Emily Wurzler  to  Everyone:
+	No idea lol
+11:44:23 From  Rebecca Palmore  to  Everyone:
+	Is there a tofu option?
+11:46:48 From  Rigel Richardson  to  Everyone:
+	You can think of it as shiitake bacon :)

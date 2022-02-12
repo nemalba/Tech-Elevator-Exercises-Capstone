@@ -1,0 +1,102 @@
+html {
+    /* set some defaults up */
+    height: 100%;
+    font-size: 16px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    /* apply the google font Raleway to the body */
+    font-family: 'Raleway', sans-serif;
+    /* set up a gradient color from dark gray to light, top to bottom */
+    background-image: linear-gradient(to bottom, #858c90, #bbb);
+    /* Don't repeat the background, stretch it */
+    background-repeat: no-repeat;
+    /* Don't scroll the background with the page */
+    background-attachment: fixed;
+}
+
+div.trello-list {
+    /* multi-column layout */
+    display: inline-block;
+    /* fix the width of the columns */
+    width: 300px;
+    border-radius: 3px;
+    background-color: #ddd;
+    vertical-align: top;
+}
+
+div.trello-list h2 {
+    /* move the h2 from the edge */
+    margin: 10px;
+
+    /* font consistent with root element and keep it bold */
+    font-size: 1rem;
+    font-weight: bold;
+
+}
+div.trello-list ol {
+    /* remove any margin or padding that is pushing the cards in */
+    margin: 0;
+    padding: 0;
+}
+
+div.trello-list li {
+    /* remove the numbers from the list elements */
+    list-style: none;
+    /* set background color */
+    background-color: rgb(255, 255, 255);
+    /* add margin and padding */
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+div.trello-list li:hover {
+    background-color: #f5f6f7;
+}
+
+header > h1, header > p {
+    /* place elements side by side */
+    display: inline-block;
+
+    height: 20px;
+
+    color: rgb(255, 255, 255);
+
+    border-right: 1px solid rgb(255, 255, 255);
+    padding-right: 10px;
+}
+
+header > h1 {
+    font-size: 1rem;
+
+    text-transform: uppercase;
+}
+
+header > p {
+    font-size: 0.9rem;
+}
+
+div.labels span {
+    display: inline-block;
+    width: 40px;
+    height: 10px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+
+.label.pathway {
+    background-color: red;
+}
+
+.label.individual {
+    background-color: green;
+}
+
+.label.pair {
+    background-color: teal;
+}
+

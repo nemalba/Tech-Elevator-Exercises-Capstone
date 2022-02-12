@@ -1,0 +1,124 @@
+09:03:55 From Dan Schnelzer To Everyone:
+	noice chair levi.
+09:04:20 From Rigel Richardson To Everyone:
+	Looks like you're taking the MIB test
+09:04:22 From Odgerel Jamsranjav To Everyone:
+	sitting on a throne
+09:04:36 From Dan Schnelzer To Everyone:
+	rigel  hahahahah
+09:04:57 From Levi Wolfe To Everyone:
+	hahah Im on the mezzanine of my hotel in NY. Great chair selection haha
+09:05:21 From Rigel Richardson To Everyone:
+	Which hotel did you pick?
+09:05:38 From Levi Wolfe To Everyone:
+	The Lexington
+09:05:43 From Rigel Richardson To Everyone:
+	Nice!
+09:14:12 From Alida Smith To Everyone:
+	yes it is in the reading. just remembered. because there's another quiz question like this and I had to look it up.
+09:14:40 From David Siebold (He/Him) To Everyone:
+	If I had been SMART I would have looked up these answers in the book but I kept thinking I knew the answer. :)
+09:16:42 From Levi Wolfe To Everyone:
+	So Java is smart enough to only call the method with the appropriate param quantities?
+09:17:36 From Sam Stauffer To Everyone:
+	seems like it!
+09:23:46 From Dan Schnelzer To Everyone:
+	and now hes filling out alien applications in that chair. if levi is wearing a black suit next week
+09:24:13 From Sam Stauffer To Everyone:
+	He is actually one of the aliens.  3 of them in 1 body.
+09:24:17 From Levi Wolfe To Everyone:
+	They'll have flashed my memory by then
+09:44:30 From Sam Stauffer To Everyone:
+	Levi even knows his fellow aliens.
+09:44:33 From Levi Wolfe To Everyone:
+	They also made a 90's movie of my favorite martian with Christopher Lloyd and jeff daniels haha
+09:44:51 From Levi Wolfe To Everyone:
+	hahah im not doing myself any favors in making you guys believe im not MIB
+09:45:14 From Dan Schnelzer To Everyone:
+	haha what a day to visit MIB headquarters levi
+09:46:10 From Tyler Moloney To Everyone:
+	Space Force bootcamp
+09:59:01 From Rigel Richardson To Everyone:
+	Thanks Ryan!
+09:59:19 From Ryan Goodchild To Everyone:
+	Of Course!
+10:28:41 From Smith Johnson To Everyone:
+	cute neck warmer Rigel
+10:29:53 From Gabe Humphreys To Everyone:
+	boo Margaret! "A ruff night!"
+10:30:12 From Rebecca Palmore To Everyone:
+	punCounter++
+10:30:17 From Gabe Humphreys To Everyone:
+	haha
+10:30:20 From Levi Wolfe To Everyone:
+	hahaha
+10:30:39 From Levi Wolfe To Everyone:
+	Rebecca I love your kudos comment too haha youre turning into a computer!
+10:31:00 From Rigel Richardson To Everyone:
+	Thank you! He's the gremlin of the bunch.
+10:31:59 From Rebecca Palmore To Everyone:
+	Yes but my battery is low today.
+10:33:29 From Levi Wolfe To Everyone:
+	Olaf LOVES doggy daycare! Camp BowWow is his
+10:35:45 From David Siebold (He/Him) To Everyone:
+	Man, that'd be the easiest money they ever made since the gecko sleeps during the day. :)
+10:35:51 From Daniel Blackman (He/Him) To Everyone:
+	Map? with pet names as the key?
+10:37:32 From Rebecca Palmore To Everyone:
+	There will likely be duplicate names though.
+10:41:34 From Gabe Humphreys To Everyone:
+	a lot of doggy daycares won't take my dog because he's not neutered. so I was thinking "isAltered" as a boolean
+10:43:09 From Rigel Richardson To Everyone:
+	Oh good point!!
+10:53:42 From Rebecca Palmore To Everyone:
+	I love generate.
+10:53:59 From Rigel Richardson To Everyone:
+	me too!
+10:54:21 From Tyler Moloney To Everyone:
+	Alt + Insert
+10:54:43 From Rigel Richardson To Everyone:
+	love the shortcuts. Anything to pick up speed as we learn!
+11:02:13 From Rebecca Palmore To Everyone:
+	isHeadExploding == true
+11:02:27 From Rigel Richardson To Everyone:
+	yes!
+11:02:35 From Emily Wurzler To Everyone:
+	😅
+11:03:07 From Odgerel Jamsranjav To Everyone:
+	return "me too";
+11:07:29 From Levi Wolfe To Everyone:
+	So its just like adding (String name) but instead of data type and name its data structure and name....right?
+11:07:47 From Rigel Richardson To Everyone:
+	exactly
+11:07:58 From Levi Wolfe To Everyone:
+	sick haha
+11:08:09 From Rebecca Palmore To Everyone:
+	so “pet” in Pet pet could be some other word??
+11:08:33 From Rebecca Palmore To Everyone:
+	That’s what’s tripping me up. Did we make that “pet” up just now?
+11:08:35 From Levi Wolfe To Everyone:
+	yes its just the identifier in this method
+11:08:47 From Rebecca Palmore To Everyone:
+	thank you!
+11:09:15 From Levi Wolfe To Everyone:
+	It was confusing to me bc she did the same thing when teaching for each loops. like for (Integer number: numbers)
+11:09:21 From Rigel Richardson To Everyone:
+	List<String> nameList --- <spot, max, fido>		those names still have String properties.		List<Pet> petList ---> <spot, max, fido>	just has Pet properties because it is a different object type
+11:09:28 From Levi Wolfe To Everyone:
+	I was like wait. what is number and what is numbers haha s
+11:09:40 From Rebecca Palmore To Everyone:
+	exactly.
+11:12:38 From Tyler Moloney To Everyone:
+	the git monster. I like that
+11:30:57 From Levi Wolfe To Everyone:
+	its not primitive!
+11:34:45 From Tyler Moloney To Everyone:
+	I thought that too but better to assume not friendly than friendly!
+11:34:48 From Ryan Goodchild To Everyone:
+	you can't put a kind of friendly dog in the group pen
+11:37:25 From Tyler Moloney To Everyone:
+	Margaret is just seeing the good in every pup :)
+11:46:29 From Gabe Humphreys To Everyone:
+	Am I able to chain .toUpperCase on the same side of String size as userInput?	System.out.println("Is your pet size S, M, or L?:");	        String size = userInput.nextLine();
+11:54:57 From Rebecca Palmore To Everyone:
+	I’m all thumbs, Margaret.

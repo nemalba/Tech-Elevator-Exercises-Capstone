@@ -1,0 +1,146 @@
+08:57:45 From  David Siebold  to  Everyone:
+	Morning! Running a bit behind this morning. Camera on in a few minutes. :)
+09:00:24 From  David Siebold  to  Everyone:
+	Balmy 42 in Raleigh right now.
+09:05:44 From  Levi Wolfe  to  Everyone:
+	Whereabouts?!
+09:06:48 From  Emily Marshall  to  Everyone:
+	Small world! I go down to Bradenton and Anna Maria every couple months
+09:07:24 From  Levi Wolfe  to  Everyone:
+	Oh nice! Love it down there!
+09:14:40 From  Sam Stauffer  to  Everyone:
+	totally read this one as header.nav and was thinking classes and just moved on.
+09:15:17 From  Sam Stauffer  to  Everyone:
+	definitely read this one as all HTML.
+09:24:02 From  Rigel Richardson  to  Everyone:
+	an 'all p' selector is p{}
+09:24:13 From  Sam Stauffer  to  Everyone:
+	yea I would have understood that XD
+09:24:57 From  Rigel Richardson  to  Everyone:
+	yeah, I got caught on article > sections, because the selector would be article > section, but they are describing which elements with sorta-code!
+09:26:17 From  Sam Stauffer  to  Everyone:
+	definitely got me on more than one thing I feel like I understood yesterday.  Need to be more careful on those answers!
+09:28:06 From  Ryan Goodchild  to  Everyone:
+	alt + shift + f
+09:28:09 From  Ryan Goodchild  to  Everyone:
+	once enabled
+09:28:32 From  Odgerel Jamsranjav  to  Everyone:
+	👍
+09:34:06 From  Sam Stauffer  to  Everyone:
+	getting all my ideas from my website from socrative quizzes.
+09:38:54 From  Rigel Richardson  to  Everyone:
+	for now... (thanks flexbox!)
+09:38:56 From  Sam Stauffer  to  Everyone:
+	for some reason I thought it was stretch.  Big dumb.
+09:39:58 From  Sam Stauffer  to  Everyone:
+	you will never guess who thought the second one was max width.
+09:40:48 From  Dan Schnelzer  to  Everyone:
+	who?
+09:41:23 From  Sam Stauffer  to  Everyone:
+	Their last name starts with an S
+09:41:33 From  David Siebold  to  Everyone:
+	Oh no it's me!
+09:41:41 From  Rebecca Palmore  to  Everyone:
+	hahahaha
+09:41:43 From  Dan Schnelzer  to  Everyone:
+	whoops me 2
+09:46:58 From  Dan Schnelzer  to  Everyone:
+	Gabe found like a TE Easter egg. Wins like a million bucks
+09:47:10 From  Gabe Humphreys  to  Everyone:
+	lol
+09:50:30 From  Rebecca Palmore  to  Everyone:
+	me
+09:50:34 From  Levi Wolfe  to  Everyone:
+	what cant
+09:50:42 From  Rebecca Palmore  to  Everyone:
+	I think I broke it yesterday a few times!
+09:51:14 From  Dan Schnelzer  to  Everyone:
+	typing gird instead of grid can really do a number
+09:51:31 From  Levi Wolfe  to  Everyone:
+	haha my code was full of girds
+09:51:47 From  Dan Schnelzer  to  Everyone:
+	its gird season levi
+09:51:51 From  Rigel Richardson  to  Everyone:
+	All that welding causing troubles
+10:37:03 From  Ryan Goodchild  to  Everyone:
+	straight as macaroni
+10:37:37 From  Rigel Richardson  to  Everyone:
+	Flex sounds like Flubber right now in terms of direction and reactivity. Any and all directions.
+10:37:42 From  Rebecca Palmore  to  Everyone:
+	It’s like Charlie Brown when the adults talk: wah wah wah flex wah wah flex flex wah wah wah.
+10:37:57 From  Levi Wolfe  to  Everyone:
+	hahaha exactly
+10:39:49 From  Levi Wolfe  to  Everyone:
+	HOW FLEXIBLE IS IT!
+10:39:55 From  Rigel Richardson  to  Everyone:
+	VERY FLEXIBLE
+10:39:56 From  Emily Marshall  to  Everyone:
+	Yoga code
+10:40:01 From  Dan Schnelzer  to  Everyone:
+	haha
+10:40:26 From  Rebecca Palmore  to  Everyone:
+	It is the US Gymnastics team of CSS tools.
+10:40:35 From  Emily Marshall  to  Everyone:
+	GOAT
+10:40:40 From  Ryan Goodchild  to  Everyone:
+	hahaha
+10:42:33 From  Rebecca Palmore  to  Everyone:
+	Life is like a box of flexboxes
+10:43:09 From  Levi Wolfe  to  Everyone:
+	You truly never know what youre gonna get
+10:46:09 From  Gabe Humphreys  to  Everyone:
+	“You must be shapeless, formless, like flexbox. When you pour flexbox in a cup, it becomes the cup. When you pour flexbox in a bottle, it becomes the bottle. When you pour flexbox in a teapot, it becomes the teapot. flexbox can drip and it can crash. Become like flexbox my friend.”   -Bruce Lee
+10:47:11 From  Levi Wolfe  to  Everyone:
+	Bruce Lee was a master of front end software development
+10:50:25 From  Sam Stauffer  to  Everyone:
+	#hero.  Best ID ever.
+11:01:06 From  Levi Wolfe  to  Everyone:
+	Dave Matthews favorite attribute
+11:01:18 From  Sam Stauffer  to  Everyone:
+	I literally almost posted his lyrics.
+11:05:38 From  Tyler Moloney  to  Everyone:
+	mine needed an align-items: center too for some reason
+11:13:30 From  Dan Schnelzer  to  Everyone:
+	you flexin on us?
+11:15:18 From  Tyler Moloney  to  Everyone:
+	or give a wrong answer and see how quickly you're corrected :)
+11:15:26 From  Gabe Humphreys  to  Everyone:
+	Stack Overflow would be like "Why do you even want to use Flexbox?!?!"
+11:15:39 From  Alida Smith  to  Everyone:
+	lol
+11:16:00 From  Levi Wolfe  to  Everyone:
+	hahah
+11:16:05 From  Levi Wolfe  to  Everyone:
+	that's so true
+11:20:36 From  Alida Smith  to  Everyone:
+	Thanks
+11:21:00 From  Sam Stauffer  to  Everyone:
+	she says it with love.  It's a flex meaning.
+11:26:36 From  Sam Stauffer  to  Everyone:
+	5000 points for tyler
+11:26:51 From  Tyler Moloney  to  Everyone:
+	after 8 or so tries
+11:26:52 From  Alida Smith  to  Everyone:
+	Tyler is the "Cleaner"
+11:27:03 From  Sam Stauffer  to  Everyone:
+	the point value is flex-able.
+11:27:54 From  Sam Stauffer  to  Everyone:
+	Dan, it does work with .fa-carrot.
+11:35:28 From  Tyler Moloney  to  Everyone:
+	I got the same result with:		#all-items section article:last-child{	    flex-direction: row-reverse;	}
+11:36:10 From  Levi Wolfe  to  Everyone:
+	Tylers gunnin for margarets job
+11:36:15 From  Tyler Moloney  to  Everyone:
+	no shot
+11:36:17 From  Tyler Moloney  to  Everyone:
+	lol
+11:40:11 From  Ryan Goodchild  to  Everyone:
+	could we use space-around for this?
+11:44:52 From  Daniel Blackman (He/Him)  to  Everyone:
+	what if we used space around on the entire article within the section?
+11:45:27 From  Ryan Goodchild  to  Everyone:
+	^ I'm trying to make this work too hah
+11:46:50 From  Sam Stauffer  to  Everyone:
+	I like adding 50px of margin left and right XD
+11:55:22 From  Daniel Blackman (He/Him)  to  Everyone:
+	stay safe!

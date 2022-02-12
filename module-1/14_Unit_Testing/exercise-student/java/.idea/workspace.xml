@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdc69c70-e27a-440d-827e-4e5d6e26f014" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20mnLLQDxVrIFbes0im4c5rjZzZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.techelevator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WordCountTest">
+    <configuration name="NonStartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m01d14-unit-testing-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.NonStartTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SameFirstLastTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m01d14-unit-testing-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.SameFirstLastTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBitsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m01d14-unit-testing-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.StringBitsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m01d14-unit-testing-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.WordCountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountTest.getCount_pass_in_a_b_a_c_b_returns_a_2_b_2_c_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m01d14-unit-testing-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.WordCountTest" />
+      <option name="METHOD_NAME" value="getCount_pass_in_a_b_a_c_b_returns_a_2_b_2_c_1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WordCountTest" />
+        <item itemvalue="JUnit.WordCountTest.getCount_pass_in_a_b_a_c_b_returns_a_2_b_2_c_1" />
+        <item itemvalue="JUnit.NonStartTest" />
+        <item itemvalue="JUnit.StringBitsTest" />
+        <item itemvalue="JUnit.SameFirstLastTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdc69c70-e27a-440d-827e-4e5d6e26f014" name="Default Changelist" comment="" />
+      <created>1636658573928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636658573928</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/m01d14_unit_testing_exercise$SameFirstLastTest.ic" NAME="SameFirstLastTest Coverage Results" MODIFIED="1636690037301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/m01d14_unit_testing_exercise$WordCountTest.ic" NAME="WordCountTest Coverage Results" MODIFIED="1636830436987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/m01d14_unit_testing_exercise$Lucky13Test.ic" NAME="Lucky13Test Coverage Results" MODIFIED="1636688621138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/m01d14_unit_testing_exercise$FrontTimesTest.ic" NAME="FrontTimesTest Coverage Results" MODIFIED="1636686258787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/m01d14_unit_testing_exercise$CigarPartyTest.ic" NAME="CigarPartyTest Coverage Results" MODIFIED="1636685115310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/m01d14_unit_testing_exercise$StringBitsTest.ic" NAME="StringBitsTest Coverage Results" MODIFIED="1636690430413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/m01d14_unit_testing_exercise$AnimalGroupNameTest.ic" NAME="AnimalGroupNameTest Coverage Results" MODIFIED="1636684485376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/m01d14_unit_testing_exercise$Less20Test.ic" NAME="Less20Test Coverage Results" MODIFIED="1636688126333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/m01d14_unit_testing_exercise$MaxEnd3Test.ic" NAME="MaxEnd3Test Coverage Results" MODIFIED="1636688935100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/m01d14_unit_testing_exercise$DateFashionTest.ic" NAME="DateFashionTest Coverage Results" MODIFIED="1636685647040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/m01d14_unit_testing_exercise$NonStartTest.ic" NAME="NonStartTest Coverage Results" MODIFIED="1636738306698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.*</FILTER>
+    </SUITE>
+  </component>
+</project>

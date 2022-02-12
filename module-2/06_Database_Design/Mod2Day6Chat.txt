@@ -1,0 +1,82 @@
+08:51:54 From  David Siebold  to  Everyone:
+	Morning!
+08:55:30 From  David Siebold  to  Everyone:
+	It's a balmy 41 degrees here!
+08:55:58 From  David Siebold  to  Everyone:
+	Just gotta green screen yourself onto a beach!
+08:56:19 From  David Siebold  to  Everyone:
+	Apparently it'll be a whopping 49 degrees here in Raleigh.
+09:01:55 From  David Siebold  to  Everyone:
+	Rigel!
+09:02:10 From  Alida Smith  to  Everyone:
+	No reset here.
+09:02:15 From  Rigel Richardson  to  Everyone:
+	yay!
+09:02:17 From  David Siebold  to  Everyone:
+	I WANTED to reset the database for practice.... is what I keep telling myself.
+09:02:24 From  Tyler Moloney  to  Everyone:
+	didn't post but also got away without resetting
+09:02:35 From  Sam Stauffer  to  Everyone:
+	I reset mine when I deleted momento instead of memento.... but I don't know if I deleted anything anyway...
+09:36:30 From  Sam Stauffer  to  Everyone:
+	great confidence Nick!
+09:44:31 From  David Siebold  to  Everyone:
+	Reference types!
+09:47:29 From  Tyler Moloney  to  Everyone:
+	classic xkcd
+09:47:48 From  Gabe Humphreys  to  Everyone:
+	Rigel reminded us of this classic XKCD a few weeks ago!
+09:47:54 From  Rigel Richardson  to  Everyone:
+	:)
+09:56:29 From  Sam Stauffer  to  Everyone:
+	Who thought the more normal you got the more complex things become.
+10:47:11 From  Gabe Humphreys  to  Everyone:
+	transitive functional dependency = hypothetical syllogism
+11:00:01 From  Rebecca Palmore  to  Everyone:
+	I actually do need a new toaster.
+11:00:17 From  Dan Schnelzer  to  Everyone:
+	honestly could use one too
+11:00:30 From  Alida Smith  to  Everyone:
+	I don't even have one. I guess I do too
+11:00:38 From  Rebecca Palmore  to  Everyone:
+	LOL
+11:01:03 From  Rigel Richardson  to  Everyone:
+	Good time to get one! Great Cyber Monday sales on small appliances.
+11:01:14 From  Alida Smith  to  Everyone:
+	I just bought a printer this morning
+11:01:41 From  Rigel Richardson  to  Everyone:
+	That reminds me. I still need new toner!
+11:07:29 From  Alida Smith  to  Everyone:
+	im so upgrading dbVisualizer
+11:09:40 From  David Siebold  to  Everyone:
+	Oh that Levi. Always after everyone's database integrity.
+11:10:00 From  Levi Wolfe  to  Everyone:
+	Im the Trix rabbit of databases
+11:35:27 From  Emily Wurzler  to  Everyone:
+	Just googled- the longest name according to Guinness is 747 characters
+11:35:42 From  Rebecca Palmore  to  Everyone:
+	!!!
+11:35:59 From  Gabe Humphreys  to  Everyone:
+	their nickname is "bob"
+11:36:32 From  Tyler Moloney  to  Everyone:
+	databases hate them with this one weird trick!
+11:36:49 From  Emily Wurzler  to  Everyone:
+	It's German, of course: Hubert Blaine Wolfeschlegelsteinhausenbergerdorff Sr.
+11:40:32 From  Gabe Humphreys  to  Everyone:
+	Banksy
+11:40:37 From  Ryan Goodchild  to  Everyone:
+	It's a Picasso not a Pablo
+11:43:38 From  Tyler Moloney  to  Everyone:
+	if we were including Songs a Fall Out Boy title might push that 100
+11:59:27 From  Levi Wolfe  to  Everyone:
+	anyone elses ENTIRE SCREEN red?
+11:59:33 From  Tyler Moloney  to  Everyone:
+	yeah mine blew up
+11:59:50 From  Dan Schnelzer  to  Everyone:
+	oh no
+12:00:13 From  Sam Stauffer  to  Everyone:
+	I spelled KEY KET.  rollback XD
+12:00:50 From  David Siebold  to  Everyone:
+	We all need Rigel to watch us code and catch our syntax errors. :)
+12:01:09 From  Rigel Richardson  to  Everyone:
+	And Alida! syntax guards unite

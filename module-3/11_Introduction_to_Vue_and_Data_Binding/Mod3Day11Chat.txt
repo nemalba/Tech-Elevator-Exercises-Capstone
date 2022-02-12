@@ -1,0 +1,100 @@
+08:58:51 From Nick Schultz (he/him) To Everyone:
+	good morning!
+09:00:16 From Dan Schnelzer To Everyone:
+	I wish I loved anything as much as dogs loves snow
+09:00:26 From David Siebold To Everyone:
+	We got nothing but ice here. :)
+09:00:45 From David Siebold To Everyone:
+	Everything has the worst sort of candy coating.
+09:02:08 From Daniel Blackman (He/Him) To Everyone:
+	I like snow as long as I don't have to drive in it
+09:02:17 From Rebecca Palmore To Everyone:
+	OMG!
+09:02:17 From Nick Schultz (he/him) To Everyone:
+	^
+09:02:28 From David Siebold To Everyone:
+	Agree, Daniel. Unfortunately, I've worked in healthcare for the last 20 years so I always had to drive in it.
+09:02:32 From Gabe Humphreys To Everyone:
+	People still drive places?
+09:02:35 From Daniel Blackman (He/Him) To Everyone:
+	oof!
+09:04:19 From David Siebold To Everyone:
+	Wait what am I supposed to do with my morning!?
+09:06:46 From David Siebold To Everyone:
+	Whatever you do, make sure you're talking through your solution and that you engage with your interviewer. Every mock I've had has talked about the process being way more important than the final solution.
+09:10:27 From Levi Wolfe To Everyone:
+	That's a good point. Because they can see the code too, but hearing your thought process is what they want to hear
+09:15:44 From David Siebold To Everyone:
+	Yep. Also, the more you talk to them, the more information you'll get. Pseudocoding the whole thing and reviewing it with them before you put real code down might save you from going a million miles in the wrong direction and wasting a bunch of time.
+09:37:38 From Levi Wolfe To Everyone:
+	Anyone else getting vetur warnings?
+09:37:43 From Rigel Richardson To Everyone:
+	yep
+09:37:49 From Tyler Moloney To Everyone:
+	yep
+09:37:51 From Levi Wolfe To Everyone:
+	phew
+09:39:33 From Sam Stauffer To Everyone:
+	Oh man, 40 students is tough to keep track of, I can attest to that.
+09:45:49 From Nick Schultz (he/him) To Everyone:
+	Im on 8081
+09:49:13 From Dan Schnelzer To Everyone:
+	i have an error
+09:49:26 From Rigel Richardson To Everyone:
+	what's the error dan?
+09:49:50 From Dan Schnelzer To Everyone:
+	devtools failed to load source map
+09:50:11 From Nick Schultz (he/him) To Everyone:
+	Same here dan
+09:50:16 From Levi Wolfe To Everyone:
+	samesies
+09:50:40 From Nick Schultz (he/him) To Everyone:
+	For react-draggable.js
+09:51:09 From Rigel Richardson To Everyone:
+	They might just be disabled in your browser
+09:52:03 From Rigel Richardson To Everyone:
+	if you click the sources pane and the settings cog, you can check if they are enabled
+10:14:12 From Sam Stauffer To Everyone:
+	bless their souls.
+10:14:41 From Sam Stauffer To Everyone:
+	It's amazing what has poured out already.
+10:21:29 From Rebecca Palmore To Everyone:
+	I smell a quiz question!
+10:30:55 From Tyler Moloney To Everyone:
+	mine's happy with two
+10:31:04 From Levi Wolfe To Everyone:
+	I lived in Squirrel Hill for 5 years and I still need autocorrect to help me spell that word
+10:31:41 From Rigel Richardson To Everyone:
+	I default to Squill
+10:31:57 From Rigel Richardson To Everyone:
+	I always have to sound out Sheneley
+10:32:14 From Rigel Richardson To Everyone:
+	Which was still wrong! Schenley
+10:32:17 From Levi Wolfe To Everyone:
+	hahah
+10:32:21 From Rebecca Palmore To Everyone:
+	OK whoops: dictionary says “squirrelly”
+10:33:09 From Daniel Blackman (He/Him) To Everyone:
+	if anyone wants to see something silly - there's a YouTube video out there of Germans trying to pronounce "squirrel"
+10:41:31 From Sam Stauffer To Everyone:
+	I heard you like Vue, so we puts views in your vue so you can view your views while working in vue.
+11:06:43 From Tyler Moloney To Everyone:
+	did you copy as code block dan?
+11:07:06 From Tyler Moloney To Everyone:
+	try doing it the other way, I got the same thing
+11:07:14 From Tyler Moloney To Everyone:
+	there must be some weird formatted spaces or something
+11:07:23 From Dan Schnelzer To Everyone:
+	ok thanks
+11:18:15 From Levi Wolfe To Everyone:
+	just funky for each loop syntax kinda
+11:41:10 From Daniel Blackman (He/Him) To Everyone:
+	could you make one function that takes a parameter to define how many stars it's looking for?
+11:43:33 From Rigel Richardson To Everyone:
+	I was thinking maybe we'd use a v-for and generate those wells. But you'd need some function for the text at least.
+12:02:44 From Alida Smith To Everyone:
+	❤️
+12:02:59 From Sam Stauffer To Everyone:
+	Procrastinators unite tomorrow!
+12:03:44 From David Siebold To Everyone:
+	I'm way too good at procrastination. That's why I have to do everything right away.

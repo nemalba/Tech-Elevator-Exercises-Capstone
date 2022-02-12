@@ -1,0 +1,170 @@
+09:00:37 From  Rigel Richardson  to  Everyone:
+	I got excited when I discovered the first bug through testing!
+09:01:18 From  Levi Wolfe  to  Everyone:
+	Rigel me too! I was at our counter in the kitchen as my wife was making dinner and I scared her when I celebrated! haha
+09:03:31 From  David Siebold  to  Everyone:
+	I'm still waiting for the catch for no exercises. :)
+09:03:48 From  Rigel Richardson  to  Everyone:
+	3 hours of reading! jk
+09:07:09 From  David Siebold  to  Everyone:
+	Yellow background, cyan text. I'm ready.
+09:10:14 From  Levi Wolfe  to  Everyone:
+	wild things
+09:10:56 From  Levi Wolfe  to  Everyone:
+	I was Max. I wore a Dalmatian costume every day for close to a year. Everywhere my mother went. There I was, in costume.
+09:10:59 From  Rebecca Palmore  to  Everyone:
+	Maurice Sendak
+09:11:19 From  Rebecca Palmore  to  Everyone:
+	Shel Silverstein wrote Where The Sidewalk Ends
+09:14:51 From  Rigel Richardson  to  Everyone:
+	I'm glad it worked for you Levi!
+09:15:09 From  Levi Wolfe  to  Everyone:
+	haha thanks Rigel! Thanks for your logic hint!!
+09:16:25 From  Levi Wolfe  to  Everyone:
+	They did that to my grandma after my grandpa passed. People keep an eye on obit's and prey on them!
+09:17:01 From  Daniel Blackman (He/Him)  to  Everyone:
+	they can also get relative names from social media to use in a phone call to say they're in trouble and need money
+09:17:28 From  Levi Wolfe  to  Everyone:
+	Daniel that's EXACTLY what they did. Its awful
+09:17:47 From  Daniel Blackman (He/Him)  to  Everyone:
+	it's terrible :(
+09:19:49 From  Tyler Moloney  to  Everyone:
+	everyone knows rule 1 of hacking is you have to wear your striped shirt and zorro mask.
+09:20:03 From  Levi Wolfe  to  Everyone:
+	its literally impossible otherwise
+09:20:14 From  Levi Wolfe  to  Everyone:
+	and tiny mustache
+09:20:20 From  Dan Schnelzer  to  Everyone:
+	that's how I always spot the bad guys too Tyler
+09:20:44 From  Daniel Blackman (He/Him)  to  Everyone:
+	little known fact, the hamburgler is a skilled hacker
+09:21:01 From  Gabe Humphreys  to  Everyone:
+	lol
+09:21:10 From  Tyler Moloney  to  Everyone:
+	the RAMburglar
+09:21:53 From  Sam Stauffer  to  Everyone:
+	My friend created the pizza bandit.  I'm surprised it never caught on with pizza hut.
+09:25:51 From  Rigel Richardson  to  Everyone:
+	Ty$ probably has trouble using his stage name
+09:26:27 From  Rebecca Palmore  to  Everyone:
+	BigDecimal is still OK though!
+09:26:34 From  Sam Stauffer  to  Everyone:
+	I"m starting to feel bad for lil bobby tables though.
+09:27:20 From  Rebecca Palmore  to  Everyone:
+	WHAAAAA?
+09:27:43 From  Gabe Humphreys  to  Everyone:
+	password: 1...2...3...4!
+09:27:52 From  Levi Wolfe  to  Everyone:
+	Hes gotta change his name BigDecimal.valueOf(Ty$)
+09:28:06 From  Rebecca Palmore  to  Everyone:
+	Tee hee
+09:29:49 From  Gabe Humphreys  to  Everyone:
+	I feel bad for Elon Musk's youngest kid
+09:30:18 From  Gabe Humphreys  to  Everyone:
+	X Æ A-12
+09:30:50 From  Rebecca Palmore  to  Everyone:
+	Sam!
+09:31:15 From  Rigel Richardson  to  Everyone:
+	They're gonna get real good at keyboard shortcuts andOr language toggles though!
+09:39:17 From  Daniel Blackman (He/Him)  to  Everyone:
+	what are other passwords that green classroom folks commonly use? shout it out in the chat JOKING
+09:39:25 From  Tyler Moloney  to  Everyone:
+	hunter2
+09:39:46 From  Dan Schnelzer  to  Everyone:
+	BigDecimal27
+09:40:22 From  Rigel Richardson  to  Everyone:
+	My first computer password was 42 characters, alphanumeric and symbolic. C. 2004. I've been prepared. 😁
+09:40:46 From  Tyler Moloney  to  Everyone:
+	http://bash.org/?244321
+09:41:53 From  Rigel Richardson  to  Everyone:
+	classic
+09:42:59 From  Rigel Richardson  to  Everyone:
+	my husband has his bank card compromised, and then the newly issued info compromised again BEFORE receiving and activating the new card. Definitely on the inside.
+09:43:10 From  Daniel Blackman (He/Him)  to  Everyone:
+	wow
+09:43:30 From  Levi Wolfe  to  Everyone:
+	wow!
+09:43:30 From  Alida Smith  to  Everyone:
+	Sheesh
+09:43:45 From  Gabe Humphreys  to  Everyone:
+	go to https://haveibeenpwned.com/ and check you email addresses
+09:46:16 From  Sam Stauffer  to  Everyone:
+	I shared my runescape password with my friends back in the day.  Good times.
+09:46:18 From  Tyler Moloney  to  Everyone:
+	If you want to check your password strengths too https://www.security.org/how-secure-is-my-password/
+09:46:57 From  Levi Wolfe  to  Everyone:
+	runescape! Havent heard that name in forever!
+09:47:21 From  Levi Wolfe  to  Everyone:
+	5? I pay 15! haha
+09:47:45 From  Sam Stauffer  to  Everyone:
+	i'm jealous of Margaret's deal finding.
+09:47:46 From  Alida Smith  to  Everyone:
+	I just had 500 transactions of 0.99 on my credit card 2 months ago. all google transactions
+09:48:22 From  Rigel Richardson  to  Everyone:
+	That's scary!
+09:48:27 From  Gabe Humphreys  to  Everyone:
+	yikes Alida!
+09:49:56 From  Sam Stauffer  to  Everyone:
+	So that's what Rigel's password looks like.
+09:51:46 From  Levi Wolfe  to  Everyone:
+	Harvard CS50 has a fun Caesar cypher problem set!
+09:52:35 From  Gabe Humphreys  to  Everyone:
+	If anyone ever figures out how to reverse the SHA-256 hash you can kiss your bitcoin goodbye!
+09:55:17 From  Sam Stauffer  to  Everyone:
+	I hate when I reset a password and it says I already used that password.
+09:55:33 From  Sam Stauffer  to  Everyone:
+	and I only put one password into that site to begin with XD
+10:14:33 From  Rigel Richardson  to  Everyone:
+	Still got my email address from '95!
+10:14:56 From  JohnMatthews  to  Margaret Green (she/her)(Direct Message):
+	pepper doesn't get sent with password like salt- it's stored at each site in a separate module [usually hardware]
+10:15:54 From  Daniel Blackman (He/Him)  to  Everyone:
+	the enigma got cracked in part because of poor salting!
+10:16:05 From  Sam Stauffer  to  Everyone:
+	I was thinking it was enigma!
+10:26:13 From  Daniel Blackman (He/Him)  to  Everyone:
+	doesn't the US government subsidized windows xp for a similar reason?
+10:26:24 From  Daniel Blackman (He/Him)  to  Everyone:
+	*subsidize
+10:36:41 From  Daniel Blackman (He/Him)  to  Everyone:
+	that's a LOT of salt
+10:37:11 From  David Siebold  to  Everyone:
+	Fortunately, computers don't have to worry about blood pressure.
+10:37:24 From  Levi Wolfe  to  Everyone:
+	hahah
+10:38:58 From  Margaret Green (she/her)  to  Everyone:
+	psql -U postgres -d user-manager -f user-manager.sql
+10:43:37 From  Levi Wolfe  to  Everyone:
+	I saw someone recently mentioning putting commas in your password to mess with the csv file they'll be dumped into later haha which I now realize is cruel
+10:51:08 From  Levi Wolfe  to  Everyone:
+	what shortcut is she using for the jumps again?
+10:51:16 From  Sam Stauffer  to  Everyone:
+	control click
+10:51:37 From  Levi Wolfe  to  Everyone:
+	NIFTY!
+10:51:42 From  Tyler Moloney  to  Everyone:
+	ctrl + b does something similar it looks like
+10:52:26 From  Sam Stauffer  to  Everyone:
+	really cool to follow the code, kinda like debugger without running
+10:53:47 From  Sam Stauffer  to  Everyone:
+	Bob nooooo!
+11:00:18 From  JohnMatthews  to  Everyone:
+	Please don't try that on a live site.
+11:01:03 From  Tyler Moloney  to  Everyone:
+	Make your own student loan forgiveness :)
+11:03:25 From  Rigel Richardson  to  Everyone:
+	'; UPDATE students SET (balance = 0);--
+11:03:54 From  Rigel Richardson  to  Everyone:
+	the only time we want no WHERE
+11:04:24 From  Daniel Blackman (He/Him)  to  Everyone:
+	free college for all really IS an easy campaign plank
+11:39:22 From  Alida Smith  to  Everyone:
+	Daniel's nickname is 'the voice'
+11:39:53 From  Joe Righetti  to  Everyone:
+	😂
+11:40:03 From  Daniel Blackman (He/Him)  to  Everyone:
+	count
+11:40:24 From  Daniel Blackman (He/Him)  to  Everyone:
+	😂
+11:42:00 From  Nema Aragones  to  Everyone:
+	😂

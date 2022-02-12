@@ -1,0 +1,128 @@
+08:55:46 From  David Siebold  to  Everyone:
+	Morning!
+08:58:37 From  Rebecca Palmore  to  Everyone:
+	Comcast. UGHGHGHGHG
+08:59:06 From  David Siebold  to  Everyone:
+	Rebecca sounds like Rebecca again!
+08:59:39 From  Sam Stauffer  to  Everyone:
+	The number of times I called comcast for them to fix my internet my first year...  UGH.  What an ordeal!
+09:00:08 From  David Siebold  to  Everyone:
+	I was just bragging about being on Google Fiber. Highly recommend if it's available to you. :)
+09:01:37 From  Sam Stauffer  to  Everyone:
+	their customer support is the worst thing I've ever experienced as well.
+09:01:45 From  Rigel Richardson  to  Everyone:
+	our windchill is 8!
+09:01:50 From  Rebecca Palmore  to  Everyone:
+	Ja ja ja jealous!
+09:02:14 From  Emily Marshall  to  Everyone:
+	I'll be down there Thursday!
+09:03:03 From  Sam Stauffer  to  Everyone:
+	fun seeing the different styles as well.
+09:26:29 From  Rigel Richardson  to  Everyone:
+	that was a flashback to your review Sam!
+09:26:49 From  Sam Stauffer  to  Everyone:
+	ugh.  I hate dependency injection.
+09:27:18 From  Emily Marshall  to  Everyone:
+	I ALWAYS need analogies
+09:31:26 From  Sam Stauffer  to  Everyone:
+	beat me to it!
+09:39:39 From  Ryan Goodchild  to  Everyone:
+	Great delivery Levi, someone has been practicing for interviews!
+09:40:08 From  Levi Wolfe  to  Everyone:
+	haha something like that
+09:41:29 From  Rebecca Palmore  to  Everyone:
+	James do you have a link to that lumber video?
+09:41:40 From  James Bowen  to  Everyone:
+	I will find it
+09:41:45 From  Rebecca Palmore  to  Everyone:
+	Thank you!!!
+09:41:57 From  Rebecca Palmore  to  Everyone:
+	And Levi can I please borrow your brain?
+09:42:29 From  Levi Wolfe  to  Everyone:
+	haha ill have it on the next amazon delivery to Chicago!
+09:42:51 From  Rebecca Palmore  to  Everyone:
+	Exxxxxcellent. Thank you!
+09:43:17 From  Rigel Richardson  to  Everyone:
+	Loved that analogy James!
+09:43:29 From  James Bowen  to  Everyone:
+	https://www.youtube.com/watch?v=IKD2-MAkXyQ
+09:43:38 From  James Bowen  to  Everyone:
+	Here's the link to the video. It helped me a lot.
+09:43:39 From  Ryan Goodchild  to  Everyone:
+	Thank you James!
+09:43:53 From  Rebecca Palmore  to  Everyone:
+	Yay! Thanks James!
+09:44:05 From  Rigel Richardson  to  Everyone:
+	Awesome, thank you!
+09:46:35 From  Nick Schultz (he/him)  to  Everyone:
+	I thought this was very helpful!
+09:48:47 From  Levi Wolfe  to  Everyone:
+	still have my netscape.net email!
+10:01:12 From  Sam Stauffer  to  Everyone:
+	!!!notConfusing
+10:02:03 From  Daniel Blackman (He/Him)  to  Everyone:
+	How many of us went for our own PC's power cord
+10:02:03 From  Levi Wolfe  to  Everyone:
+	haha I thought that was mine and got worried bc my computer is plugged in!
+10:02:05 From  Alida Smith  to  Everyone:
+	I thought that was my screen. lol
+10:02:17 From  Ryan Goodchild  to  Everyone:
+	same lol
+10:02:36 From  David Siebold  to  Everyone:
+	100%
+10:20:09 From  Levi Wolfe  to  Everyone:
+	my python side projects are riddled with semi colons and its a problem haha
+10:21:41 From  Emily Marshall  to  Everyone:
+	Oh, that lack of semi-colon makes me uncomfortable lol
+10:24:51 From  Rebecca Palmore  to  Everyone:
+	I think the way I learned JavaScript was to use semicolons at the end.
+10:25:05 From  Rebecca Palmore  to  Everyone:
+	(But we also used “var” — it was 5 years ago!)
+10:28:53 From  Alida Smith  to  Everyone:
+	maybe it was a let?
+10:31:24 From  Tyler Moloney  to  Everyone:
+	extra T
+10:47:26 From  Daniel Blackman (He/Him)  to  Everyone:
+	12
+10:48:01 From  Rebecca Palmore  to  Everyone:
+	Not sure how I won but OK!
+10:48:20 From  Daniel Blackman (He/Him)  to  Everyone:
+	^story of all coding
+10:49:16 From  Rebecca Palmore  to  Everyone:
+	Everybody wins!
+10:50:52 From  Daniel Blackman (He/Him)  to  Everyone:
+	is it because math happens from right to left?
+10:51:04 From  Daniel Blackman (He/Him)  to  Everyone:
+	in JavaScript?
+11:12:10 From  Tyler Moloney  to  Everyone:
+	100% support for bullying ISPs
+11:16:55 From  Dan Schnelzer  to  Everyone:
+	what does four ='s do?
+11:17:05 From  Sam Stauffer  to  Everyone:
+	explodes.
+11:18:37 From  Levi Wolfe  to  Everyone:
+	essentially asking "is there any way in which these two are true?"
+11:22:14 From  Sam Stauffer  to  Everyone:
+	I'm missing Tiberius.
+11:27:21 From  Rebecca Palmore  to  Everyone:
+	JavaScript is one cool customer. Nothing rattles it.
+11:28:01 From  Gabe Humphreys  to  Everyone:
+	"Well, that's like, your opinion, man"
+11:28:06 From  JohnMatthews  to  Margaret Green (she/her)(Direct Message):
+	LoL… Cox cable just blew me out of class.😋
+11:28:37 From  Gabe Humphreys  to  Everyone:
+	the JavaScript abides
+11:29:00 From  Levi Wolfe  to  Everyone:
+	hahah
+11:29:04 From  Rebecca Palmore  to  Everyone:
+	The console log really ties the room together.
+11:29:21 From  Gabe Humphreys  to  Everyone:
+	😉
+11:29:22 From  Levi Wolfe  to  Everyone:
+	is truthy really the preferred nomenclature?
+11:29:45 From  Daniel Blackman (He/Him)  to  Everyone:
+	"There are rules! Mark it falsy!"
+11:30:53 From  Sam Stauffer  to  Everyone:
+	My word, when I type quotes now I expect there to be a pair of them....
+11:47:25 From  David Siebold  to  Everyone:
+	"Everything fails" is my motto.

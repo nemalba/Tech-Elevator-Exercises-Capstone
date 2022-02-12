@@ -1,0 +1,72 @@
+09:00:15 From  Rigel Richardson  to  Everyone:
+	I got lost in the Advent of Code!!
+09:00:20 From  Rigel Richardson  to  Everyone:
+	2 stars! :)
+09:05:33 From  Gabe Humphreys  to  Everyone:
+	https://www.postgresqltutorial.com/
+09:06:49 From  Emily Wurzler  to  Everyone:
+	where do I check it out?
+09:07:06 From  Rigel Richardson  to  Everyone:
+	https://adventofcode.com
+09:24:10 From  Rebecca Palmore  to  Everyone:
+	I was so close! Just got over that hurdle.
+09:24:57 From  Dan Schnelzer  to  Everyone:
+	Rebecca your question helped up figure out why we were failing. So big thank you
+09:24:58 From  David Siebold  to  Everyone:
+	Yeah, took me a little extra time to realize that "toLocalDate" does not appreciate being fed a null value. :)
+09:25:45 From  Rebecca Palmore  to  Everyone:
+	Yay! Glad I was able to help. Big thanks to Levi this morning who helped me figure out where I went astray.
+09:26:55 From  Levi Wolfe  to  Everyone:
+	But it was your post in homework help that made me realize that it was even the dates that were giving my code fits haha it was a team effort!
+09:27:31 From  Rebecca Palmore  to  Everyone:
+	😃
+09:27:35 From  Levi Wolfe  to  Everyone:
+	Also shoutout Sam and Dan!
+09:27:42 From  Dan Schnelzer  to  Everyone:
+	big ol circle
+09:35:53 From  Levi Wolfe  to  Everyone:
+	I know its serial. But is it super serial?
+09:36:29 From  Dan Schnelzer  to  Everyone:
+	levi is super serial about this
+09:55:43 From  Rebecca Palmore  to  Everyone:
+	You can see all this at work in the test-data.sql file in our homework from yesterday.
+10:19:51 From  Levi Wolfe  to  Everyone:
+	Anyone elses slack offline?
+10:20:07 From  David Siebold  to  Everyone:
+	Mine looks normal.
+10:20:11 From  David Siebold  to  Everyone:
+	And you appear online from my end.
+10:20:43 From  Rebecca Palmore  to  Everyone:
+	Same here!
+10:20:44 From  Levi Wolfe  to  Everyone:
+	that's why im so confused haha And my internet seems to be working considering im still streaming class haha
+10:31:05 From  Gabe Humphreys  to  Everyone:
+	talk about overloaded
+10:40:36 From  David Siebold  to  Everyone:
+	Based on my current level of understanding, it might be appropriate to leave Assert.fail() in there.
+10:40:48 From  Daniel Blackman (He/Him)  to  Everyone:
+	park_1
+10:42:46 From  Levi Wolfe  to  Everyone:
+	I 🍩 like all of the red even when we pass tests. It bothers me haha
+10:43:16 From  Rigel Richardson  to  Everyone:
+	EVERYTHING IS WORKING
+10:45:20 From  Levi Wolfe  to  Everyone:
+	I literally don't have internet......
+10:45:41 From  Dan Schnelzer  to  Everyone:
+	u being serial levi??
+10:45:52 From  Sam Stauffer  to  Everyone:
+	I thought she'd try >3
+10:46:32 From  Levi Wolfe  to  Everyone:
+	Yes, my internet is not working but I refuse to get out of this zoom haha
+10:46:49 From  Levi Wolfe  to  Everyone:
+	My tv went off in the kitchen and that's why my slack isn't working haha
+10:47:06 From  Sam Stauffer  to  Everyone:
+	Do you have a super power?
+10:47:27 From  Dan Schnelzer  to  Everyone:
+	haha
+10:47:53 From  Levi Wolfe  to  Everyone:
+	I have built in wifi in my brain
+10:48:09 From  Sam Stauffer  to  Everyone:
+	You are Levi of Borg
+11:26:38 From  Daniel Blackman (He/Him)  to  Everyone:
+	that it's polymorphic?

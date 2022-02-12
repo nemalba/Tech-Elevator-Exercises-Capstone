@@ -1,0 +1,50 @@
+09:32:14 From Tyler Moloney To Everyone:
+	maybe I need to do some refactoring
+09:35:15 From Alida Smith To Everyone:
+	i didn't put the sidelength in the super
+09:35:21 From Alida Smith To Everyone:
+	and it worked
+09:35:23 From Alida Smith To Everyone:
+	????
+09:35:32 From Ryan Goodchild To Everyone:
+	same here Alida, I'm staring at mine trying to figure it out
+09:35:40 From Rigel Richardson To Everyone:
+	I am gonna clarify that
+09:35:52 From Tyler Moloney To Everyone:
+	Did you make default constructors Levi?
+09:36:50 From Ryan Goodchild To Everyone:
+	Ahh - Levi this was the extra constructor I think we made last night to get it to pass through
+09:40:19 From Tyler Moloney To Everyone:
+	I added default constructors in Wall and RectangleWall and I'm now realizing that is not the way.
+09:43:38 From Levi Wolfe To Everyone:
+	Thanks Rigel. took out the second rect constructor and the area math in square and it still runs correctly
+09:44:11 From Sam Stauffer To Everyone:
+	great clarification everyone!
+10:05:23 From Gabe Humphreys To Everyone:
+	moving goalposts
+10:05:43 From Emily Wurzler To Everyone:
+	sounds like dealing with a toddler
+10:12:25 From Sam Stauffer To Everyone:
+	Almost forgot to do my pushups!
+10:15:28 From Rebecca Palmore To Everyone:
+	I did ‘em too!
+10:40:19 From Levi Wolfe To Everyone:
+	that sounds oddly familiar.....
+10:57:11 From Sam Stauffer To Everyone:
+	Gaston!
+10:57:33 From Daniel Blackman (He/Him) To Everyone:
+	No one tests like Gaston
+10:57:37 From Rigel Richardson To Everyone:
+	beat me to it
+10:57:43 From Levi Wolfe To Everyone:
+	hahah
+10:57:54 From Levi Wolfe To Everyone:
+	it must be the six dozen eggs she eats
+10:59:03 From Rebecca Palmore To Everyone:
+	pushup time. yikes
+10:59:04 From Sam Stauffer To Everyone:
+	pushup time!
+11:08:14 From Rebecca Palmore To Everyone:
+	Maybe tomorrow we do plank jacks Sam?
+11:10:00 From Sam Stauffer To Everyone:
+	Woah.  You are getting crazy!  Every now and again I do regular planks after my pushups, my core is weak.

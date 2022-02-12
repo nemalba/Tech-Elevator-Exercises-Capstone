@@ -1,0 +1,82 @@
+08:54:30 From David Siebold To Everyone:
+	I'm still mad that the E2E tests turned off my favorite piece of code in JavaScript. :)
+08:58:07 From David Siebold To Everyone:
+	Yeah, mic not working.
+09:00:19 From nick schultz To Everyone:
+	youre a savage Margaret
+09:00:27 From Rigel Richardson To Everyone:
+	I don't think I have a mic resolution!
+09:00:45 From Rigel Richardson To Everyone:
+	Of course, on the last day!
+09:00:53 From Rigel Richardson To Everyone:
+	I'll try on break
+09:00:57 From David Siebold To Everyone:
+	Wait... who's going to answer all the questions today?
+09:01:12 From Rigel Richardson To Everyone:
+	Actually, yeah, I'll try rebooting now
+09:08:13 From Levi Wolfe To Everyone:
+	THEN you can stress!
+09:08:42 From Dan Schnelzer To Everyone:
+	haha I think Not knowing what im going to be working on is more stressful
+09:09:55 From Rigel Richardson To Everyone:
+	a Capstone quiz 😅
+09:09:58 From Emily Marshall To Everyone:
+	One more quiz? It's like the end of an era
+09:17:08 From David Siebold To Everyone:
+	SAFE AGAIN!
+09:17:16 From David Siebold To Everyone:
+	Thanks for taking them all for the team, Rigel.
+09:25:53 From Levi Wolfe To Everyone:
+	Joe Rogan Experience?
+09:30:24 From David Siebold To Everyone:
+	I also tried that. Yesterday's homework was just mad at the world.
+09:33:24 From Alida Smith To Everyone:
+	Because its in the same div?
+09:45:01 From David Siebold To Everyone:
+	For those that are interested, my wife showed me that I could slap this bit of code into my template section and display the json for an object.		<!-- {{ topic | json }} -->
+09:45:06 From David Siebold To Everyone:
+	That was my console.log.
+10:07:37 From David Siebold To Everyone:
+	I'll have Joe and Margaret on speed dial for the next two weeks.
+10:22:19 From Dan Schnelzer To Everyone:
+	chuck Norris can drown a fish
+10:24:40 From David Siebold To Everyone:
+	That just makes me want to add it...
+10:25:07 From Sam Stauffer To Everyone:
+	What if we do the opposite, the code works perfectly but we tell them that the action failed.
+10:38:32 From Levi Wolfe To Everyone:
+	The vue api call naming conventions are much less verbose and hurt my brain when reading so many similar function names
+10:49:44 From David Siebold To Everyone:
+	Error just caused an error. I love it.
+10:50:04 From Daniel Blackman (He/Him) To Everyone:
+	it failed to fail!
+11:10:04 From Sam Stauffer To Everyone:
+	am I the only one with boardslist up and not what she is looking at?
+11:28:17 From David Siebold To Everyone:
+	For those who impulsively tried it before using the mutator, it deleted it but it still showed the board available in the browser.
+11:28:29 From David Siebold To Everyone:
+	And then it threw an error.
+11:28:54 From Rigel Richardson To Everyone:
+	Thank you for being an intrepid explorer David!
+11:29:03 From David Siebold To Everyone:
+	I guess that's for those who DIDN'T impulsively try it but you get what I mean. :)
+11:29:20 From Tyler Moloney To Everyone:
+	its me, i'm impulsively tried it before using the mutator
+11:29:40 From David Siebold To Everyone:
+	Welcome to the Fraternity of Impatience. :)
+11:30:28 From Rebecca Palmore To Everyone:
+	Everything is working but that doesn’t mean I understand it!
+11:37:20 From Sam Stauffer To Everyone:
+	happy path = best path.
+11:37:47 From David Siebold To Everyone:
+	We only use all-natural, organic errors in this household.
+11:38:00 From Rigel Richardson To Everyone:
+	Free-range errors
+11:38:06 From Sam Stauffer To Everyone:
+	I call them user errors.
+11:38:11 From Rebecca Palmore To Everyone:
+	Mine are recyclable too.
+11:38:18 From Rebecca Palmore To Everyone:
+	I use them over and over.
+11:47:49 From Daniel Blackman (He/Him) To Everyone:
+	It's the final countdown

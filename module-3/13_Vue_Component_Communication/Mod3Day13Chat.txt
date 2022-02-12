@@ -1,0 +1,154 @@
+09:01:16 From  David Siebold  to  Everyone:
+	I'm just going to start putting "Module 3" in that last review question.
+09:01:32 From  Daniel Blackman (He/Him)  to  Everyone:
+	^
+09:04:12 From  David Siebold  to  Everyone:
+	Why is Margaret trying to make me have a crisis this early in the morning?
+09:05:45 From  Rebecca Palmore  to  Everyone:
+	It’s because I worked as a copyeditor for so long!
+09:06:32 From  David Siebold  to  Everyone:
+	Sounds like Joe will be hearing from me this afternoon.
+09:06:59 From  Joe Righetti  to  Everyone:
+	👍
+09:12:25 From  David Siebold  to  Everyone:
+	But I needed Rigel to carry me across the finish line!!
+09:12:32 From  Alida Smith  to  Everyone:
+	I feel abandoned!
+09:12:36 From  Levi Wolfe  to  Everyone:
+	Amen!
+09:12:46 From  Rigel Richardson  to  Everyone:
+	We'll just do ours fast and then I'll help everyone 😁
+09:13:00 From  Sam Stauffer  to  Everyone:
+	I'm a little curious as to why you don't get to pick in the real world.  I get it but I don't.
+09:14:08 From  Rebecca Palmore  to  Everyone:
+	Applications! Coding challenges!
+09:20:34 From  Rigel Richardson  to  Everyone:
+	If you can, I recommend attending the bonus lecture tomorrow because Josh is going to try to talk about the IntelliJ GIT features which will help us work in parallel during capstone. (Branches, merges, etc.)
+09:21:59 From  David Siebold  to  Everyone:
+	Oh that Levi. Always sneaking off.
+09:21:59 From  Dan Schnelzer  to  Everyone:
+	you never know about that guy
+09:22:12 From  Levi Wolfe  to  Everyone:
+	Im a MYSTERY
+09:22:17 From  Rebecca Palmore  to  Everyone:
+	He’s squirrely!
+09:22:28 From  Dan Schnelzer  to  Everyone:
+	haha
+09:22:33 From  Gabe Humphreys  to  Everyone:
+	lol
+09:22:54 From  Gabe Humphreys  to  Everyone:
+	Does that mean when we're done he's throwing the cigar party?
+09:23:06 From  Levi Wolfe  to  Everyone:
+	hahahah I think I have to at this point!
+09:23:18 From  David Siebold  to  Everyone:
+	The cigar party was FOR our squirrely friends. I think that means we have to throw the cigar party for him.
+09:23:35 From  Levi Wolfe  to  Everyone:
+	But its gotta be on the weekend so the cigar limit does not exist!
+09:23:53 From  Dan Schnelzer  to  Everyone:
+	hahaha but we DO have a minimum
+09:24:06 From  Levi Wolfe  to  Everyone:
+	Oh im not worried about the minimum!
+09:24:35 From  Rigel Richardson  to  Everyone:
+	lol! Prepared with a humador
+09:24:49 From  Levi Wolfe  to  Everyone:
+	Always!
+09:24:49 From  Dan Schnelzer  to  Everyone:
+	is it wise to let Sammo work the front end in this project?
+09:24:59 From  Alida Smith  to  Everyone:
+	👍🏼
+09:25:17 From  Sam Stauffer  to  Everyone:
+	Don't worry guys, I'll make sure our project displays great!
+09:25:17 From  Rigel Richardson  to  Everyone:
+	He's a pro at interFACE design
+09:25:24 From  Levi Wolfe  to  Everyone:
+	Yesterdays is due money right??
+09:25:30 From  Nick Schultz (he/him)  to  Everyone:
+	No pair exercise tomorrow is the best birthday present I could have asked for!
+09:25:30 From  Rigel Richardson  to  Everyone:
+	yep
+09:25:33 From  Levi Wolfe  to  Everyone:
+	phew!
+09:25:38 From  Rigel Richardson  to  Everyone:
+	Happy Birthday Nick!
+09:25:42 From  Sam Stauffer  to  Everyone:
+	Oh yea!  happy birthday Nick!
+09:25:48 From  Levi Wolfe  to  Everyone:
+	HBD Nick!
+09:25:49 From  Dan Schnelzer  to  Everyone:
+	Happy Bday !
+09:25:49 From  Nick Schultz (he/him)  to  Everyone:
+	Tomorrow!
+09:25:50 From  Alida Smith  to  Everyone:
+	Happy Birthday!
+09:25:51 From  Rebecca Palmore  to  Everyone:
+	Happy birthday Nick!!!!
+09:25:54 From  Odgerel Jamsranjav  to  Everyone:
+	Happy Birthday!
+09:25:55 From  Ryan Goodchild  to  Everyone:
+	Happy B-day Nick!
+09:25:58 From  Rebecca Palmore  to  Everyone:
+	ALIDA happy belated birthday!
+09:26:01 From  Ryan Goodchild  to  Everyone:
+	and late b-day Alida!
+09:26:02 From  Gabe Humphreys  to  Everyone:
+	Learning about the text input event handler I started laughing to myself, thinking Sam would have loved to change the text as people were still typing
+09:26:07 From  Joe Righetti  to  Everyone:
+	Happy bday Nick!
+09:26:08 From  Sam Stauffer  to  Everyone:
+	WOAH!  happy birthday Alida!  (however long ago!)
+09:26:09 From  Gabe Humphreys  to  Everyone:
+	Happy birthday Nick!
+09:26:10 From  Alida Smith  to  Everyone:
+	Thanks!!!!!!!!!!
+09:26:25 From  Nick Schultz (he/him)  to  Everyone:
+	Thanks everyone I appreciate it
+09:27:03 From  Alida Smith  to  Everyone:
+	I forgot quizzes existed last night
+09:27:10 From  Nema Aragones  to  Everyone:
+	Happy birthday Nick & belated Happy Birthday to Alida
+09:27:24 From  David Siebold  to  Everyone:
+	I almost missed a quiz. Now I take them the moment Margaret says they're posted.
+09:28:03 From  David Siebold  to  Everyone:
+	I have a memory like a sieve. Can't trust it.
+09:28:13 From  Sam Stauffer  to  Everyone:
+	I will admit to having missed more than 1 quiz.
+09:28:35 From  David Siebold  to  Everyone:
+	I choose to believe that it was because you were working on your magnificent website.
+09:28:44 From  David Siebold  to  Everyone:
+	I'm just hoping I get Sam for capstone so we can have him do the front end.
+09:29:26 From  Sam Stauffer  to  Everyone:
+	Based on this vue stuff, I'm not sure you want me anymore!  My mind has been put into a vice since we got into it.
+09:30:15 From  David Siebold  to  Everyone:
+	Vue has been tough. But hopefully that means that when the capstone comes around, I feel pretty competent. :)
+09:43:30 From  David Siebold  to  Everyone:
+	If you aren't sure how to dig into the event once it gets in the method, try console logging the event. It's a lot of information but you can then figure out what piece of data you want out of it.
+10:20:07 From  Gabe Humphreys  to  Everyone:
+	*teethbrush
+10:20:24 From  Rebecca Palmore  to  Everyone:
+	Toothbristles!
+10:23:01 From  Alida Smith  to  Everyone:
+	it would be cool to import them all as a package
+10:24:18 From  Rigel Richardson  to  Everyone:
+	I think that's kind of what happens when you import parent components. Children imported, and carried wherever the Parents are imported.
+10:25:40 From  Alida Smith  to  Everyone:
+	ahhh ok
+11:14:46 From  David Siebold  to  Everyone:
+	Closest Ikea to us is in Charlotte. :(
+11:15:12 From  Rebecca Palmore  to  Everyone:
+	I had one of those at my last job.
+11:15:30 From  Rigel Richardson  to  Everyone:
+	Nice demo!
+11:22:06 From  David Siebold  to  Everyone:
+	We could also leave comments here if it isn't intuitive from the code.
+11:22:12 From  Rebecca Palmore  to  Everyone:
+	True!
+11:22:31 From  Daniel Blackman (He/Him)  to  Everyone:
+	it could also be named reviewsArray
+11:22:41 From  Dan Schnelzer  to  Everyone:
+	yup
+11:23:04 From  Sam Stauffer  to  Everyone:
+	following what they named vs what is actual Vue syntax is really hard for me.
+11:25:22 From  Rebecca Palmore  to  Everyone:
+	I’m clutching my pearls over here.
+11:43:15 From  Tyler Moloney  to  Everyone:
+	mine worked without passing review into the method and using 	this.$store.commit('FLIP_FAVORITED', this.review)

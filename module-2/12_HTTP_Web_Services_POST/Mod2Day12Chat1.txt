@@ -1,0 +1,42 @@
+08:58:36 From David Siebold To Everyone:
+	Morning all!
+08:58:49 From Daniel Blackman (He/Him) To Everyone:
+	Morning!
+08:59:17 From Dan Schnelzer To Everyone:
+	wazzzup
+08:59:20 From Rebecca Palmore To Everyone:
+	It’s 14 degrees in Chicago
+08:59:27 From David Siebold To Everyone:
+	Only 42 degrees in the shallow south today. :)
+08:59:57 From David Siebold To Everyone:
+	I prefer cold weather. Moving south wouldn't have been my first choice. :)
+09:00:19 From Rigel Richardson To Everyone:
+	There's 8 hex codes
+09:00:24 From Rigel Richardson To Everyone:
+	IPv6
+09:01:08 From Rigel Richardson To Everyone:
+	Maybe also because of music - 4/4
+09:01:11 From JohnMatthews To Everyone:
+	binary extraction number 2^3
+09:03:00 From David Siebold To Everyone:
+	It was brutal. I struggled for hours.
+09:03:18 From Rebecca Palmore To Everyone:
+	It makes me worried about what’s to come …
+09:03:30 From Rigel Richardson To Everyone:
+	Our 20 minute capstone
+09:03:50 From David Siebold To Everyone:
+	I used the spare time to play with a side project in Java.
+09:04:07 From Sam Stauffer To Everyone:
+	me too David!
+09:04:26 From Rigel Richardson To Everyone:
+	Like Levi, I was happy to play with Advent of Code!
+09:29:20 From Levi Wolfe To Everyone:
+	me too, Gabe! Haha it broke it and I had to put it back
+09:29:29 From Alida Smith To Everyone:
+	SAME!!
+09:30:28 From Tyler Moloney To Everyone:
+	DNS is fun :)
+09:42:18 From Gabe Humphreys To Everyone:
+	IoC = Internet of Cats
+09:43:29 From Sam Stauffer To Everyone:
+	Innovation of Canines.

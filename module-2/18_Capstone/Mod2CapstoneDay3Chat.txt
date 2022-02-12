@@ -1,0 +1,24 @@
+08:55:40 From David Siebold To Everyone:
+	Morning! I'm running a little behind so my camera will be off for a few minutes but I'm here!
+09:13:51 From David Siebold To Everyone:
+	I was going to ask for another week on how to build an entire server/client structure but I thought that might be too much to cram into the morning review.
+09:14:16 From Dan Schnelzer To Everyone:
+	haha
+09:25:49 From Nick Schultz (he/him) To Everyone:
+	Big decimal is not known for making hearts happy
+09:26:07 From Sam Stauffer To Everyone:
+	A cold blooded killer.
+09:26:33 From David Siebold To Everyone:
+	BigDecimal is not "happy path."
+09:26:33 From Gabe Humphreys To Everyone:
+	If you interview with a bank expect to be asked about BigDecimal
+09:27:17 From Levi Wolfe To Everyone:
+	I leave Big Oil only to fall slave to BigDecimal
+09:39:48 From Dan Schnelzer To Everyone:
+	technically we worked for Big Gas levi haha
+09:40:43 From Levi Wolfe To Everyone:
+	haha we produced some baby condensate!
+09:42:27 From Dan Schnelzer To Everyone:
+	were you still there when Ergon blew up levi? we made and installed a huge project and they blew it up like a week later at the plant
+09:42:45 From Levi Wolfe To Everyone:
+	thank god no

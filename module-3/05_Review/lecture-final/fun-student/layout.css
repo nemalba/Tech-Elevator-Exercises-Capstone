@@ -1,0 +1,32 @@
+main {
+    border: 2px dashed red;
+    display: grid;
+    grid-template-areas: "green green green"
+                         "img-div img-div ."
+                         "blue red purple";
+    grid-template-columns: 1fr 1fr 2fr;
+
+}
+
+body > main > .green{
+    grid-area: green;
+}
+
+#img-div {
+    grid-area: img-div;
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+body > main > .blue{
+    grid-area: blue;
+}
+
+body > main > .red{
+    grid-area: red;
+}
+
+body > main > .purple{
+    grid-area: purple;
+}

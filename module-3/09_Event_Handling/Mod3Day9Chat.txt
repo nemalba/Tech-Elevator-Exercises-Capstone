@@ -1,0 +1,192 @@
+09:00:40 From David Siebold To Everyone:
+	Sounds like a rogue curly brace.
+09:01:24 From David Siebold To Everyone:
+	That worked for me. I copied their code over my code and the last part that wasn't working for me started working.
+09:01:52 From David Siebold To Everyone:
+	It was user error on my side but I definitely couldn't figure out what I did wrong. :)
+09:03:00 From Nick Schultz (he/him) To Everyone:
+	CONGRATS!
+09:05:56 From Rebecca Palmore To Everyone:
+	Cake for everyone!
+09:11:20 From Rigel Richardson To Everyone:
+	Margaret is laughing because my energy is down after a night of fitful dreams involving JavaScript DOM modification.
+09:26:07 From Alida Smith To Everyone:
+	Margaret youre so kind
+09:26:09 From David Siebold To Everyone:
+	I am so ready to meet those expectations!
+09:26:24 From Alida Smith To Everyone:
+	dead brain
+09:26:42 From Dan Schnelzer To Everyone:
+	im going to be tired of hearing myself talk on tuesday
+09:27:01 From Sam Stauffer To Everyone:
+	David those may be expectations I can meet!
+09:29:28 From Alida Smith To Everyone:
+	oh I didn't know it was by module
+09:29:54 From Nick Schultz (he/him) To Everyone:
+	I did not know that either
+09:30:01 From Sam Stauffer To Everyone:
+	I think Joe may be worried about me, but not for my grades.
+09:30:31 From Joe Righetti To Everyone:
+	😂
+09:30:47 From Joe Righetti To Everyone:
+	Not after I saw your ugly webpage!
+09:30:51 From Rebecca Palmore To Everyone:
+	Is there a JS function for that?
+09:31:05 From Rebecca Palmore To Everyone:
+	function findJob() {}
+09:33:07 From Nick Schultz (he/him) To Everyone:
+	Alternatively I like to use the winLottery() function
+09:34:02 From Rigel Richardson To Everyone:
+	world.addEventListener('click', (event) => {	    let jobSearch = document.getElementById('opportunity');	    jobSearch.innerText = 'Rebecca is Hired!';	});
+09:35:43 From Gabe Humphreys To Everyone:
+	Anyone here remember the movie The Lawnmower Man? I was joking with someone the other day that after this course I am the lawnmower man, and my "birth cry" will be every inbox in the world receiving a copy of my resume
+09:36:39 From Levi Wolfe To Everyone:
+	what file are we in???
+09:36:46 From Rigel Richardson To Everyone:
+	A Demo!
+09:37:00 From Levi Wolfe To Everyone:
+	haha im like I SEE THIS FILE NOWHERE!
+09:50:32 From Daniel Blackman (He/Him) To Everyone:
+	at the very bottom?
+09:50:40 From Rebecca Palmore To Everyone:
+	Uh … all of the above?
+09:51:30 From Alida Smith To Everyone:
+	lol
+09:56:53 From Daniel Blackman (He/Him) To Everyone:
+	And uphill both ways!
+09:56:56 From Ryan Goodchild To Everyone:
+	"Back in my day....."
+09:57:06 From Dan Schnelzer To Everyone:
+	I hate coding UpHill
+09:57:28 From David Siebold To Everyone:
+	Joe had to do all his assignments on paper and mail them in. It was a rough time.
+09:57:39 From Dan Schnelzer To Everyone:
+	hahah
+09:57:58 From Ryan Goodchild To Everyone:
+	Git Push USPS mail
+09:58:31 From Dan Schnelzer To Everyone:
+	merge conflict!
+09:58:42 From Joe Righetti To Everyone:
+	hahahaha
+09:59:11 From Sam Stauffer To Everyone:
+	I'm sure he remembers chiseling code into stone tablets.
+09:59:27 From Levi Wolfe To Everyone:
+	wouldn't it technically be a suffix? haha
+09:59:37 From Rigel Richardson To Everyone:
+	misplaced curly brace, back to the quarry
+10:00:19 From Levi Wolfe To Everyone:
+	omg Ren and Stimpy. Talk about a show NONE of us should've been watching as children haha
+10:00:53 From Emily Marshall To Everyone:
+	lol, I wasn't allowed to watch Captain America, but my parents were somehow cool with Ren and Stimpy
+10:01:17 From Emily Marshall To Everyone:
+	Oops, I meant Captain Planet
+10:01:52 From Alida Smith To Everyone:
+	lmao why they mad at captain planet???
+10:01:55 From Rigel Richardson To Everyone:
+	😮
+10:02:22 From Emily Marshall To Everyone:
+	Environmentalist propaganda lol
+10:02:45 From Alida Smith To Everyone:
+	that's funny!
+10:06:12 From Tyler Moloney To Everyone:
+	i'd +1 that
+10:12:41 From Tyler Moloney To Everyone:
+	now I've got the captain planet theme stuck in my head
+10:16:03 From Emily Marshall To Everyone:
+	lol
+10:29:53 From Rebecca Palmore To Everyone:
+	Uphill all day.
+10:30:09 From Rebecca Palmore To Everyone:
+	We’ll all be replaced by robots soon anyway ...
+10:30:38 From Dan Schnelzer To Everyone:
+	not if we creating the robots
+10:31:34 From Rebecca Palmore To Everyone:
+	is that module 4?
+10:32:11 From Dan Schnelzer To Everyone:
+	haha on graduation we get plugged into the Matrix
+10:32:22 From David Siebold To Everyone:
+	Is that an option, Rebecca? Can I just stay at Tech Elevator in class forever?
+10:32:31 From Rebecca Palmore To Everyone:
+	I wish!
+10:32:33 From Sam Stauffer To Everyone:
+	Actually david, on graduation they pull us out.
+10:32:39 From Rebecca Palmore To Everyone:
+	Student4Ever
+10:32:40 From Sam Stauffer To Everyone:
+	Oh dan said that.
+10:35:05 From Gabe Humphreys To Everyone:
+	There's a bootcamp for Sr. developers called Interview Kickstart. They focus on data structures and algorithms, and their selling point is getting you a job that doubles your current salary.
+10:35:14 From Tyler Moloney To Everyone:
+	I don't think we've linked the js yet?
+10:35:59 From Daniel Blackman (He/Him) To Everyone:
+	I think he's right
+10:36:21 From Gabe Humphreys To Everyone:
+	And to Rebecca's point there is a new thing called GitHub Copilot that DOES auto-write a lot of code
+10:40:23 From Rigel Richardson To Everyone:
+	I'm suspicious of any program that isn't transparent about costs! TE lays it out so openly and consistently.
+10:44:02 From Daniel Blackman (He/Him) To Everyone:
+	try rebeccaPurple!
+10:54:27 From Gabe Humphreys To Everyone:
+	A good ugly-website strategy would be to create an "onMouseOver" event for a button, so it does something before you even click it
+10:54:55 From Rebecca Palmore To Everyone:
+	There is a CSS hover effect you can use for that!
+10:55:09 From Rebecca Palmore To Everyone:
+	Seems like that’s a type of event listener in its own right.
+10:55:40 From Gabe Humphreys To Everyone:
+	I still catch myself chuckling from time to time at Sam's site, and some of his user-unfriendly features
+10:56:18 From Tyler Moloney To Everyone:
+	it worked for me
+10:57:05 From Sam Stauffer To Everyone:
+	I can't stand sitting.
+10:57:22 From Tyler Moloney To Everyone:
+	For more frustrating web design: userinyerface.com
+11:11:25 From Sam Stauffer To Everyone:
+	Tyler, that was beautiful.
+11:11:39 From Tyler Moloney To Everyone:
+	probably not the word I'd use, but sure
+11:12:09 From Sam Stauffer To Everyone:
+	planned chaos.  I loved it.
+11:16:29 From Rebecca Palmore To Everyone:
+	Thank you!!!
+11:17:26 From Rebecca Palmore To Everyone:
+	This is great because now it’s easier to go to review session with Joshua tomorrow too!
+11:17:39 From Ryan Goodchild To Everyone:
+	^^
+11:18:30 From Tyler Moloney To Everyone:
+	Yeah, definitely had to make choices between review and pair exercises on pair exercises before
+11:18:38 From Sam Stauffer To Everyone:
+	I am still surprised I didn't see a "Bootstrap's bootstraps" reference.
+11:25:15 From John Matthews To Everyone:
+	www.webdevelopersnotes.com/browswer-list
+11:46:23 From Rigel Richardson To Everyone:
+	that would be annoying on a real site! I always move my cursor away from the text editor.
+11:46:35 From Tyler Moloney To Everyone:
+	I used blur and that behavior feels good
+11:46:44 From Rigel Richardson To Everyone:
+	yeah!
+11:50:38 From Rebecca Palmore To Everyone:
+	But we PULLED the rabbit out of the hat.
+12:01:56 From Levi Wolfe To Everyone:
+	anyone elses unzipping taking forever?
+12:02:01 From Tyler Moloney To Everyone:
+	yep
+12:02:02 From Rebecca Palmore To Everyone:
+	yes!
+12:02:33 From Tyler Moloney To Everyone:
+	just finished
+12:02:33 From Ryan Goodchild To Everyone:
+	My computer is firing like an airplane lol
+12:02:43 From David Siebold To Everyone:
+	Mine too. :)
+12:03:01 From Tyler Moloney To Everyone:
+	laptop unzipper go brrr
+12:03:25 From Rigel Richardson To Everyone:
+	poor little laptop is wheezing
+12:05:36 From Alida Smith To Everyone:
+	Good luck Y'all!!!
+12:05:42 From Ryan Goodchild To Everyone:
+	you too!
+12:05:52 From Alida Smith To Everyone:
+	I went but thanks
+12:05:58 From Ryan Goodchild To Everyone:
+	samesies

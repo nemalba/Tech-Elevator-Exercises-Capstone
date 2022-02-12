@@ -1,0 +1,29 @@
+html {
+    /* set some defaults up */
+    height: 100%;
+    font-size: 16px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    /* apply the google font Raleway to the body */
+    font-family: 'Raleway', sans-serif;
+    /* set up a gradient color from dark gray to light, top to bottom */
+    background-image: linear-gradient(to bottom, #858c90, #bbb);
+    /* Don't repeat the background, stretch it */
+    background-repeat: no-repeat;
+    /* Don't scroll the background with the page */
+    background-attachment: fixed;
+}
+
+div.trello-list {
+    /* multi-column layout */
+    display: inline-block;
+    /* fix the width of the columns */
+    width: 300px;
+    border-radius: 3px;
+    background-color: #ddd;
+}

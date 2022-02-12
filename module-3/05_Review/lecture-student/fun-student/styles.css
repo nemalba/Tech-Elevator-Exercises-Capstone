@@ -1,0 +1,20 @@
+div {
+    text-align: center;
+    border: 2px solid black;   
+    height: 100px;
+    width: 100px;
+}
+
+.green {
+    background-color: limegreen;
+}
+
+.red {
+    background-color: red;
+}
+.blue {
+    background-color: cornflowerblue;
+}
+.purple {
+    background-color: purple;
+}

@@ -1,0 +1,102 @@
+08:56:13 From  David Siebold  to  Everyone:
+	Morning!
+08:58:14 From  Dan Schnelzer  to  Everyone:
+	review dayyyyy!!
+08:59:55 From  Dan Schnelzer  to  Everyone:
+	Daniel, we need to start a business where we get you reading some audio books.
+09:00:10 From  Daniel Blackman (He/Him)  to  Everyone:
+	😂👍🏻
+09:00:47 From  Daniel Blackman (He/Him)  to  Everyone:
+	Sick as a dog?
+09:01:10 From  David Siebold  to  Everyone:
+	I empathize when owners have to deal with six dogs. Whenever one of ours gets sick it eventually makes its way through all five. It's a bad time. :)
+09:01:21 From  David Siebold  to  Everyone:
+	*sick
+09:04:01 From  Nick Schultz (he/him)  to  Everyone:
+	Hi Alex! Glad to have you here!
+09:04:35 From  Alex  to  Everyone:
+	Thank you :) exciting time for all of you! Capstone!
+09:06:08 From  Alex  to  Everyone:
+	CodingBat, HackerRank great sources to keep up with coding!
+09:10:57 From  Rebecca Palmore  to  Everyone:
+	Theranos
+09:11:11 From  Emily Marshall  to  Everyone:
+	lol
+09:33:29 From  Sam Stauffer  to  Everyone:
+	I have a feeling I will have more than 1 wrong answer.
+09:33:42 From  Rigel Richardson  to  Everyone:
+	You're only allowed one!
+09:33:58 From  Sam Stauffer  to  Everyone:
+	There can only be one.
+09:44:34 From  Alex  to  Everyone:
+	Love the password lol
+09:45:19 From  Daniel Blackman (He/Him)  to  Everyone:
+	CREATE USER surprised_pikachu
+09:45:55 From  Levi Wolfe  to  Everyone:
+	postgres pogres1
+09:46:15 From  Levi Wolfe  to  Everyone:
+	ah man it doesn't show!
+09:51:15 From  Daniel Blackman (He/Him)  to  Everyone:
+	making it EVEN EASIER for team rocket to steal pokemon from the database
+09:54:24 From  Alex  to  Everyone:
+	I forgot about Team Rocket lol
+09:54:56 From  Tyler Moloney  to  Everyone:
+	you forgot? Prepare for Trouble.
+09:55:06 From  Sam Stauffer  to  Everyone:
+	*********  << Zoom filters your password as stars!  It's so cool!
+09:55:14 From  Tyler Moloney  to  Everyone:
+	hunter2
+09:55:22 From  David Siebold  to  Everyone:
+	Oh man that's great! password123
+09:55:38 From  Sam Stauffer  to  Everyone:
+	pikapika
+10:00:21 From  Alex  to  Everyone:
+	Gotta have a Charizard in there somewhere lol
+10:01:36 From  Sam Stauffer  to  Everyone:
+	pretty sure there are 151 pokemon.
+10:02:28 From  Emily Marshall  to  Everyone:
+	Wikipedia says there 901 pokemon
+10:02:31 From  Alex  to  Everyone:
+	Im sure with all the newer seasons its probably over 1000 now. Pokemon has been around since 1999 lol
+10:02:49 From  Rigel Richardson  to  Everyone:
+	Nope. Sam's right. 151
+10:03:46 From  Alex  to  Everyone:
+	I wish I kept all my pokemon cards as a kid theyre so valuable now. Crazy amounts of money people are grading/paying.
+10:05:02 From  Tyler Moloney  to  Everyone:
+	they have to be in PRISTINE condition to hit that but even if not could probably get a few hundo for a good one
+10:19:40 From  Emily Marshall  to  Everyone:
+	Had to help my 4 year old...what's in the Pokémon Class?
+10:20:02 From  Tyler Moloney  to  Everyone:
+	private int id, String name, String url
+10:20:03 From  Levi Wolfe  to  Everyone:
+	id name and url
+10:20:07 From  Tyler Moloney  to  Everyone:
+	and getters/setters for each
+10:20:08 From  Levi Wolfe  to  Everyone:
+	then getters and setters
+10:21:09 From  Emily Marshall  to  Everyone:
+	thanks!
+10:27:39 From  Levi Wolfe  to  Everyone:
+	to catch em all
+10:32:56 From  Levi Wolfe  to  Everyone:
+	its happening again. Pokémon is starting to look really weird
+10:33:03 From  Levi Wolfe  to  Everyone:
+	not like it didn't before haha but weirder
+10:35:04 From  David Siebold  to  Everyone:
+	Rebecca too quick for me to unmute again! :D
+10:35:11 From  Rebecca Palmore  to  Everyone:
+	LOL
+10:35:29 From  Rebecca Palmore  to  Everyone:
+	I have to get the one I know the answer to!
+10:38:12 From  David Siebold  to  Everyone:
+	I know the feeling!
+10:49:45 From  Tyler Moloney  to  Everyone:
+	becomes an issue if we ever need curly brackets
+10:50:03 From  Rigel Richardson  to  Everyone:
+	I'll work on a gesture!
+10:56:40 From  Gabe Humphreys  to  Everyone:
+	Hey Levi, did you pokemon the pokemon to pokemon your pokemon?
+10:56:57 From  Alex  to  Everyone:
+	Pika? lol
+10:57:20 From  Levi Wolfe  to  Everyone:
+	I honestly have no clue at this point

@@ -1,0 +1,154 @@
+08:54:55 From  David Siebold  to  Everyone:
+	Good morning Margaret!
+08:57:08 From  Margaret Green (she/her)  to  Everyone:
+	Good morning!  :-)
+09:06:10 From  Rigel Richardson  to  Everyone:
+	Today's router-view, Vue router, Vue / view repetition has my head spinning 😵‍💫
+09:06:20 From  Gabe Humphreys  to  Everyone:
+	I'm usually a very patient person, but Vue sometimes makes me wanna hulk-smash my laptop
+09:06:33 From  Dan Schnelzer  to  Everyone:
+	haha Gabe
+09:06:51 From  Dan Schnelzer  to  Everyone:
+	how bout when you misspell something and have no idea why the whole things broken
+09:07:03 From  Alida Smith  to  Everyone:
+	That me Dan!
+09:07:07 From  Gabe Humphreys  to  Everyone:
+	🤬
+09:07:07 From  Emily Marshall  to  Everyone:
+	filer vs filter is very important
+09:07:48 From  Dan Schnelzer  to  Everyone:
+	.unshit  will break all your stuff... remember the "f" in shift
+09:08:34 From  Rigel Richardson  to  Everyone:
+	too bad that's not a secret magical function to fix all your code Dan
+09:09:05 From  Sam Stauffer  to  Everyone:
+	Thinking about the word from just a word perspective. I don't think I want an unshit function.
+09:09:06 From  David Siebold  to  Everyone:
+	Rigel beat me to the joke. I was going to say that when I write my own programming language, .unshit will just fix all your errors automatically and make your code better.
+09:10:18 From  Gabe Humphreys  to  Everyone:
+	...Sam, I'm dying here considering that function
+09:27:47 From  Sam Stauffer  to  Everyone:
+	talking about computer blackscreening, my laptop  just did it.
+09:28:08 From  Levi Wolfe  to  Everyone:
+	One of my interviewers lives maybe a mile from my house and asked where my favorite place to eat was and I FLUBBED it!
+09:28:33 From  Sam Stauffer  to  Everyone:
+	Oh NO!
+09:28:34 From  Rigel Richardson  to  Everyone:
+	oh noooo!
+09:28:58 From  Rigel Richardson  to  Everyone:
+	I would have dodged - well, I have been cooking at home during the pandemic 🙃
+09:29:00 From  Levi Wolfe  to  Everyone:
+	haha I recovered in my thank you email I think. Lets hope he agrees! haha
+09:29:41 From  Sam Stauffer  to  Everyone:
+	Good job Levi!  The recovery is half the battle!
+09:29:55 From  Levi Wolfe  to  Everyone:
+	Thanks Sam!!
+09:30:29 From  David Siebold  to  Everyone:
+	I'm just going to say "Margaret says you're technically incorrect. I'll get you her contact information."
+09:30:42 From  Daniel Blackman (He/Him)  to  Everyone:
+	this is the way
+09:30:42 From  Gabe Humphreys  to  Everyone:
+	lol
+09:31:25 From  Sam Stauffer  to  Everyone:
+	Uh oh, Daniel do you have a "this is the way" counter?
+09:31:54 From  Alida Smith  to  Everyone:
+	Those interviewers are jerks
+09:33:34 From  Tyler Moloney  to  Everyone:
+	I saw the phrasing "I haven't had the opportunity to work with that yet"
+09:33:42 From  Levi Wolfe  to  Everyone:
+	Breaking up responsibilities into separate services as opposed to monolithic
+09:33:46 From  David Siebold  to  Everyone:
+	I did not get that question from my Ally interviewer.
+09:33:54 From  Alida Smith  to  Everyone:
+	NEVER FORGET Ashley!
+09:34:02 From  Alida Smith  to  Everyone:
+	CHRISTOPHER
+09:34:03 From  Dan Schnelzer  to  Everyone:
+	Dave did you get "Bobby"?
+09:34:12 From  David Siebold  to  Everyone:
+	I had Niket.
+09:35:09 From  David Siebold  to  Everyone:
+	We had joked that Margaret was definitely going to call on us. It's amazing to be SO right.
+09:43:01 From  Sam Stauffer  to  Everyone:
+	Daniel B. nailed this one.
+09:43:25 From  Daniel Blackman (He/Him)  to  Everyone:
+	Team effort!
+09:44:16 From  Gabe Humphreys  to  Everyone:
+	You and your wife make a cute couple, Levi!
+09:44:53 From  Levi Wolfe  to  Everyone:
+	haha why thank you!!
+09:51:25 From  Alida Smith  to  Everyone:
+	use indexOf
+09:51:41 From  Gabe Humphreys  to  Everyone:
+	^ Alida
+09:51:54 From  Rigel Richardson  to  Everyone:
+	Same as Alida!
+09:52:04 From  Tyler Moloney  to  Everyone:
+	yep
+09:53:31 From  Tyler Moloney  to  Everyone:
+	its one-lineable 👀
+09:53:33 From  David Siebold  to  Everyone:
+	Listen to this fancy solution. I just wanted to nest my if statements. :B
+09:56:45 From  Tyler Moloney  to  Everyone:
+	return (word.indexOf("x") == word.indexOf("xx")
+09:57:10 From  Tyler Moloney  to  Everyone:
+	&& >=0
+09:57:26 From  Rigel Richardson  to  Everyone:
+	David, there should be a challenge for the most verbose/inefficient solutions that still work!
+09:57:41 From  Levi Wolfe  to  Everyone:
+	Im here for that
+09:57:42 From  Alida Smith  to  Everyone:
+	That's what I was thinking Tyler
+09:58:31 From  Alida Smith  to  Everyone:
+	Levi... I was here for the rabbit hole. its how I spent all last week
+09:58:57 From  Levi Wolfe  to  Everyone:
+	haha thanks Alida! Simple solutions are boring!
+09:59:42 From  David Siebold  to  Everyone:
+	It could be just like the ugly website contest! The most inefficient FizzBuzz solution. ;)
+10:00:03 From  Alida Smith  to  Everyone:
+	20 lines minimum
+10:01:02 From  Sam Stauffer  to  Everyone:
+	I've seen some dizzyingly complex codewars solutions.
+10:03:00 From  David Siebold  to  Everyone:
+	Stop looking at my solutions, Sam!
+10:03:17 From  David Siebold  to  Everyone:
+	I assume by "complex" you mean "really bad."
+10:09:27 From  Levi Wolfe  to  Everyone:
+	are they sorta like our services in java? the v of mvc?
+10:10:51 From  Sam Stauffer  to  Everyone:
+	David, here is one "complex" code to convert a number to a string:
+10:11:12 From  Sam Stauffer  to  Everyone:
+	import java.lang.reflect.Constructor;	import java.lang.reflect.Field;	import java.lang.reflect.Method;		class Kata {	  	  private static final byte LATIN1 = 0;	  private static final byte UTF16  = 1;	  	  public static String numberToString(int num) {	    try {	      Field f = String.class.getDeclaredField("COMPACT_STRINGS");	      f.trySetAccessible();	      boolean COMPACT_STRINGS = (boolean) f.get(null);	      Constructor c = String.class.getDeclaredConstructor(byte[].class, byte.class);	      c.trySetAccessible();	    	      // This is the JDK11 Integer.toString() implementation with some reflective acceses	      int size = stringSize(num);	      if (COMPACT_STRINGS) {	        byte[] buf = new byte[size];	        getChars(num, size, buf);	        return (String) c.newInstance(buf, LATIN1);	      } else {	        byte[] buf = new byte[size * 2];	        getChars16(num, size, buf);	        return (String) c.newInstance(buf, UTF16);	      }	      	    } catch(Exception e) {	      throw new RuntimeException(e
+10:11:24 From  Alida Smith  to  Everyone:
+	🤣
+10:12:42 From  Tyler Moloney  to  Everyone:
+	https://i.kym-cdn.com/entries/icons/facebook/000/034/711/Screen_Shot_2020-07-24_at_11.33.38_AM.jpg
+10:37:36 From  Rebecca Palmore  to  Everyone:
+	If you use the “name” property you’d code it like the first or third example.
+10:37:50 From  Rebecca Palmore  to  Everyone:
+	If you don’t use the “name” property you follow the second example.
+10:40:35 From  Sam Stauffer  to  Everyone:
+	Is that Bob?
+10:46:46 From  Alida Smith  to  Everyone:
+	nice
+10:46:55 From  Dan Schnelzer  to  Everyone:
+	very noice
+10:54:45 From  Emily Marshall  to  Everyone:
+	It's validating
+10:54:50 From  Ryan Goodchild  to  Everyone:
+	No one deserves the vue frustration
+11:21:45 From  Sam Stauffer  to  Everyone:
+	Levi, mute yoself!
+11:21:54 From  Levi Wolfe  to  Everyone:
+	haha much appreciated sam!
+11:22:10 From  Sam Stauffer  to  Everyone:
+	your welcome!  We didn't hear anything I promise.
+11:22:36 From  Levi Wolfe  to  Everyone:
+	haha just a little mini explitive for forgetting my water in the other room
+11:34:43 From  Sam Stauffer  to  Everyone:
+	The downward slide is a slippery slope to Capstone.
+11:35:22 From  Daniel Blackman (He/Him)  to  Everyone:
+	.state.commit?
+11:59:12 From  Sam Stauffer  to  Everyone:
+	I just realized I should have added a secret site to my ugly website that had no associated link...  Mistaked were made.
+12:06:39 From  Alida Smith  to  Everyone:
+	Vue is trying so hard to make Margaret a liar

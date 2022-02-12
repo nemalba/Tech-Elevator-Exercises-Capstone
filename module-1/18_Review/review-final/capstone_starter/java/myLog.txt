@@ -1,0 +1,3 @@
+2021-11-17T12:14:34.581561400 reading in the file!
+2021-11-17T12:14:39.253505400  listing all instructors
+2021-11-17T12:14:42.661723300  adding a new instructor

@@ -1,0 +1,150 @@
+08:57:30 From  Ryan Goodchild  to  Everyone:
+	hah
+08:57:37 From  Rebecca Palmore  to  Everyone:
+	A Banksy print that makes me think of ugliest site contest.
+09:06:12 From  Levi Wolfe  to  Everyone:
+	O O O Oreilly???
+09:06:23 From  Daniel Blackman (He/Him)  to  Everyone:
+	Auto Parts!
+09:06:31 From  Levi Wolfe  to  Everyone:
+	haha YES.
+09:06:45 From  Sam Stauffer  to  Everyone:
+	I always heard the ending as "BOOOAW"
+09:06:49 From  Levi Wolfe  to  Everyone:
+	welp. there goes my day. gonna be stuck in my head until sunday
+09:06:55 From  Daniel Blackman (He/Him)  to  Everyone:
+	haha
+09:09:11 From  Levi Wolfe  to  Everyone:
+	Ashley I know you just moved but...are you on the floor??
+09:09:36 From  Rigel Richardson  to  Everyone:
+	Meditative Learning
+09:10:52 From  Sam Stauffer  to  Everyone:
+	That was definitely my question Rigel!
+09:11:16 From  Alida Smith  to  Everyone:
+	tears are a big part of TE!
+09:11:35 From  Ryan Goodchild  to  Everyone:
+	haha Alida I know what you mean
+09:11:36 From  Daniel Blackman (He/Him)  to  Everyone:
+	can't spell tears without TE
+09:11:51 From  Rigel Richardson  to  Everyone:
+	Sam: same as codewars: I need my shortcuts and suggestions! 😆
+09:12:22 From  Tyler Moloney  to  Everyone:
+	I've been making new classes in IntelliJ then copy+pasting it to codewars for that reason 😆
+09:12:46 From  Rigel Richardson  to  Everyone:
+	Smart!
+09:13:11 From  nick schultz  to  Everyone:
+	That's a fantastic idea tyler, I was on the struggle bus without intellij
+09:13:41 From  Sam Stauffer  to  Everyone:
+	I definitely try it in codewars first, then copy and paste into a sandbox when I see I did something wrong.
+09:19:41 From  Sam Stauffer  to  Everyone:
+	I read this as 9 -10....  Big dumb.
+09:19:49 From  Tyler Moloney  to  Everyone:
+	me too, Sam
+09:19:55 From  Sam Stauffer  to  Everyone:
+	oh that's the next one.
+09:28:47 From  Rebecca Palmore  to  Everyone:
+	TRICKY
+09:29:38 From  Gabe Humphreys  to  Everyone:
+	good call Rigel
+09:30:30 From  Rigel Richardson  to  Everyone:
+	Thanks! Lookin' out for everyone :)
+09:42:48 From  Rebecca Palmore  to  Everyone:
+	We were hassling squares yesterday. Today they get their revenge.
+10:00:28 From  Tyler Moloney  to  Everyone:
+	boolean hasHOA
+10:04:58 From  Rigel Richardson  to  Everyone:
+	Buyer Search: !hasHoa
+10:07:00 From  Ryan Goodchild  to  Everyone:
+	properties of the properties
+10:08:00 From  Tyler Moloney  to  Everyone:
+	speaking of codewars earlier, I see Daniel and David up high now 👀
+10:08:28 From  David Siebold (He/Him)  to  Everyone:
+	I had to catch up to Daniel. He came outta nowhere with that 6 kyu,
+10:09:08 From  Tyler Moloney  to  Everyone:
+	I'm gonna try to hit 6 this weekend.
+10:11:34 From  David Siebold (He/Him)  to  Everyone:
+	Nice! I usually do a handful of kata each evening as a wind down. Mostly easy ones but trying to refine solutions to be less verbose.
+10:14:35 From  Daniel Blackman (He/Him)  to  Everyone:
+	Thanks! I have been trying to fit a couple in each day - I try to pick kata that I have some idea of a solution for, otherwise I just spin gears on it for hours and burn out
+10:15:42 From  Margaret Green (she/her)  to  Everyone:
+	Great tips from both of you, @Daniel Blackman and @David!  I, too, try to choose ones I have an idea on how to solve...
+10:25:21 From  Sam Stauffer  to  Everyone:
+	just started hailing here.  Weird!
+10:25:36 From  Rigel Richardson  to  Everyone:
+	odd!
+10:25:37 From  Rebecca Palmore  to  Everyone:
+	Uh oh. Hopefully that’s not coming north …
+10:25:47 From  Dan Schnelzer  to  Everyone:
+	watch for Nados Sammo
+10:27:59 From  Rigel Richardson  to  Everyone:
+	That tooks me a minute to parse and I thought 'Nados Sammo' was some sort of Seasonal named storm passing through!
+10:28:08 From  Sam Stauffer  to  Everyone:
+	just supposed to rain
+10:28:39 From  Levi Wolfe  to  Everyone:
+	hahah Rigel. The infamous Nados Sammo crushing the midwest
+10:29:00 From  Dan Schnelzer  to  Everyone:
+	hahaha sorry Rigel
+10:29:15 From  Dan Schnelzer  to  Everyone:
+	that's a cool nickname though same. Nado Sammo
+10:32:56 From  Levi Wolfe  to  Everyone:
+	Bob@bob.com   I hope to some day also have such an exclusive email address
+10:33:23 From  Sam Stauffer  to  Everyone:
+	Sammo@Nado.com
+10:33:29 From  Tyler Moloney  to  Everyone:
+	A shame, you've got a huge apparel company to fight over it.
+10:33:36 From  Daniel Blackman (He/Him)  to  Everyone:
+	I guess we could all code our own email applications?
+10:33:53 From  Levi Wolfe  to  Everyone:
+	haha yeah no chance
+10:34:00 From  Daniel Blackman (He/Him)  to  Everyone:
+	hah!
+10:37:02 From  Rigel Richardson  to  Everyone:
+	https://nado.com/		we're too poor to access this webpage.
+10:37:46 From  Daniel Blackman (He/Him)  to  Everyone:
+	late stage capitalism strikes again
+10:40:31 From  Gabe Humphreys  to  Everyone:
+	it's like FarmAnimal
+10:41:35 From  Rigel Richardson  to  Everyone:
+	I know what you mean, but I also love the idea of a Dwelling being a FarmAnimal.		I imagine one of those ancient shelled ~armadillos as a house
+10:42:19 From  Gabe Humphreys  to  Everyone:
+	or a Tauntaun
+10:42:27 From  Tyler Moloney  to  Everyone:
+	well
+10:42:48 From  Tyler Moloney  to  Everyone:
+	sure
+10:43:36 From  Rigel Richardson  to  Everyone:
+	😄
+10:45:51 From  Sam Stauffer  to  Everyone:
+	After the rapper comment (I think by Dan S), I am sad to say there is no lil'Decimal
+10:46:12 From  Dan Schnelzer  to  Everyone:
+	haha
+10:46:26 From  Rebecca Palmore  to  Everyone:
+	They just go by “.”
+10:48:00 From  Rigel Richardson  to  Everyone:
+	and are impossible to search for because Google ignores punctuation!
+10:49:40 From  Rebecca Palmore  to  Everyone:
+	And that is why we’ve never heard of them. Netflix is doing a doc soon.
+10:51:22 From  Gabe Humphreys  to  Everyone:
+	This is a real problem for people with the last name "Null".	https://www.wired.com/2015/11/null/
+10:52:41 From  Tyler Moloney  to  Everyone:
+	if only I knew ASL
+10:56:39 From  Rigel Richardson  to  Everyone:
+	Gabe: related, a classic c. 2007		https://xkcd.com/327/
+11:01:56 From  Gabe Humphreys  to  Everyone:
+	little Bobby Tables strikes again!
+11:22:56 From  Rebecca Palmore  to  Everyone:
+	We also have not done a doo-wop loop.
+11:33:52 From  Alida Smith  to  Everyone:
+	is it a super?
+11:34:37 From  Sam Stauffer  to  Everyone:
+	I think it doesn't like static.
+11:34:49 From  Sam Stauffer  to  Everyone:
+	just throwing in a guess.
+11:41:28 From  Alida Smith  to  Everyone:
+	life as a coder
+11:57:02 From  Daniel Blackman (He/Him)  to  Everyone:
+	would it look like owner.getProperties(i).getAddress and so on?
+11:58:05 From  Sam Stauffer  to  Everyone:
+	Daniel that is exactly what I was thinking
+11:59:48 From  Daniel Blackman (He/Him)  to  Everyone:
+	so close!

@@ -1,0 +1,160 @@
+09:01:59 From  David Siebold  to  Everyone:
+	I am excited for our ugly website contest. That's the kind of front-end design I can manage.
+09:02:33 From  Nick Schultz (he/him)  to  Everyone:
+	LETS GO GREEN
+09:03:09 From  Alida Smith  to  Everyone:
+	I want the jacket!
+09:08:13 From  David Siebold  to  Everyone:
+	I really like that description, Rigel.
+09:08:49 From  Levi Wolfe  to  Everyone:
+	ahhh hence why when I took my path out of my filter method path it killed every other test as well because the path matched the other gets
+09:08:58 From  Rigel Richardson  to  Everyone:
+	yes!
+09:09:40 From  David Siebold  to  Everyone:
+	It sounds like a lot of us fell into a similar trap last night on the homework.
+09:09:54 From  Rigel Richardson  to  Everyone:
+	red march of death
+09:10:22 From  Alida Smith  to  Everyone:
+	interesting.. I didn't see this.
+09:10:38 From  Rigel Richardson  to  Everyone:
+	That just means you're very good Alida! haha
+09:10:47 From  Nema Aragones  to  Everyone:
+	lol
+09:10:52 From  Alida Smith  to  Everyone:
+	that's so suspect
+09:11:28 From  Rigel Richardson  to  Everyone:
+	lol! No it's not! You're very careful and I made careless mistakes last night.
+09:12:03 From  David Siebold  to  Everyone:
+	Alida is the now the class expert for databases!
+09:12:19 From  Alida Smith  to  Everyone:
+	IM EXITING!
+09:19:51 From  Daniel Blackman (He/Him)  to  Everyone:
+	the book has it also
+09:20:00 From  David Siebold  to  Everyone:
+	Yeah, I found it in the book.
+09:20:08 From  Rigel Richardson  to  Everyone:
+	today's reading
+09:20:24 From  Sam Stauffer  to  Everyone:
+	I see, that near 0% understanding of the book is coming in to bite me.
+09:20:26 From  Tyler Moloney  to  Everyone:
+	If you use the wrapper class the test works too
+09:22:43 From  Dan Schnelzer  to  Everyone:
+	there were some manhours spent on this problem
+09:23:41 From  Alida Smith  to  Everyone:
+	oooh… you right. we did leave the filter off
+09:23:48 From  Rebecca Palmore  to  Everyone:
+	I’ll try that!!!
+09:26:16 From  Alida Smith  to  Everyone:
+	we definitely got set up!
+09:26:22 From  Gabe Humphreys  to  Everyone:
+	🤣 ...David
+09:26:28 From  Sam Stauffer  to  Everyone:
+	I too found my brain in unenjoyment mode.
+09:26:40 From  Daniel Blackman (He/Him)  to  Everyone:
+	plot twist - the curriculum team is trying to train us to deal with difficult/different customer requests
+09:26:45 From  Odgerel Jamsranjav  to  Everyone:
+	😅
+09:27:00 From  Alida Smith  to  Everyone:
+	preview to capstone
+09:27:27 From  David Siebold  to  Everyone:
+	Wait, Alida. I can't just copy/paste all of this week's exercises together to make my capstone?
+09:27:54 From  Alida Smith  to  Everyone:
+	Sure you can. :/
+09:28:18 From  Nema Aragones  to  Everyone:
+	Joe is so awesome by helping us figure our Step 5 and make the tests pass
+09:28:37 From  Alida Smith  to  Everyone:
+	This hurt Joe as much as it hurt us.
+09:28:52 From  Sam Stauffer  to  Everyone:
+	Joe is amazing and really good at code, I think he deserves a raise!
+09:29:18 From  Joe Righetti  to  Everyone:
+	😂😂😂
+09:29:19 From  Nema Aragones  to  Everyone:
+	I agree 1000%
+09:29:24 From  David Siebold  to  Everyone:
+	Hey wait! Joe told me he doesn't know what code is.
+09:29:53 From  Rigel Richardson  to  Everyone:
+	So he should get management salary!
+09:29:59 From  Joe Righetti  to  Everyone:
+	It wasn't TOOO bad...
+09:30:06 From  Daniel Blackman (He/Him)  to  Everyone:
+	joe for mayor
+09:30:32 From  Dan Schnelzer  to  Everyone:
+	joe, next week, Wednesday through sunday imma need some help
+09:31:00 From  David Siebold  to  Everyone:
+	He's going to be VERY popular next week.
+09:31:03 From  Alida Smith  to  Everyone:
+	we're not going to learn ANYTHING today!
+09:31:10 From  Joe Righetti  to  Everyone:
+	Lol I'm going to be busy next week
+09:31:19 From  Sam Stauffer  to  Everyone:
+	Joe, looks like you could use a partner next week.  I'm just saying right now I don't have one.
+09:31:30 From  Dan Schnelzer  to  Everyone:
+	hahahha beat me too it sammo
+09:31:49 From  Levi Wolfe  to  Everyone:
+	Im gonna be at the Pops Christmas concert with my computer zooming with Joe and my capstone partner
+09:31:58 From  Alida Smith  to  Everyone:
+	Joe... I need to be in the 3-person group. Please!
+09:32:23 From  Levi Wolfe  to  Everyone:
+	And the steelers game sunday. Bad weekend for a capstone haha
+09:32:23 From  Joe Righetti  to  Everyone:
+	😂😂 Alright alright lets listen to Margaret!!!!
+09:40:35 From  David Siebold  to  Everyone:
+	If you nail down search by title, the rest of it is pretty easy.
+09:41:17 From  Rigel Richardson  to  Everyone:
+	if you noticed that there are existing search methods and didn't write your own logic maybe 😆
+09:41:31 From  Daniel Blackman (He/Him)  to  Everyone:
+	you can leave it off - mine worked without
+09:41:43 From  Alida Smith  to  Everyone:
+	yea.. deleted
+09:42:22 From  David Siebold  to  Everyone:
+	Noticing that they had created the search methods was what EVENTUALLY got me back on the right track.
+09:43:50 From  Rebecca Palmore  to  Everyone:
+	I’ve been using the search method but I’ve got something wrong … I’ve tried it every which way so think it’s something tiny I’m not noticing.
+10:00:21 From  Rebecca Palmore  to  Everyone:
+	Thank you for pronouncing that.
+10:01:13 From  David Siebold  to  Everyone:
+	I'm happy to help you after class, Rebecca.
+10:03:23 From  Rebecca Palmore  to  Everyone:
+	Thank you David! I just got it with help from Levi and Allida.
+10:03:29 From  David Siebold  to  Everyone:
+	Nice!
+10:32:27 From  Daniel Blackman (He/Him)  to  Everyone:
+	would you do a try catch block with the return null in the catch?
+10:59:39 From  JohnMatthews  to  Margaret Green (she/her)(Direct Message):
+	More coffeee
+11:01:12 From  Rebecca Palmore  to  Everyone:
+	I went to HS with Mark Johnson
+11:06:04 From  JohnMatthews  to  Margaret Green (she/her)(Direct Message):
+	fyi- Mark Feather came up SOLID but credits Uncle Bob with the idea
+11:37:51 From  Rebecca Palmore  to  Everyone:
+	That would be cool though
+11:47:18 From  Alida Smith  to  Everyone:
+	I can believe they did
+11:47:56 From  Sam Stauffer  to  Everyone:
+	I don't think they used TDD here.
+11:48:45 From  Sam Stauffer  to  Everyone:
+	good until I get stuck on the homework again.
+11:48:55 From  Nema Aragones  to  Everyone:
+	Ya they should attend Margaret's bonus lecture on TDD
+11:48:59 From  Alida Smith  to  Everyone:
+	We will have profanity filled questions later.
+11:49:19 From  David Siebold  to  Everyone:
+	Certainly they won't require me to use my brain for TODAY'S exercises, right?
+11:50:16 From  Rebecca Palmore  to  Everyone:
+	Today is a REST day, David.
+11:50:27 From  David Siebold  to  Everyone:
+	I see what you did there.
+11:50:41 From  Sam Stauffer  to  Everyone:
+	Representing sleep today.
+11:51:21 From  Daniel Blackman (He/Him)  to  Everyone:
+	add @Sleep to all methods
+11:51:41 From  Tyler Moloney  to  Everyone:
+	its a setup
+11:51:49 From  Alida Smith  to  Everyone:
+	we have different definitions of nice
+11:51:59 From  Levi Wolfe  to  Everyone:
+	haha definitely a setup
+11:51:59 From  Rigel Richardson  to  Everyone:
+	Validate that Sam is @Rested
+11:52:00 From  Gabe Humphreys  to  Everyone:
+	^ Tyler

@@ -1,0 +1,162 @@
+08:55:42 From  David Siebold  to  Everyone:
+	Morning all!
+08:56:01 From  Rebecca Palmore  to  Everyone:
+	Good morning!
+08:57:37 From  David Siebold  to  Everyone:
+	That's actually a really interesting point.
+09:05:09 From  Levi Wolfe  to  Everyone:
+	it helps encapsulate!
+09:19:18 From  David Siebold  to  Everyone:
+	I am FOR SURE going to give some weird answers. :)
+09:19:22 From  Gabe Humphreys  to  Everyone:
+	"Don't be weird, Rebecca..."
+09:20:02 From  Gabe Humphreys  to  Everyone:
+	Doe normaal!
+09:20:37 From  Rebecca Palmore  to  Everyone:
+	Thank you for that sidebar, Margaret! There is so much to process.
+09:20:47 From  Ryan Goodchild  to  Everyone:
+	^
+09:26:15 From  Sam Stauffer  to  Everyone:
+	unless you are Andy and set the string variable equal to the same thing.
+09:26:16 From  Ryan Goodchild  to  Everyone:
+	Andy actually gave me that String comparison with == as a trick question
+09:26:50 From  Sam Stauffer  to  Everyone:
+	hash values.
+09:29:23 From  Rebecca Palmore  to  Everyone:
+	I would preface everything with that statement!!!
+09:30:16 From  Sam Stauffer  to  Everyone:
+	Fake it til you become it is my favorite TedTalk.
+09:32:44 From  Ashley Hoffmann  to  Everyone:
+	Great thought, Rebecca!
+09:33:10 From  David Siebold  to  Everyone:
+	Yeah, there's a cost in time and money to do interviews. I would have been thrilled if every pharmacy technician I interviewed was excellent from the start.
+09:33:34 From  Dan Schnelzer  to  Everyone:
+	good point david
+09:35:47 From  Sam Stauffer  to  Everyone:
+	That last question was a 50-50 for me... fun to see it got 50%.
+09:35:58 From  David Siebold  to  Everyone:
+	I was very grumpy about the last question but I made my peace with it.
+09:36:14 From  Dan Schnelzer  to  Everyone:
+	50% chance = 100% you get it wrong ha
+09:36:28 From  Sam Stauffer  to  Everyone:
+	I thought I don't know was the right answer here.
+09:36:38 From  David Siebold  to  Everyone:
+	Every question is 50/50! I either get it right or wrong! :)
+09:38:40 From  Rebecca Palmore  to  Everyone:
+	I submit to the jury: line 2 should be a correct answer.
+09:38:47 From  Gabe Humphreys  to  Everyone:
+	agreed
+09:38:51 From  Sam Stauffer  to  Everyone:
+	I forward that motion
+09:39:11 From  David Siebold  to  Everyone:
+	That's what I said too. But I see why it's line 4.
+09:39:28 From  Rigel Richardson  to  Everyone:
+	why 2? Because that's the origin of the constant? It would run, but the assignment in 4 causes the issue
+09:39:31 From  Sam Stauffer  to  Everyone:
+	yea 4 causes the error... 2 is how to fix the error..
+09:39:41 From  Rebecca Palmore  to  Everyone:
+	yes!!
+09:39:44 From  Rigel Richardson  to  Everyone:
+	ah
+09:39:48 From  David Siebold  to  Everyone:
+	Exactly. I'm still a little grumpy about it...
+09:40:17 From  David Siebold  to  Everyone:
+	OUR error was on line 2.
+09:40:20 From  David Siebold  to  Everyone:
+	The program fails on 4.
+09:40:22 From  Ryan Goodchild  to  Everyone:
+	It's a zero sum game
+09:40:35 From  Rebecca Palmore  to  Everyone:
+	Our error was in picking line 2 as the answer.
+09:40:39 From  Rigel Richardson  to  Everyone:
+	yeah. I was looking for 'what will not run or cause an error'
+09:42:01 From  Levi Wolfe  to  Everyone:
+	but line two doesn't inherently cause an error
+09:42:33 From  Rigel Richardson  to  Everyone:
+	exactly
+09:42:37 From  Daniel Blackman (He/Him)  to  Everyone:
+	Whose quiz is it anyway!
+09:42:37 From  David Siebold  to  Everyone:
+	It just hurts my soul a little. No big deal.
+09:42:52 From  Sam Stauffer  to  Everyone:
+	Daniel that's gold.
+09:43:52 From  Sam Stauffer  to  Everyone:
+	so go faster, slowly.
+09:43:53 From  David Siebold  to  Everyone:
+	I find the chat to be surprisingly valuable and it makes me think whispering during class in grade school should be have been allowed.
+09:44:10 From  Rebecca Palmore  to  Everyone:
+	Sam, hahaha.
+09:44:12 From  Rigel Richardson  to  Everyone:
+	It was allowed. They just taught us to not get caught. :)
+09:44:22 From  Gabe Humphreys  to  Everyone:
+	meta-lessons
+09:46:37 From  David Siebold  to  Everyone:
+	My debugger IS sout.
+09:46:37 From  Rebecca Palmore  to  Everyone:
+	I console log everything to debug as I’m coding.
+09:46:46 From  Rebecca Palmore  to  Everyone:
+	David, exactly!
+09:46:50 From  David Siebold  to  Everyone:
+	I feel bad for all the people that coded as my partner that had to deal with a million souts.
+09:47:16 From  Levi Wolfe  to  Everyone:
+	David we pushed intelliJ to its sout limits!
+09:47:45 From  David Siebold  to  Everyone:
+	IntelliJ had it coming...
+09:47:51 From  Alida Smith  to  Everyone:
+	lol
+09:48:47 From  Sam Stauffer  to  Everyone:
+	What if I told you, I am a huge matrix fan and still haven't seen the new movie.
+09:49:00 From  Dan Schnelzer  to  Everyone:
+	right there with u sam!
+09:49:16 From  David Siebold  to  Everyone:
+	I'd say you're not missing much. Go in with low expectations and you'll still be entertained.
+09:49:34 From  David Siebold  to  Everyone:
+	It's not a bad movie, it just doesn't have the same magic.
+09:49:38 From  Sam Stauffer  to  Everyone:
+	That's almost exactly my expectations.
+09:49:54 From  Dan Schnelzer  to  Everyone:
+	lets get weird
+09:49:58 From  Alida Smith  to  Everyone:
+	Its... different
+09:53:38 From  Rebecca Palmore  to  Everyone:
+	This graphic doesn’t account for TDD does it?
+09:55:43 From  Sam Stauffer  to  Everyone:
+	I think you could say it does by putting design/development.  The graphic just has it later.
+09:55:51 From  Sam Stauffer  to  Everyone:
+	oops. earlier.
+09:56:21 From  Sam Stauffer  to  Everyone:
+	so for each of them just move where test is and it could be TDD.  But I could be way off!
+09:56:42 From  Rebecca Palmore  to  Everyone:
+	That makes sense to me!
+10:01:36 From  Gabe Humphreys  to  Everyone:
+	"Report your blockages!"
+10:02:23 From  Daniel Blackman (He/Him)  to  Everyone:
+	Omega star STILL hasn't gotten their ISO time stamps yet, we are BLOCKED
+10:02:46 From  Ryan Goodchild  to  Everyone:
+	That was a great video
+10:20:26 From  David Siebold  to  Everyone:
+	I AM counting on Tech Elevator to live the rest of my life for me.
+10:20:49 From  Rebecca Palmore  to  Everyone:
+	Is there like a TE probation officer?
+10:34:31 From  Rebecca Palmore  to  Everyone:
+	I had a problem too but refresh worked.
+10:42:39 From  Emily Marshall  to  Everyone:
+	none of this is working for me
+10:47:33 From  Rebecca Palmore  to  Everyone:
+	Emily I have to refresh after every update for some reason.
+10:47:47 From  Rebecca Palmore  to  Everyone:
+	(Update == every time we change demo.js)
+10:48:24 From  Emily Marshall  to  Everyone:
+	Nope. Still not working. Super frustrating
+11:01:07 From  Rebecca Palmore  to  Everyone:
+	I want that T-shirt!
+11:07:13 From  Sam Stauffer  to  Everyone:
+	I am slightly disgruntled that .map is different from a map.
+11:25:02 From  Rebecca Palmore  to  Everyone:
+	Node is awesome.
+11:42:24 From  Sam Stauffer  to  Everyone:
+	age is a word.
+11:53:49 From  Sam Stauffer  to  Everyone:
+	we already knew that answer.
+11:54:31 From  David Siebold  to  Everyone:
+	Hah. I was going to suffer whether she helped me or not.

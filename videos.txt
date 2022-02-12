@@ -1,0 +1,214 @@
+1-1 Command Line Shell and Git:
+https://techelevator.zoom.us/rec/share/Xn7npGbcxPrF3IT53zoDF8_gtqBpCc9gk-StpqWzaefKzxHRftJKJ87abByeFWqZ.gbUMTWVw_wRPhVuQ
+
+1-2 Variables and Data Types:
+https://drive.google.com/file/d/1JRpInMOxNKQvw6wxRTiL6SYeoHdDF7k2/view?usp=sharing
+
+1-3 Expressions:
+https://techelevator.zoom.us/rec/share/R5Bm8NMZk0RaYCvHsZVYtJUkKGcyGSWdTQflh-pBNK0-6Oso0SuS1_hNsJD30hFi.yQlpnCDxn5JrCDfE
+<<<<<<< HEAD
+=======
+
+1-4 Loops and Arrays:
+https://techelevator.zoom.us/rec/share/41PajO8fIuisjKIqYj8WLfWfzTvD_0NViKcZ6XhMNlrwNOepnEIIdgdJbpXoDsO3.Wz3gmIZCNJnIqCIk
+
+<<<<<<< HEAD
+>>>>>>> fccfcfc7e7a4e3606e76e2a3dd97fbbc2edf8f58
+=======
+1-5 Command Line:
+https://techelevator.zoom.us/rec/share/iodDKL1NvURD2o0DGvn3J7DCY-KIZig_LRGXK06FApIZOOxb_lrBS6Su5UYAHcA.YdxXRuuTCJfgg7Fe
+
+<<<<<<< HEAD
+>>>>>>> 9de14270d3b84c041cf345783a5a0ea6680ac781
+=======
+1-6 Intro to Objects (Strings):
+https://techelevator.zoom.us/rec/share/AXICYxGyxPsR7kxCqtwUs6-Vrax9NzuP6HGg46XXG3Thz9AD8ZzAcNTBRJQwDuq3.uqU3w3NE4c2XIeBr
+
+1-7 Collections Part One:
+https://techelevator.zoom.us/rec/share/EqtZ1CJuGx58SqTGR1XqY05LerZdH5-24g76yJVq4yysx_Ny5c68v1mdylDUpsEY.HYrcmdjU3zgfujT6
+
+1-8 Collections Part Two:
+https://techelevator.zoom.us/rec/share/VIsLUv5ECbRptF9UFlac19vG6HZsQsUZ-E8-xzhUvnUFjOsVIPvnZFcVcz4Gwjpi.kKCN3par_OMdRHvK
+
+1-9 Encapsulation:
+https://techelevator.zoom.us/rec/share/4_63x1jNM4poPxPDRpUPHS9PXfrUCQ-H0KNYOO6dcKhnP2UylNyGy-OzAVkzipOK.wSKvOPrBMW1NIfJc
+
+1-10 Morning Review:
+https://techelevator.zoom.us/rec/share/hvPa44AIj7SitdPASYDlixZFk-6gc2aVM-4q6zk-u_3Vqv0T528xztmgPyb7Kvq9.F1eOaKJZ8DdGiyLA
+
+1-10 Afternoon Review Session:
+https://techelevator.zoom.us/rec/share/NeTTlZCb0E3Sh4sDv7rh7AEpE1OMWsyIq2KrYKPhwKbhufW7fQp81t1tAgrVVeu9.bW83GhOhzB_sEbI_ Passcode: $5sZ0yDu
+
+1-11 Inheritance Morning:
+https://techelevator.zoom.us/rec/share/x5BUm7as-XzGJWQoFUPuLBrwCff0QsDWOPKgtnVjNmdZJpXFwuoWNi2doWfwyhOk.9H6OIaSMll7G_m9H
+
+1-11 Inheritance Afternoon:
+https://techelevator.zoom.us/rec/share/iCdyi_RdyWhC9ehJ_FpbnWgVOZIK6gzcFG_3wplu-A429SEhiZArphrH5pN63Wg.3KjfWqVtIlgv9OkK
+
+1-12 Polyorphism Part 1:
+https://techelevator.zoom.us/rec/share/PvbbgEyBdYUOJzp7Dc1Rze5tBydMdJgqjdSWueZp3BM3gOcTvLnnJmjihOK527i3.0ajyqot3AcxzVsik
+
+1-13 Polymorphism Part 2:
+https://techelevator.zoom.us/rec/share/TFD_t7AgUQiuXvPFWhsWWSWHAet-zKhH-lXah_0tcQZRYTWhblLKgcnNXWGp60WV.g_UVHKb19wJLeZV4
+
+1-14 Unit Testing
+https://techelevator.zoom.us/rec/share/LAcihkib1n4bbfhnqQKYutOiFpvz0Bp6KbTrBInsp9IjjDGo65YYPcT3claiufIq.2M9r4dqy46iirMxL
+
+1-15 - Review Week 3
+https://techelevator.zoom.us/rec/share/io7EIjoz1tyKpM8npvkX8Vd1j7X34bkRpg7-OXJ2uNhskYIdXmR9qZ34QqyS3LtH.hR-aTM3ctT0E1MLS
+
+1-15 - Afternoon session with Joshua
+https://techelevator.zoom.us/rec/share/ORuZ375QbjEn3LCasN1cPAyb267_o_V7QCDFQdo3P7RaK-JHjRihhwz8vh7pvScp.t0OiXaN1GntEVNFF  Passcode: mM3DN^?0
+
+1-16 File Reading and Exceptions
+https://techelevator.zoom.us/rec/share/mK8Dba0HQmAFsFyYB2v9r2w5r1qmtxbHW0kNEsZKIct_dDgx1xsYQYb8DNZarHse.3pUtMh4SuCZ4OQIb
+
+1-17 File Writing
+https://techelevator.zoom.us/rec/share/BlXiUYqZx2F6WqHGUr6PaXoilufZnPqGvBIGspeJR8C-j893yiP7Ydk1lLL5_WaM.B4dSG6O6T8wo-nMP
+
+1-18 Review
+https://drive.google.com/file/d/1wNSvDgRTMR3V2vgLV7GWP-aBM0fPNhFb/view?usp=sharing
+
+<<<<<<< HEAD
+>>>>>>> 30288f3b045ed54edac11fe69dbc6034e51e266a
+=======
+1-19 Capstone kickoff
+https://techelevator.zoom.us/rec/share/eNIdux5Fw38rLJtlrcXhzxKXSPqTUdz3Hpe0eAB7fU-r5iEyrbbMQYvO4mgNevaq.o277GON7iLOfMboJ
+
+1-20 Capstone Day 2
+https://techelevator.zoom.us/rec/share/jB17Y0YpH-JZIs6qtpWl-CcprVnOgqHoU9Bn0jxl5TWRZFDPv4IpxaiUqFeyZ7oY.PXPTdSyp9Ww-Cd_6
+
+<<<<<<< HEAD
+>>>>>>> 2af9b367f5d4c8b1d822debb148574841618b60b
+=======
+2-1 and 2-2 Postgres Intro and Sorting
+https://techelevator.zoom.us/rec/share/gdfW37xsoI8Z1VGCQSIitk9sWS6Sy9uitBCMyPVTa2q3MNXaaBLx5MBE3o38BhU.yoKbkLpF5vT_sm1Z
+>>>>>>> ae0f57caf75ab3dbadfb158e3ef897aab61f5b45
+
+2-3 Joins
+https://techelevator.zoom.us/rec/share/I8gJh53kyvcT63sTjYSkJfhFWXepdutazXLBhes1UabOLY7Q346-ZiPHL9evIATK.oXfE7Y6Vt18UpzuG
+
+2-4 Insert, Update, Delete (Happy Turkey Day!!)
+https://techelevator.zoom.us/rec/share/B7Io4RA8MN7uM_UkhJ9z0ZVwshpzJGmfUQp48rvcYlVqYAUyd8W29CKGcONxtgzV.WzIYGM43DkhNygPO
+
+2-6 Database Design
+https://techelevator.zoom.us/rec/share/LOpPht0x7YuwEcX56av6UAJlAk-m1mrWTxAKRyu80zQc2RK8VC3B_uI5cVEUgWbW.0kkAo1tbX8fyj-IM
+
+Bonus Lecture -- git merge conflicts
+https://techelevator.zoom.us/rec/share/zmfpKvSRamtouK-ffA_jdJaRJAqDDiqRfXjdUMJvOjxegLmEK2nnOygLXg9I8LLT.dn2gD8KHhTt2jgmS
+
+FlowerShopAssessment Review 
+https://techelevator.zoom.us/rec/share/NeDCeNJUvqoAdHUDQZ7ZJ3jU8wbaEjZvbfOBLUzXRFCpiCspiRfhJ1DeaKtP3VDR.fuyugXx6AzUjMzwm
+
+2-7 DAO pattern
+https://techelevator.zoom.us/rec/share/vt347eJuDT59c4jkk7Yyzi7f8zgnsND58xKRY3qGgWcT4aLFhYwSlx4K-rbKXXO_.xf5xp9Po-I__xqxP
+
+2-8 Integration Testing
+https://techelevator.zoom.us/rec/share/bOocszETQEvuwNAXj9_acJMFLs0HSjK6aFM9GqvjbhmD3gt-s0uc3qXMpcKoDah3.a2olGEnLa-OzFEWU
+
+2-9 Data Security
+https://techelevator.zoom.us/rec/share/hJkFGc4VknthP02S7aaYrFTq2CY4WUYu6TufPl3XZA70OsX_iapeOl38Nsa9faKH.yJSzNUfzmp8UcwwL
+
+2-10 Review -- PUPPIES!
+https://techelevator.zoom.us/rec/share/AtFIIWfIBL04qf56bxuCgVVYNVDayXZJXkVy8xKGsqmMnGHh0Wg1TUfLiU41r9Sc.m20b0orIghXb8luW
+
+2-11 HTTP Client GET
+https://techelevator.zoom.us/rec/share/yCKLzp2skjMSy_99NtdLHn5ZDQgTdV-OB9L1SLq5wkcBkAKDfv-kRKJcsvGfx9rb.SbsRP1ywoVX1HmaP
+
+Bonus Lecture - moving projects to GitHub
+https://drive.google.com/file/d/1ome1cmjVWZnw4xpE6567nfBLuPD2A1_4/view?usp=sharing
+
+2-12 HTTP Client POST, PUT, DELETE
+https://techelevator.zoom.us/rec/share/jav8tb_rCz_vsEf50DES6pRxIKNSVt0t1vH_FYSa7KvtEdizSVewby_xTBEDVOuz.n2L1pDYC8fVnaoHj
+
+Bonus Lecture - Test Driven Development
+https://techelevator.zoom.us/rec/share/oJf-83qCzfUZvzGZipwkwzEYolJ0uVpiHeFQuj99RaYnmdIdyS2n-TM_dv2yL4rz.LONgNrqjGeBsdnAz
+
+2-13 Server APIs Part 1
+https://techelevator.zoom.us/rec/share/I0E3EXtOS4rrBBsVwB-rLBlIL0ftM9NTahFg2XGu-9nKWn3-BweuBCdZLqPLWpTc.WUlT-mLRRSgOyc6R
+
+2-14 Server Side APIs Part 2
+https://techelevator.zoom.us/rec/share/6BPSyZh0OGvkmEHhqLswAt8LDol5c4YJWgptr-qh9xma7EvPYo2w8YtnB1AqAWto.3J-8x4U3dtezd6pf
+
+2-15 Review
+https://techelevator.zoom.us/rec/share/UjWw9hStV0Kt22_hsbIFP9tmriXK0w_sk99KMhMwdRdpKhmMN42WyAZHpEu-cQPi._yH7jnqCoSk5pKG9
+
+2-16 Authentication
+https://techelevator.zoom.us/rec/share/zuM1S432wQalrrBQnpJ-Gb-KU1Glgb_vzClDKnqGDnZ0ugPI9gtY7J5Vdb9qRPDc.i1T30iT5eCH80u2n
+
+2-17 Review
+https://techelevator.zoom.us/rec/share/pObnewop6dnmYVlcr-x5Lg1LYNnkNJC-a3kD-67pTi9yWvrQrpQXT1YwdUof-1Ks.UVtFxXXlw-Ki1HvP
+
+BONUS LECTURE Consuming External APIs with JSON and Jackson
+> https://techelevator.zoom.us/rec/share/k5llwppA-L9IIfJcP_BSt8LgKdH5iTWTXzptIPzqbAkFHt9gNLXfQZobbD5r4Tb5.jsGhcTgESwZd32tO 
+
+Passcode: ^N$w5ne6
+
+2-18 Capstone Kickoff
+https://techelevator.zoom.us/rec/share/jcOksCL7KdS2aSWtDRRPwrgw_mkdOiDclRM8giNjuEcWLhT1jc8jo-ZqWJ1SLA.q9I6857qYcbUdeci
+
+2-18 Capstone Day 2
+https://techelevator.zoom.us/rec/share/nxmzU840-znfF0jah0nAdChmJubKUg4D3TPB5yviQgmIqFsuyL4iSy4qAVO2leE.HjnccqgOjGUSZcUw
+
+2-18 Capstone Day 3
+https://techelevator.zoom.us/rec/share/5aoTIU_BRgoMfWg5vRYDIlF2ZY12btl9QMdVGB3BSSLcbcr7n8cY9MeQKrUMOuGJ.6ZmhvInHokVkWdJg
+
+3-2 CSS Selectors
+https://techelevator.zoom.us/rec/share/c0n_6AGSemwSxEaWzGtzt6owqkczXDhxHhGqComEIwPUOAbG2nyJDXKCtIT5ID2i.6zRUTkrsALUo68ib
+
+3-3 CSS Grid Layout
+https://techelevator.zoom.us/rec/share/t_8Qp1FQ3ZjIjWbxKxjWGoC9XxnGdwyge7Erf8yr3SFGzSe2o8YVBbqd2cUfiV3v.4VYmdmZh6i-VTdMS
+
+3-4 Flexbox
+https://techelevator.zoom.us/rec/share/mxze4w4G3s09WtggZX23GBetuxWmZK-I6UckwmuuNjCGErDV5iWKR47xXCL3VQGb.hx6cn6QiiTX19SLO
+
+3-5 Review
+https://techelevator.zoom.us/rec/share/aoUMt4zlFibV4QKIZo-MTP3q6u4Be6ghjkIWvIdmRssW3l0aw2UJ2PcSS5Jpe0zX.6Pk3sf1_eEALoZ6i
+
+3-6 Intro to JavaScript
+https://techelevator.zoom.us/rec/share/ERJhQIEhqKgY0qP1jyfD39m2rYCHbX2x7q8g3ISStr1hwh5zo_rsiTtpOeXsGhVj.J1AsXpeuRo_b9GcN
+
+3-7 JavaScript Functions
+https://techelevator.zoom.us/rec/share/WLLx5liYVrdGtz-2VocbyVTAVOX_nO6WWKk1ikHWva4toKZFgKR8RghkNCJfMI9i.-HvQ2H0mEeti-nkX
+
+Ugly website contest
+https://techelevator.zoom.us/rec/share/aD4Oiw4tEGZewWjI_Tuk4maP-jq3AXawwyAp_7buuyiuvsw8IrVYPYg9NXUSbDxe.4Y3GvwscZFspeRlP
+
+3-8 The DOM
+https://techelevator.zoom.us/rec/share/UbTH-wKDRffCYTD3Mu2WJhtrBt5ouZRX7-mOsPkrzq2vrESMWJuDGExnue-e_1XQ.0SbLGk5sKwCS06uo
+
+3-9 Event Handling
+https://techelevator.zoom.us/rec/share/6MYd9UkXuJYPBjpottm1Tuf3LNRqoULHNNAfnlV2yrgIu0wVgFCR4ITjxS9JwFwP.r9I8fKD4W2PAMazx
+
+3-10 Review
+https://techelevator.zoom.us/rec/share/H0t0haFvBxU0h-_7AjXH70PN4HkQ4S7YNQ9FG7ecGk9oeYJBDXCRVsYenO2IJVg.W37N9XVs3oMtlKf_
+
+3-11 Intro to Vue
+https://techelevator.zoom.us/rec/share/Dat4_eqJfM-iwE7FYQvMMmxcLRUlzsZLw9s7Y1cBLQ4pxXAsuuAtwJM4st_iZZ5t.0-oSltFoampxJok_
+
+Bonus Lecture - Consuming APIs with Vanilla JS
+https://techelevator.zoom.us/rec/share/N3PkKDK0tOYy8sb3hwFy2UK7XxSaTxdEr0D9kWQZfLddlTULYg-FEli3clAplcVe.1h7_EDKcbXmBpYym
+
+3-12 Vue Event Handling
+https://techelevator.zoom.us/rec/share/2dnu1XrglQJdZ-6tEMFOcopuANQQjAHnefOH4cCcUYejh8BuB90uVGfxDJRJAPY.f4seDjGch8Ot9-IE
+
+3-13 Vue Component Communication
+https://techelevator.zoom.us/rec/share/-Y_mGxZOtjr3fx9HL2SZ0XkyM3Tv7PgfHV6h1JUS56UQW8yvLCFAxWVo69yXRQ39.OSl1ub_aAZCQlQRQ
+
+3-14 Review of Vue
+https://techelevator.zoom.us/rec/share/W1iYCb9Dh3I68wRLdrvsxnVwSGnbEi6w3fvmn6CoCJnuMmdqkcSrlEuBXEg3ckf5.9-L2nHVTmzVN5Zaq
+
+3-15 Vue Routing
+https://techelevator.zoom.us/rec/share/RC2FPSen9t-jQF_zxQfQcUBNjX2DSHRZDYVoCHXNzpUW_OKLF3xHMpaI1LOKK2bX.dNrLeQV1FVgEo0TG
+
+3-15 Vue Routing part 2
+https://techelevator.zoom.us/rec/share/4DPtmK7b91YolBw1NKEXFp7U3RCopmAlfhyuLUkx9nWcRQm_y6xnxZE0M2mwRO_Q.j4z8I-o7_w6NM1yV
+
+3-16 Web Services GET
+https://techelevator.zoom.us/rec/share/MwnvFNsP-PodnsbkbVgJSIQ9pVRGrbKOy6tPv4olf4gty6t3gqFUKXl2xSBUjoZ2.b8mHLVrrLHoBOIEh
+
+3-17 Web Service POST
+https://techelevator.zoom.us/rec/share/g13ussj0qPjbmyDvtF_YUcLImtiIL9i5zliZc2Coi5a15-zFSeTs4adL_cIT4Gcu.g50t_n3u5fVU9Bxt
+
+3-18 Final Review
+https://techelevator.zoom.us/rec/share/jqA2Jc20o4zZzCO3FUNZn8jQsinBcibK8ioaAgkvd7Gu28B5jQ18END8r_h-WSkH.tJhDCBF9RVyns9GV

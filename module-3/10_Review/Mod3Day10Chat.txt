@@ -1,0 +1,120 @@
+09:10:19 From  Daniel Blackman (He/Him)  to  Everyone:
+	If a tree falls in a forest, and there's no event listener, it's still an event
+09:10:28 From  Dan Schnelzer  to  Everyone:
+	hahahaha
+09:16:12 From  David Siebold  to  Everyone:
+	You made a passing mention of blur in lecture. That's what I remembered it from.
+09:16:23 From  Ryan Goodchild  to  Everyone:
+	Same
+09:16:25 From  Daniel Blackman (He/Him)  to  Everyone:
+	same
+09:20:50 From  Levi Wolfe  to  Everyone:
+	I just remembered Tyler mentioning it for some reason haha so thanks Tyler
+09:28:13 From  Daniel Blackman (He/Him)  to  Everyone:
+	it adds the class to hide it?
+09:47:36 From  Sam Stauffer  to  Everyone:
+	Based on my expert webmaking devices, this looks fine.
+09:47:54 From  Dan Schnelzer  to  Everyone:
+	sams site would do it like this
+09:49:51 From  Daniel Blackman (He/Him)  to  Everyone:
+	would you push it to the back of the array?
+09:51:36 From  Rigel Richardson  to  Everyone:
+	the display order is related to where the elements are appended/injected into the DOM, but push/unshift adds it to the array in the order you expect.
+09:57:08 From  Daniel Blackman (He/Him)  to  Everyone:
+	alt arrow
+10:02:22 From  David Siebold  to  Everyone:
+	Isn't that the worst, Rebecca? I'm glad Margaret didn't catch me yesterday when I zoned out for 30 minutes trying to make my button animate away from the cursor instead of display the date. :)
+10:02:50 From  Rebecca Palmore  to  Everyone:
+	Got to own up to it!
+10:03:04 From  David Siebold  to  Everyone:
+	Spoilers: it still doesn't quite work. I had to close everything I had open so that I could focus on class again.
+10:13:07 From  David Siebold  to  Everyone:
+	Hey! We solved it the same way. :)
+10:14:28 From  Daniel Blackman (He/Him)  to  Everyone:
+	could you reverse the logic to set it as a condition inside one loop? instead of making two?
+10:39:42 From  Daniel Blackman (He/Him)  to  Everyone:
+	the range or operands?
+10:39:47 From  Daniel Blackman (He/Him)  to  Everyone:
+	*of
+10:40:49 From  Alida Smith  to  Everyone:
+	I remember NOTHING this morning!
+10:41:11 From  Ryan Goodchild  to  Everyone:
+	Ahh yes, Jobappnesia
+10:41:29 From  Alida Smith  to  Everyone:
+	I only remember the principles of OOP
+10:43:52 From  Daniel Blackman (He/Him)  to  Everyone:
+	could you set the range deliberately low then add a one to the result?
+10:44:22 From  Tyler Moloney  to  Everyone:
+	I did a quick google and he is :)
+10:44:41 From  Rebecca Palmore  to  Everyone:
+	If we did Math.ceil we’d get 1 as our min I think.
+10:45:00 From  Ryan Goodchild  to  Everyone:
+	^
+10:48:55 From  Nick Schultz (he/him)  to  Everyone:
+	Oh thank goodness
+10:49:22 From  Rebecca Palmore  to  Everyone:
+	Super cool
+10:49:35 From  David Siebold  to  Everyone:
+	I still find it super cool when it works.
+10:50:06 From  David Siebold  to  Everyone:
+	I see now that I said super cool right after Rebecca said it. That wasn't very super cool of me.
+10:50:37 From  Rebecca Palmore  to  Everyone:
+	LOL
+10:51:50 From  Tyler Moloney  to  Everyone:
+	I would simply make these kids type the correct answer :)
+10:59:54 From  Gabe Humphreys  to  Everyone:
+	"off by one" strikes again
+11:03:51 From  Tyler Moloney  to  Everyone:
+	anyone else have console errors?
+11:04:03 From  Tyler Moloney  to  Everyone:
+	>Cannot read properties of undefined (reading 'left')
+11:04:30 From  Rigel Richardson  to  Everyone:
+	That's what happened when I tried to do math inside the object instead of separately like Margaret did (for the answer value
+11:07:08 From  Tyler Moloney  to  Everyone:
+	hmm, I pulled my math out
+11:07:36 From  Tyler Moloney  to  Everyone:
+	ah, the line its throwing it at here is our new const problem line
+11:12:20 From  Tyler Moloney  to  Everyone:
+	looks like a syntax issue or something with currentProblem -1
+11:12:31 From  Tyler Moloney  to  Everyone:
+	if I hardcode problemSet[0] it works
+11:16:27 From  Tyler Moloney  to  Everyone:
+	mine worked though
+11:27:39 From  Daniel Blackman (He/Him)  to  Everyone:
+	would you set the highest range as the highest possible result of the multiplications?
+11:27:48 From  Daniel Blackman (He/Him)  to  Everyone:
+	like 81 as the highest?
+11:28:14 From  Tyler Moloney  to  Everyone:
+	^
+11:28:24 From  Tyler Moloney  to  Everyone:
+	or 82
+11:28:32 From  Daniel Blackman (He/Him)  to  Everyone:
+	oh right! one over
+11:29:35 From  Rebecca Palmore  to  Everyone:
+	Anxious? Worried?
+11:29:44 From  Daniel Blackman (He/Him)  to  Everyone:
+	purple?
+11:29:47 From  Rebecca Palmore  to  Everyone:
+	There are a host of possibilities!
+11:36:40 From  Ryan Goodchild  to  Everyone:
+	Yes!  Would have taken up a lot of precious job hunt time.  Thank you
+11:36:51 From  Levi Wolfe  to  Everyone:
+	haha yeah!
+11:37:04 From  Levi Wolfe  to  Everyone:
+	And I got a wedding at 3 pm! haha
+11:54:59 From  Daniel Blackman (He/Him)  to  Everyone:
+	theoretically the correct answer can display more than once, can't it?
+11:55:07 From  Tyler Moloney  to  Everyone:
+	yep
+11:56:22 From  Daniel Blackman (He/Him)  to  Everyone:
+	the program should handle it though if it's checking the values tho
+11:56:35 From  Tyler Moloney  to  Everyone:
+	oh true
+11:57:33 From  Sam Stauffer  to  Everyone:
+	This would have been half a nightmare doing as a pair.
+11:58:24 From  Sam Stauffer  to  Everyone:
+	The DOM sends his regards.
+11:59:40 From  Ryan Goodchild  to  Everyone:
+	Sam will be the judge
+11:59:45 From  Ryan Goodchild  to  Everyone:
+	Bias towards green +1

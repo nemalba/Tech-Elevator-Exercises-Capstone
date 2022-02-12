@@ -1,0 +1,46 @@
+09:02:59 From David Siebold (He/Him) To Everyone:
+	I choose to believe that's a commentary on the quality of our instructor.
+09:03:05 From Rigel Richardson To Everyone:
+	Agreed!
+09:03:07 From Ryan Goodchild To Everyone:
+	^^
+09:03:12 From Levi Wolfe To Everyone:
+	👏
+09:03:19 From Rebecca Palmore To Everyone:
+	Here, here!
+09:03:42 From Gabe Humphreys To Everyone:
+	Agreed!
+09:03:42 From Ashley Hoffmann To Everyone:
+	For sure!!
+09:11:10 From Levi Wolfe To Everyone:
+	I thought the reading from yesterdays lecture did a good job of describing and giving examples of that too
+09:11:29 From Rebecca Palmore To Everyone:
+	The bookstore videos are really helpful too.
+09:28:35 From Sam Stauffer To Everyone:
+	what if I told you, I have a Google maps.
+09:41:21 From Dan Schnelzer To Everyone:
+	never used a switch statement yet, but I already love it
+10:00:50 From Tyler Moloney To Everyone:
+	I think that's right Dan
+10:00:51 From Ryan Goodchild To Everyone:
+	I wonder if it just means multiple rather than up and down?
+10:01:01 From Levi Wolfe To Everyone:
+	dan is right
+10:01:07 From Levi Wolfe To Everyone:
+	if you comment it out in sellable it goes to just one arrow
+10:09:27 From Gabe Humphreys To Everyone:
+	off-by-one error crops up again
+10:42:46 From Rigel Richardson To Everyone:
+	'final Class' by The Mountain Goats
+11:05:39 From Gabe Humphreys To Everyone:
+	love the Mt. Goats
+11:09:10 From Sam Stauffer To Everyone:
+	10 pushups.
+11:10:15 From Rebecca Palmore To Everyone:
+	I’ll do that tomorrow if you remind me.
+11:34:29 From Daniel Blackman (He/Him) To Everyone:
+	does it need to be pushed to the upstream main?
+11:34:39 From Daniel Blackman (He/Him) To Everyone:
+	not origin?
+11:39:56 From Rigel Richardson To Everyone:
+	thankful for no spherical walls

@@ -1,0 +1,12 @@
+<table class="table table-hover table-striped">
+  <tbody>
+    <tr>
+      <th>Order</th>
+      <th>Title</th>
+    </tr>
+    <tr *ngFor="let movie of movies">
+      <td>{{movie.order}}</td>
+      <td>{{movie.title}}</td>
+    </tr>
+  </tbody>
+</table>

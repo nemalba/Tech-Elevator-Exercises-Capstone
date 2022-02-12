@@ -1,0 +1,70 @@
+08:59:16 From  David Siebold  to  Everyone:
+	I never realized teaching was such a high-stakes, life or death career!
+09:03:43 From  Emily Marshall  to  Everyone:
+	This is so Important for me to hear
+09:05:19 From  Levi Wolfe  to  Everyone:
+	just going to start @autowiring things in my daily life and see if its as magical as it is in Java
+09:06:22 From  Sam Stauffer  to  Everyone:
+	I also want to mention, as a teacher, I can say, the kids that  asked questions were usually the ones who were doing well in class.  For some reason, when we are failing, a lot of us choose not to ask or seek help.  Reach out, ask, I promise people will want to help.
+09:38:46 From  Rigel Richardson  to  Everyone:
+	This was definitely a perfect example of what Gregor mentioned: That there are so many solutions but we need the one that passes the test for exercise purposes. 😁
+09:39:03 From  Rigel Richardson  to  Everyone:
+	had like four working links before Margaret helped!
+09:39:30 From  Sam Stauffer  to  Everyone:
+	I hear there is a coda.
+09:40:43 From  David Siebold  to  Everyone:
+	Is there a mailing list I can sign up to to continue receiving memes and puns from Margaret each day after I finish TE?
+09:41:03 From  Levi Wolfe  to  Everyone:
+	haha David I AGREE!
+09:41:16 From  Rebecca Palmore  to  Everyone:
+	That should have been a capstone project idea
+09:41:58 From  Daniel Blackman (He/Him)  to  Everyone:
+	There's always the dad joke generator in Sococo
+09:43:18 From  Sam Stauffer  to  Everyone:
+	promises are made to be broken.
+09:51:54 From  Gabe Humphreys  to  Everyone:
+	C-MUD, similar to CRUD
+10:01:59 From  Sam Stauffer  to  Everyone:
+	Dan did you make this slide with "doggo"?
+10:03:34 From  Dan Schnelzer  to  Everyone:
+	actually made it  Danno but they changed it
+10:16:40 From  Sam Stauffer  to  Everyone:
+	Was that ready player One?
+10:17:28 From  Rigel Richardson  to  Everyone:
+	It looked like that marvel movie with the thumb guy
+10:17:46 From  Levi Wolfe  to  Everyone:
+	haha thanos. the guy with the same chin as those new nikes
+10:17:46 From  Rigel Richardson  to  Everyone:
+	(which I know the name of, but did not watch lol)
+10:17:53 From  Sam Stauffer  to  Everyone:
+	ah.  Can say, haven't seen much Marvel.
+10:36:10 From  Rebecca Palmore  to  Everyone:
+	We need a schema like we had with PostgreSQL
+10:38:12 From  Emily Marshall  to  Everyone:
+	YES! I need visuals
+10:53:26 From  Rebecca Palmore  to  Everyone:
+	Can’t we do this part by visiting localhost:3000/boards in our browser?
+10:53:48 From  Alida Smith  to  Everyone:
+	^
+10:54:55 From  Rigel Richardson  to  Everyone:
+	You can. But I like the postman colors and column lines for keeping track of pieces mentally
+11:25:26 From  Gabe Humphreys  to  Everyone:
+	"Speak friend, and enter"
+11:25:27 From  Dan Schnelzer  to  Everyone:
+	code like 2 days ago
+11:25:31 From  Emily Marshall  to  Everyone:
+	so relatable
+11:25:38 From  Alida Smith  to  Everyone:
+	Not Elvish! lmao
+11:26:11 From  Sam Stauffer  to  Everyone:
+	What was I thinking?  Why did I write this?  - me every day.
+11:26:24 From  Dan Schnelzer  to  Everyone:
+	haha
+11:26:39 From  Gabe Humphreys  to  Everyone:
+	"I have no memory of this place"
+11:26:42 From  Alida Smith  to  Everyone:
+	Hold one. give me a min. let me try to figure out what I meant.
+11:26:45 From  Alida Smith  to  Everyone:
+	on*
+11:26:49 From  Levi Wolfe  to  Everyone:
+	I love being impressed with myself with something that made sense to me the night before but doesn't currently

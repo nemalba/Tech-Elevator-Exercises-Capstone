@@ -1,0 +1,144 @@
+08:55:45 From  David Siebold  to  Everyone:
+	Morning Margaret!
+08:57:43 From  Margaret Green (she/her)  to  Everyone:
+	Good morning, David!!!
+08:59:04 From  David Siebold  to  Everyone:
+	You're going to have a full load today, then!
+09:00:53 From  Levi Wolfe  to  Everyone:
+	I thought it was at 6 and I missed it!
+09:01:57 From  Rebecca Palmore  to  Everyone:
+	It was great to be able to talk with alumni about interviews, job-finding process.
+09:06:50 From  Rigel Richardson  to  Everyone:
+	Gabe commented on a piece of advice that I liked too - someone said, save the applications for the companies you really like and the jobs you want for a bit, until you've had more interviews, conversations, and application experience. That way you are even more prepared for those opportunities.
+09:07:57 From  Rigel Richardson  to  Everyone:
+	Someone else said they're still receiving rejections from applications they submitted in September
+09:09:14 From  Rebecca Palmore  to  Everyone:
+	There is a fine line between checking in and being a pain in the butt.
+09:09:29 From  Rebecca Palmore  to  Everyone:
+	(As someone who used to hire people.)
+09:10:15 From  David Siebold  to  Everyone:
+	Completely agree, Rebecca. Gotta toe that line carefully.
+09:10:43 From  Rigel Richardson  to  Everyone:
+	Another great rec: if you're still searching post graduation, repeat builds of full-stack applications from scratch to retain your knowledge and become more comfortable with all aspects.
+09:10:48 From  Rebecca Palmore  to  Everyone:
+	That said, sometimes the squeaky wheel gets the grease! Again: fine line.
+09:11:30 From  Alida Smith  to  Everyone:
+	Yea... Jon ended up at JP and it took him 4 months.
+09:14:42 From  Rebecca Palmore  to  Everyone:
+	Sam was busy creating his masterpiece.
+09:14:46 From  David Siebold  to  Everyone:
+	In my defense, I was speed running the quiz due to poor memory. :)
+09:20:31 From  Dan Schnelzer  to  Everyone:
+	I was thinking about you yesterday Gabe when I got to these questions.. missed 1 and was just like, this aint right haha
+09:22:41 From  Gabe Humphreys  to  Everyone:
+	🤣
+09:22:44 From  Sam Stauffer  to  Everyone:
+	anyone bold enough to answer the true answer on 6?  B?
+09:22:56 From  Rebecca Palmore  to  Everyone:
+	Yup
+09:25:13 From  Alida Smith  to  Everyone:
+	CONGRATS SAM!!!!!!!!!!!!!!!!!!!!!!!!!!
+09:25:14 From  Dan Schnelzer  to  Everyone:
+	yeahhhhh boi!!
+09:25:41 From  Sam Stauffer  to  Everyone:
+	honestly, it's a wonder, the other websites were at least close to functional and ugly as can be!
+09:25:42 From  Alida Smith  to  Everyone:
+	I'm going to need to see a screenshot!
+09:26:11 From  Sam Stauffer  to  Everyone:
+	Go check them out in the Slack general chat!
+09:26:13 From  Rigel Richardson  to  Everyone:
+	https://techelevatorstudents.slack.com/archives/C02FD1V8V2M/p1641937928071800
+09:26:28 From  Alida Smith  to  Everyone:
+	👍🏼
+09:27:24 From  Dan Schnelzer  to  Everyone:
+	wasn't all the questions enough challenge?
+09:28:44 From  David Siebold  to  Everyone:
+	And it's just as much fun as it sounds like... @_@
+09:38:40 From  David Siebold  to  Everyone:
+	It took me looking at the test to realize that they wanted each address to be a single string in that array, rather than simply getting the strings from the object properties and putting that in an array.
+09:39:03 From  Daniel Blackman (He/Him)  to  Everyone:
+	^same
+09:42:45 From  Daniel Blackman (He/Him)  to  Everyone:
+	did you return the array at the end?
+09:45:41 From  Emily Marshall  to  Everyone:
+	Did I? no
+09:46:13 From  Rigel Richardson  to  Everyone:
+	Emily's return returns the mapping directly instead of storing it first
+09:46:28 From  Daniel Blackman (He/Him)  to  Everyone:
+	no no, I was looking away from the share when Margaret added the return for the array at the end - 😅
+09:46:43 From  Rigel Richardson  to  Everyone:
+	oh! Yes. She did!
+09:47:46 From  David Siebold  to  Everyone:
+	I feel like this would have been a lot more comfortable but it told me to use reduce!
+10:14:51 From  John Matthews  to  Everyone:
+	Florida?
+10:20:35 From  Sam Stauffer  to  Everyone:
+	I should inspect my ugly webpage.
+10:20:59 From  Rebecca Palmore  to  Everyone:
+	Use the buddy system, Sam.
+10:21:31 From  Sam Stauffer  to  Everyone:
+	I don't know if I want to put anyone else at risk when I do.
+10:22:35 From  David Siebold  to  Everyone:
+	*scene opens with Sam in a hazmat suit, ready to inspect his ugly webpage*
+10:22:52 From  Sam Stauffer  to  Everyone:
+	The stranger things theme is playing in the background.
+10:23:30 From  Alida Smith  to  Everyone:
+	Sam I wasn't ready for your site!!! lol
+10:23:50 From  David Siebold  to  Everyone:
+	The WORLD wasn't ready for that site, Alida.
+10:24:15 From  Nema Aragones  to  Everyone:
+	can we see it at the end of the class?
+10:24:45 From  Sam Stauffer  to  Everyone:
+	With Margaret's blessing, I don't mind showcasing it again.
+10:27:18 From  David Siebold  to  Everyone:
+	Wait until you watch a corgi chase the tail it doesn't have.
+10:28:42 From  Sam Stauffer  to  Everyone:
+	I had to find out if wolves chased their tail.  Fun fact, the pups do (and rarely adults).
+10:42:32 From  Sam Stauffer  to  Everyone:
+	Dr. Evil found out about innerHTML after waking up and want 1 MILLION dollars/
+11:20:49 From  Levi Wolfe  to  Everyone:
+	All foos are bars until youre foobar'd
+11:21:35 From  Sam Stauffer  to  Everyone:
+	I still don't get why foobar is all over code exercises and guides.  FUBAR is, as far as I know, a military acronym.
+11:22:14 From  Levi Wolfe  to  Everyone:
+	haha and not a very kosher acronym
+11:24:06 From  Rigel Richardson  to  Everyone:
+	It originated in the 70's
+11:24:10 From  Rigel Richardson  to  Everyone:
+	for coding
+11:25:32 From  Rigel Richardson  to  Everyone:
+	looks like it did come from the military term, but not because it it's meaning really
+11:31:33 From  Rigel Richardson  to  Everyone:
+	'the word 'foo' itself had an immediate prewar history in comic strips and cartoons. In the 1938 Warner Brothers cartoon directed by Robert Clampett, "The Daffy Doc", a very early version of Daffy Duck holds up a sign saying "SILENCE IS FOO!"'		theories suggest the existence of the military term helped popularize the pairing, but all kinds of tech groups had different sets of words (metasyntactic variables)		Intel used Foo (and maybe Bar) in their 70's documentation, so they might have contributed to the prevalence too.
+12:00:54 From  Rebecca Palmore  to  Everyone:
+	Mine was super basic!
+12:01:05 From  Rigel Richardson  to  Everyone:
+	mine was just 'bright'
+12:01:05 From  Rebecca Palmore  to  Everyone:
+	Rigel’s was fantabulous!
+12:01:52 From  Tyler Moloney  to  Everyone:
+	its ~artistic~
+12:01:58 From  Rigel Richardson  to  Everyone:
+	someone joked that Rebecca should use it as part of an application for a back end developer. 😁
+12:02:05 From  Emily Marshall  to  Everyone:
+	Love how difficult it is to read your name
+12:02:56 From  Tyler Moloney  to  Everyone:
+	autoplay was a mainstay
+12:05:01 From  David Siebold  to  Everyone:
+	This is truly inspired.
+12:05:12 From  Levi Wolfe  to  Everyone:
+	hahahaha YES
+12:05:46 From  Nema Aragones  to  Everyone:
+	Sam YOU are really the "UGLY Website Ruler of the Universe!"
+12:06:03 From  Alida Smith  to  Everyone:
+	How long did this take???????????
+12:07:06 From  Tyler Moloney  to  Everyone:
+	beautiful
+12:07:11 From  Dan Schnelzer  to  Everyone:
+	hahahah great job Sammo
+12:07:52 From  Alida Smith  to  Everyone:
+	Sam future generations will study your ugly site! lol
+12:08:37 From  Sam Stauffer (He/Him)  to  Everyone:
+	4 hours?
+12:08:38 From  Sam Stauffer (He/Him)  to  Everyone:
+	5?

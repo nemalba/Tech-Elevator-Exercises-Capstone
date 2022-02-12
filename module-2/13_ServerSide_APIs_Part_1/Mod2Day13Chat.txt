@@ -1,0 +1,44 @@
+09:13:27 From Rebecca Palmore To Everyone:
+	I really wanted it to be A.
+09:26:37 From Alida Smith To Everyone:
+	It folks are so ornery!
+09:29:16 From Sam Stauffer To Everyone:
+	get all the money for a kitten!
+09:40:33 From Sam Stauffer To Everyone:
+	and the reading kept talking about todo.
+09:40:43 From Rebecca Palmore To Everyone:
+	hahaha
+09:40:58 From Sam Stauffer To Everyone:
+	it's all the Wizard of Oz!
+10:18:54 From Gabe Humphreys To Everyone:
+	Am I right that limited vs delimited is like flammable vs inflammable?
+10:19:56 From Rigel Richardson To Everyone:
+	not quite. Delimiters do limit - they mark boundaries.		But they're not natural limits unless interpretted
+10:21:40 From Rigel Richardson To Everyone:
+	I've only seen 'limited' use to define restrictions in a Java context (limited character length, etc.)
+10:31:26 From Rigel Richardson To Everyone:
+	Another thought on the differences, sparked by Margaret's '?' note: 		Nearly any character sequence can be a delimiter for functions that utilize RegEx, but we have some conventional standardized delimiters and delimiting practices so we can expect specific formats. (e.g. CSV files, : in JSON, white spaces, '?', etc.)
+10:40:10 From Alida Smith To Everyone:
+	Margaret is all of us when we start a screen share
+10:40:26 From Alida Smith To Everyone:
+	nothing works!
+10:48:46 From Daniel Blackman (He/Him) To Everyone:
+	mine too
+10:48:50 From Tyler Moloney To Everyone:
+	same here
+10:48:57 From Dan Schnelzer To Everyone:
+	yup
+11:30:01 From Daniel Blackman (He/Him) To Everyone:
+	reservation.getHotelID
+11:41:41 From Sam Stauffer To Everyone:
+	none of us have ever gotten confused as to what we were doing.
+11:45:17 From Rigel Richardson To Everyone:
+	one of the Advent of Code problems taught me about the concurrent iteration-modification issue!
+11:52:01 From Tyler Moloney To Everyone:
+	I had the same, its because it doesn't match exactly with our method language if you throw a regular // comment ahead of it, it'll go away
+11:52:08 From Rebecca Palmore To Everyone:
+	I came across that in CodeWars @Rigel!
+11:52:14 From Ryan Goodchild To Everyone:
+	Emily, maybe its the return type at the top of the method returning a list of Hotels rather than Reservations?
+11:55:22 From Emily Marshall To Everyone:
+	Yup! That was it, Ryan. Thanks!

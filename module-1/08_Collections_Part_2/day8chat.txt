@@ -1,0 +1,44 @@
+09:37:30 From  David Siebold (He/Him)  to  Everyone:
+	I knew I had that one in my notes and it's killing me that I couldn't find it in time.
+09:37:41 From  Rigel Richardson  to  Everyone:
+	same!!
+09:40:42 From  Levi Wolfe  to  Everyone:
+	So this is just like a dictionary in Python?
+09:41:42 From  Sam Stauffer  to  Everyone:
+	that is what I wondered as well.  Seems very similar.
+09:56:00 From  Ryan Goodchild  to  Everyone:
+	Like Parsing it?
+09:58:18 From  Rigel Richardson  to  Everyone:
+	Sam: we're declaring a String var to store the result from reservations.get, so we can use it in some way
+10:00:07 From  Sam Stauffer  to  Everyone:
+	I was curious for when I inevitably forget during the homework that we have instead of .contains method and try to Boolean the .get!
+10:00:21 From  Rigel Richardson  to  Everyone:
+	:)
+10:01:56 From  Rigel Richardson  to  Everyone:
+	you could definitely do something verbose like:		Boolean name = (hashMapName.get(keyVal) == comparison);  // T/F: is the value paired with this key a value I'm looking for
+10:02:59 From  Rigel Richardson  to  Everyone:
+	specific key-val comparison, while mapName.contains(); says it's in there at least once, somewhere
+10:05:37 From  Levi Wolfe  to  Everyone:
+	I was gonna say, I don't remember using entry sets last night haha
+10:05:46 From  Sam Stauffer  to  Everyone:
+	yes I also thought of:		If (hashMapName.get(keyValue)){	return true;	}		I think that'd work... hahaha.
+10:05:55 From  Sam Stauffer  to  Everyone:
+	oh and yea, I think it was in the tutorial.
+10:11:38 From  Rigel Richardson  to  Everyone:
+	I'm having trouble finding a good explanation, and obvs might be wrong, but I don't think that would work because if there is no Key, that method returns null, and I don't think null is strictly equivalent to false.
+10:12:19 From  Margaret Green (she/her)  to  Everyone:
+	Rigel you are correct that null is not strictly equivalent to false...
+10:12:38 From  Tyler Moloney  to  Everyone:
+	Sam, what's the benefit of doing something like that versus using containsKey or containsValue which already return Booleans?
+10:13:10 From  Tyler Moloney  to  Everyone:
+	or, what's the use case* rather
+10:17:04 From  Sam Stauffer  to  Everyone:
+	There is no reason.  IN fact, it is the opposite of worthwhile, it was just something I wondered about.
+10:18:59 From  Rigel Richardson  to  Everyone:
+	Always good to be curious and think through conditions that might not be useful!
+10:21:47 From  Tyler Moloney  to  Everyone:
+	for sure! was just wondering what you might have been trying to solve for
+10:22:37 From  Sam Stauffer  to  Everyone:
+	exactly what the .containtsKey does for us already 😂
+10:34:46 From  Tyler Moloney  to  Everyone:
+	+1

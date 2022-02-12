@@ -1,0 +1,14 @@
+main {
+    display: flex;
+    
+}
+
+
+.red {
+    flex-grow: 5; /*When there's extra space, grow to take up 5x more space than other items */
+    /*flex-basis: 50%; /*Before dividing up extra space, take up 50% of the space */
+}
+
+.blue {
+    flex-grow: 5; /*When there's extra space, grow take up 5x more space than other items*/
+}
